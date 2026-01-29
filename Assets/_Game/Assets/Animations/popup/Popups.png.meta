@@ -1,0 +1,2002 @@
+fileFormatVersion: 2
+guid: b5cd2725057b9e94eb86d43f393864c5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3458025445539457052
+    second: Popups_0
+  - first:
+      213: 5916661104775053411
+    second: Popups_1
+  - first:
+      213: -2409086692779420982
+    second: Popups_2
+  - first:
+      213: 4716619635700179466
+    second: Popups_3
+  - first:
+      213: 8586952027448560078
+    second: Popups_4
+  - first:
+      213: 1394460103356220130
+    second: Popups_5
+  - first:
+      213: -2976287011089843371
+    second: Popups_6
+  - first:
+      213: -5159057385175396112
+    second: Popups_7
+  - first:
+      213: 1610178835898537665
+    second: Popups_8
+  - first:
+      213: 2280504291946446458
+    second: Popups_9
+  - first:
+      213: -5391852758628166629
+    second: Popups_10
+  - first:
+      213: 6336971891515792724
+    second: Popups_11
+  - first:
+      213: -5367826450119894004
+    second: Popups_12
+  - first:
+      213: 8588711827436608700
+    second: Popups_13
+  - first:
+      213: -6050837804782129248
+    second: Popups_14
+  - first:
+      213: 8679824995131316390
+    second: Popups_15
+  - first:
+      213: -2980100452292056949
+    second: Popups_16
+  - first:
+      213: 7019523791898177891
+    second: Popups_17
+  - first:
+      213: -8327374862445672399
+    second: Popups_18
+  - first:
+      213: -5722584609739968422
+    second: Popups_19
+  - first:
+      213: -1293784690611822869
+    second: Popups_20
+  - first:
+      213: 2946978963297596024
+    second: Popups_21
+  - first:
+      213: -9114467278161530452
+    second: Popups_22
+  - first:
+      213: 7881515433411394816
+    second: Popups_23
+  - first:
+      213: 1589633076543142187
+    second: Popups_24
+  - first:
+      213: 4293330049097594279
+    second: Popups_25
+  - first:
+      213: -769248444764438154
+    second: Popups_26
+  - first:
+      213: -6862234818952548504
+    second: Popups_27
+  - first:
+      213: 3234813737911111451
+    second: Popups_28
+  - first:
+      213: -7242082023370059769
+    second: Popups_29
+  - first:
+      213: 826234643537703257
+    second: Popups_30
+  - first:
+      213: 6978904878234729883
+    second: Popups_31
+  - first:
+      213: 3307628479650883877
+    second: Popups_32
+  - first:
+      213: -7342531003550590106
+    second: Popups_33
+  - first:
+      213: -6574095223045554296
+    second: Popups_34
+  - first:
+      213: -1905818929794671717
+    second: Popups_35
+  - first:
+      213: 7949075976036676887
+    second: Popups_36
+  - first:
+      213: 6177865565705125863
+    second: Popups_37
+  - first:
+      213: 7575087200271392174
+    second: Popups_38
+  - first:
+      213: 440634858252858862
+    second: Popups_39
+  - first:
+      213: 2320213741409570185
+    second: Popups_40
+  - first:
+      213: 6672805980107910689
+    second: Popups_41
+  - first:
+      213: 756495479981806844
+    second: Popups_42
+  - first:
+      213: -3325714936443166500
+    second: Popups_43
+  - first:
+      213: -7453683528871688944
+    second: Popups_44
+  - first:
+      213: 5805644699934456787
+    second: Popups_45
+  - first:
+      213: -931537516946156204
+    second: Popups_46
+  - first:
+      213: 4185968402482935990
+    second: Popups_47
+  - first:
+      213: -3514445987503922776
+    second: Popups_48
+  - first:
+      213: 3243463323607156895
+    second: Popups_49
+  - first:
+      213: -178333957082067096
+    second: Popups_50
+  - first:
+      213: 715980521311940613
+    second: Popups_51
+  - first:
+      213: 5275754017866414054
+    second: Popups_52
+  - first:
+      213: -1208424929908275964
+    second: Popups_53
+  - first:
+      213: -4641405009844979897
+    second: Popups_54
+  - first:
+      213: 2249825733207991572
+    second: Popups_55
+  - first:
+      213: 4147989874866852333
+    second: Popups_56
+  - first:
+      213: -5064787485597088397
+    second: Popups_57
+  - first:
+      213: -974977680378124088
+    second: Popups_58
+  - first:
+      213: 1600364122265066594
+    second: Popups_59
+  - first:
+      213: -7648296414925548439
+    second: Popups_60
+  - first:
+      213: 6962274349078289685
+    second: Popups_61
+  - first:
+      213: -2856307635041100731
+    second: Popups_62
+  - first:
+      213: -6082290287262717836
+    second: Popups_63
+  - first:
+      213: -1732722635936458689
+    second: Popups_64
+  - first:
+      213: -6549813962170110932
+    second: Popups_65
+  - first:
+      213: -5086139800078285586
+    second: Popups_66
+  - first:
+      213: 2166082826993880688
+    second: Popups_67
+  - first:
+      213: -311862427482888063
+    second: Popups_68
+  - first:
+      213: 7939985728140583183
+    second: Popups_69
+  - first:
+      213: -5695444321499554722
+    second: Popups_70
+  - first:
+      213: 3192780191174612408
+    second: Popups_71
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Popups_0
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 780
+        width: 28
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1824a142df5dff20800000000000000
+      internalID: 3458025445539457052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_1
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 645
+        width: 281
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360cc7e4de33c1250800000000000000
+      internalID: 5916661104775053411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_2
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 896
+        width: 33
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac213c3ba64319ed0800000000000000
+      internalID: -2409086692779420982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_3
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 857
+        width: 94
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02aa86a19cc47140800000000000000
+      internalID: 4716619635700179466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_4
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 898
+        width: 30
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec944639f5bfa2770800000000000000
+      internalID: 8586952027448560078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_5
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 858
+        width: 94
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2800a631e1a5310800000000000000
+      internalID: 1394460103356220130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_6
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 768
+        width: 224
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b71628bba12b6d0800000000000000
+      internalID: -2976287011089843371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_7
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 782
+        width: 32
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0d3cc54a85768b0800000000000000
+      internalID: -5159057385175396112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_8
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 843
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c69592ce11885610800000000000000
+      internalID: 1610178835898537665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_9
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 774
+        width: 127
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7eb836229af5af10800000000000000
+      internalID: 2280504291946446458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 858
+        height: 772
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1412c8bb7a4c25b0800000000000000
+      internalID: -5391852758628166629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_11
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 744
+        width: 94
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d1f615c5271f750800000000000000
+      internalID: 6336971891515792724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_12
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 585
+        width: 282
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c58a89846a185b0800000000000000
+      internalID: -5367826450119894004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_13
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 712
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc1e80f6eb313770800000000000000
+      internalID: 8588711827436608700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_14
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 758
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0afe474431b170ca0800000000000000
+      internalID: -6050837804782129248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_15
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 628
+        width: 127
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8db5b68dee47870800000000000000
+      internalID: 8679824995131316390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_16
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 732
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88a62a8d6e84a6d0800000000000000
+      internalID: -2980100452292056949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_17
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 715
+        width: 14
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3617e7c92bb5a6160800000000000000
+      internalID: 7019523791898177891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_18
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 585
+        width: 27
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1388864dea83f6c80800000000000000
+      internalID: -8327374862445672399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_19
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 635
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50f453fd9b4590b0800000000000000
+      internalID: -5722584609739968422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_20
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 655
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee5e3cbdad8b0ee0800000000000000
+      internalID: -1293784690611822869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_21
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 634
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872f6ebd0c5c5e820800000000000000
+      internalID: 2946978963297596024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_22
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 600
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1b2401d48e28180800000000000000
+      internalID: -9114467278161530452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_23
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 348
+        width: 298
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00dbe345784c06d60800000000000000
+      internalID: 7881515433411394816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_24
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 348
+        width: 224
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29b0926cd28f0610800000000000000
+      internalID: 1589633076543142187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_25
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 587
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5f8ffbee8f49b30800000000000000
+      internalID: 4293330049097594279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_26
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 300
+        width: 302
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6714bc97d941355f0800000000000000
+      internalID: -769248444764438154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_27
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 524
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f24033ac174c0a0800000000000000
+      internalID: -6862234818952548504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_28
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 510
+        width: 39
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1fceb2b4fd54ec20800000000000000
+      internalID: 3234813737911111451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_29
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 495
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70019ca15c4fe7b90800000000000000
+      internalID: -7242082023370059769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_30
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 506
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 951bf2dd700677b00800000000000000
+      internalID: 826234643537703257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_31
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 301
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9dfb6cc20d0ad060800000000000000
+      internalID: 6978904878234729883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_32
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 312
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5296e82e39e07ed20800000000000000
+      internalID: 3307628479650883877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_33
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 323
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b131564f61a1a90800000000000000
+      internalID: -7342531003550590106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_34
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 332
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ff6c6c93f14c4a0800000000000000
+      internalID: -6574095223045554296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_35
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 302
+        width: 138
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b9f53e7cb2d85e0800000000000000
+      internalID: -1905818929794671717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_36
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 332
+        width: 202
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715f144fb7ac05e60800000000000000
+      internalID: 7949075976036676887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_37
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 296
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7efb8f110003cb550800000000000000
+      internalID: 6177865565705125863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_38
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 281
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eadd8c29cad102960800000000000000
+      internalID: 7575087200271392174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_39
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 211
+        width: 121
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5f0d9a1137d1600800000000000000
+      internalID: 440634858252858862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_40
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 302
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d82b3da1e033020800000000000000
+      internalID: 2320213741409570185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_41
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 302
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e2f635fa19a9c50800000000000000
+      internalID: 6672805980107910689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_42
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 294
+        width: 39
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4118681ac9f7a00800000000000000
+      internalID: 756495479981806844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_43
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 296
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0281db2efa8d1d0800000000000000
+      internalID: -3325714936443166500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_44
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 1
+        width: 640
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0154c6162523f8890800000000000000
+      internalID: -7453683528871688944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_45
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 222
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dbf8bf481bc19050800000000000000
+      internalID: 5805644699934456787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_46
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 279
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455997750938213f0800000000000000
+      internalID: -931537516946156204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_47
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 269
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b83107751c871a30800000000000000
+      internalID: 4185968402482935990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_48
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 238
+        width: 13
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a12884aefd2a3fc0800000000000000
+      internalID: -3514445987503922776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_49
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 195
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98cc9d45b8130d20800000000000000
+      internalID: 3243463323607156895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_50
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 189
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86fcbbcf53e668df0800000000000000
+      internalID: -178333957082067096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_51
+      rect:
+        serializedVersion: 2
+        x: 2007
+        y: 176
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500b5ee9d7cafe900800000000000000
+      internalID: 715980521311940613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_52
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 181
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e7744db35e373940800000000000000
+      internalID: 5275754017866414054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_53
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 159
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4054713cdefca3fe0800000000000000
+      internalID: -1208424929908275964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_54
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 142
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747b8791cba669fb0800000000000000
+      internalID: -4641405009844979897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_55
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 152
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4152562959cf83f10800000000000000
+      internalID: 2249825733207991572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_56
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 142
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de11b5f60de909930800000000000000
+      internalID: 4147989874866852333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_57
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 130
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3754422cd9246b9b0800000000000000
+      internalID: -5064787485597088397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_58
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 114
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c8a02127fe2872f0800000000000000
+      internalID: -974977680378124088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_59
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 88
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c93eaa0b2a53610800000000000000
+      internalID: 1600364122265066594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_60
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 72
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964187bdeeacbd590800000000000000
+      internalID: -7648296414925548439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_61
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 49
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d10adf1a7fe9060800000000000000
+      internalID: 6962274349078289685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_62
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 28
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c932cd65b5c58d0800000000000000
+      internalID: -2856307635041100731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_63
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 34
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478a5e6853d579ba0800000000000000
+      internalID: -6082290287262717836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_64
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 45
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f389ab661f124f7e0800000000000000
+      internalID: -1732722635936458689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_65
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 13
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ce4ff57e26a15a0800000000000000
+      internalID: -6549813962170110932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_66
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 14
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee48b52acc66a69b0800000000000000
+      internalID: -5086139800078285586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_67
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 11
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e4b01dad87f0e10800000000000000
+      internalID: 2166082826993880688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_68
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 8
+        width: 64
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188671746ca0cabf0800000000000000
+      internalID: -311862427482888063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_69
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 4
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01ad7fa3fe703e60800000000000000
+      internalID: 7939985728140583183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_70
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5cd00bb097b5f0b0800000000000000
+      internalID: -5695444321499554722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popups_71
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 1
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5ddd4faa80f4c20800000000000000
+      internalID: 3192780191174612408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Popups_0: 3458025445539457052
+      Popups_1: 5916661104775053411
+      Popups_10: -5391852758628166629
+      Popups_11: 6336971891515792724
+      Popups_12: -5367826450119894004
+      Popups_13: 8588711827436608700
+      Popups_14: -6050837804782129248
+      Popups_15: 8679824995131316390
+      Popups_16: -2980100452292056949
+      Popups_17: 7019523791898177891
+      Popups_18: -8327374862445672399
+      Popups_19: -5722584609739968422
+      Popups_2: -2409086692779420982
+      Popups_20: -1293784690611822869
+      Popups_21: 2946978963297596024
+      Popups_22: -9114467278161530452
+      Popups_23: 7881515433411394816
+      Popups_24: 1589633076543142187
+      Popups_25: 4293330049097594279
+      Popups_26: -769248444764438154
+      Popups_27: -6862234818952548504
+      Popups_28: 3234813737911111451
+      Popups_29: -7242082023370059769
+      Popups_3: 4716619635700179466
+      Popups_30: 826234643537703257
+      Popups_31: 6978904878234729883
+      Popups_32: 3307628479650883877
+      Popups_33: -7342531003550590106
+      Popups_34: -6574095223045554296
+      Popups_35: -1905818929794671717
+      Popups_36: 7949075976036676887
+      Popups_37: 6177865565705125863
+      Popups_38: 7575087200271392174
+      Popups_39: 440634858252858862
+      Popups_4: 8586952027448560078
+      Popups_40: 2320213741409570185
+      Popups_41: 6672805980107910689
+      Popups_42: 756495479981806844
+      Popups_43: -3325714936443166500
+      Popups_44: -7453683528871688944
+      Popups_45: 5805644699934456787
+      Popups_46: -931537516946156204
+      Popups_47: 4185968402482935990
+      Popups_48: -3514445987503922776
+      Popups_49: 3243463323607156895
+      Popups_5: 1394460103356220130
+      Popups_50: -178333957082067096
+      Popups_51: 715980521311940613
+      Popups_52: 5275754017866414054
+      Popups_53: -1208424929908275964
+      Popups_54: -4641405009844979897
+      Popups_55: 2249825733207991572
+      Popups_56: 4147989874866852333
+      Popups_57: -5064787485597088397
+      Popups_58: -974977680378124088
+      Popups_59: 1600364122265066594
+      Popups_6: -2976287011089843371
+      Popups_60: -7648296414925548439
+      Popups_61: 6962274349078289685
+      Popups_62: -2856307635041100731
+      Popups_63: -6082290287262717836
+      Popups_64: -1732722635936458689
+      Popups_65: -6549813962170110932
+      Popups_66: -5086139800078285586
+      Popups_67: 2166082826993880688
+      Popups_68: -311862427482888063
+      Popups_69: 7939985728140583183
+      Popups_7: -5159057385175396112
+      Popups_70: -5695444321499554722
+      Popups_71: 3192780191174612408
+      Popups_8: 1610178835898537665
+      Popups_9: 2280504291946446458
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

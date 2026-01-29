@@ -1,0 +1,7748 @@
+fileFormatVersion: 2
+guid: 8e1c16da87e7b2d40a58b6b2622c8a2f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -551038553251725888
+    second: Cash Value-regular_0
+  - first:
+      213: 5370471770959538440
+    second: Cash Value-regular_1
+  - first:
+      213: -2442043979952807007
+    second: Cash Value-regular_2
+  - first:
+      213: -9184520957271918979
+    second: Cash Value-regular_3
+  - first:
+      213: 2500815057639063235
+    second: Cash Value-regular_4
+  - first:
+      213: 6509743118965607074
+    second: Cash Value-regular_5
+  - first:
+      213: 5103939621798471979
+    second: Cash Value-regular_6
+  - first:
+      213: -8248556479784023691
+    second: Cash Value-regular_7
+  - first:
+      213: 8609649360574135784
+    second: Cash Value-regular_8
+  - first:
+      213: 8334796569908770812
+    second: Cash Value-regular_9
+  - first:
+      213: -3458606602162887796
+    second: Cash Value-regular_10
+  - first:
+      213: 6736551988098282812
+    second: Cash Value-regular_11
+  - first:
+      213: -4937331223777930331
+    second: Cash Value-regular_12
+  - first:
+      213: 4503453613662535634
+    second: Cash Value-regular_13
+  - first:
+      213: 5343045566934107639
+    second: Cash Value-regular_14
+  - first:
+      213: 2797236396993092231
+    second: Cash Value-regular_15
+  - first:
+      213: 7162025125567471560
+    second: Cash Value-regular_16
+  - first:
+      213: -5498707360281688506
+    second: Cash Value-regular_17
+  - first:
+      213: -1055695469902575549
+    second: Cash Value-regular_18
+  - first:
+      213: 6740662384282533179
+    second: Cash Value-regular_19
+  - first:
+      213: -4568861277413437284
+    second: Cash Value-regular_20
+  - first:
+      213: 8625816570650826697
+    second: Cash Value-regular_21
+  - first:
+      213: -4521121261511866343
+    second: Cash Value-regular_22
+  - first:
+      213: -3605969213765618802
+    second: Cash Value-regular_23
+  - first:
+      213: -4260993251183781387
+    second: Cash Value-regular_24
+  - first:
+      213: 5900493323125797658
+    second: Cash Value-regular_25
+  - first:
+      213: -3281619373648531893
+    second: Cash Value-regular_26
+  - first:
+      213: -6175963402066978645
+    second: Cash Value-regular_27
+  - first:
+      213: -3390787660633854996
+    second: Cash Value-regular_28
+  - first:
+      213: -8988328586343653683
+    second: Cash Value-regular_29
+  - first:
+      213: 8434019103228304777
+    second: Cash Value-regular_30
+  - first:
+      213: 6945656072742937815
+    second: Cash Value-regular_31
+  - first:
+      213: -929599847447752728
+    second: Cash Value-regular_32
+  - first:
+      213: 7683081471967210935
+    second: Cash Value-regular_33
+  - first:
+      213: 1789435864869921372
+    second: Cash Value-regular_34
+  - first:
+      213: 3667850771857675772
+    second: Cash Value-regular_35
+  - first:
+      213: 8400122754496415205
+    second: Cash Value-regular_36
+  - first:
+      213: -5744335330798566243
+    second: Cash Value-regular_37
+  - first:
+      213: -330232239379313020
+    second: Cash Value-regular_38
+  - first:
+      213: -5214176382548597496
+    second: Cash Value-regular_39
+  - first:
+      213: -7088381357317582470
+    second: Cash Value-regular_40
+  - first:
+      213: 2360814134129694415
+    second: Cash Value-regular_41
+  - first:
+      213: -2254749879724599406
+    second: Cash Value-regular_42
+  - first:
+      213: -5539469780195120445
+    second: Cash Value-regular_43
+  - first:
+      213: -4817121284688167329
+    second: Cash Value-regular_44
+  - first:
+      213: -6381000116163013392
+    second: Cash Value-regular_45
+  - first:
+      213: -6818820183843266783
+    second: Cash Value-regular_46
+  - first:
+      213: -4704993242338639395
+    second: Cash Value-regular_47
+  - first:
+      213: 5291752694698516217
+    second: Cash Value-regular_48
+  - first:
+      213: -5385867642099487349
+    second: Cash Value-regular_49
+  - first:
+      213: 5251545949438774529
+    second: Cash Value-regular_50
+  - first:
+      213: 8677527518522007802
+    second: Cash Value-regular_51
+  - first:
+      213: -4286757560015061868
+    second: Cash Value-regular_52
+  - first:
+      213: -2613672372448632648
+    second: Cash Value-regular_53
+  - first:
+      213: 1830708267402600258
+    second: Cash Value-regular_54
+  - first:
+      213: 8180509133219701713
+    second: Cash Value-regular_55
+  - first:
+      213: 2438216151178263866
+    second: Cash Value-regular_56
+  - first:
+      213: 2625545788385983418
+    second: Cash Value-regular_57
+  - first:
+      213: -7847370900079693776
+    second: Cash Value-regular_58
+  - first:
+      213: 2116530672811130205
+    second: Cash Value-regular_59
+  - first:
+      213: 3372571529150153195
+    second: Cash Value-regular_60
+  - first:
+      213: -8656798084362871730
+    second: Cash Value-regular_61
+  - first:
+      213: 4178238623842381567
+    second: Cash Value-regular_62
+  - first:
+      213: -3279616013491788467
+    second: Cash Value-regular_63
+  - first:
+      213: 2319194000335079856
+    second: Cash Value-regular_64
+  - first:
+      213: 2989487233443112300
+    second: Cash Value-regular_65
+  - first:
+      213: 4288534814906120082
+    second: Cash Value-regular_66
+  - first:
+      213: -1853330083495682895
+    second: Cash Value-regular_67
+  - first:
+      213: -4396141299880568696
+    second: Cash Value-regular_68
+  - first:
+      213: 3108154903183902537
+    second: Cash Value-regular_69
+  - first:
+      213: -1487973298179658242
+    second: Cash Value-regular_70
+  - first:
+      213: -6355159409338936612
+    second: Cash Value-regular_71
+  - first:
+      213: 3190193600304849875
+    second: Cash Value-regular_72
+  - first:
+      213: 8454488321115506219
+    second: Cash Value-regular_73
+  - first:
+      213: -7742516015101721587
+    second: Cash Value-regular_74
+  - first:
+      213: 2061777048142857192
+    second: Cash Value-regular_75
+  - first:
+      213: 4535384328330514814
+    second: Cash Value-regular_76
+  - first:
+      213: 5950237451496106672
+    second: Cash Value-regular_77
+  - first:
+      213: 4260356137517557977
+    second: Cash Value-regular_78
+  - first:
+      213: -7743809795027552828
+    second: Cash Value-regular_79
+  - first:
+      213: 6655251287221142384
+    second: Cash Value-regular_80
+  - first:
+      213: -6816155981039503964
+    second: Cash Value-regular_81
+  - first:
+      213: -1261351120874994504
+    second: Cash Value-regular_82
+  - first:
+      213: 4767708804105553582
+    second: Cash Value-regular_83
+  - first:
+      213: 711349411710233247
+    second: Cash Value-regular_84
+  - first:
+      213: -4497374047338232499
+    second: Cash Value-regular_85
+  - first:
+      213: 7727144771638611317
+    second: Cash Value-regular_86
+  - first:
+      213: 8699380520645497723
+    second: Cash Value-regular_87
+  - first:
+      213: 1250000770401410703
+    second: Cash Value-regular_88
+  - first:
+      213: 1601242982574237565
+    second: Cash Value-regular_89
+  - first:
+      213: 4114819309779215570
+    second: Cash Value-regular_90
+  - first:
+      213: 1746252267218775001
+    second: Cash Value-regular_91
+  - first:
+      213: -5403809643879757605
+    second: Cash Value-regular_92
+  - first:
+      213: 8124452832486244138
+    second: Cash Value-regular_93
+  - first:
+      213: 2996079075251777422
+    second: Cash Value-regular_94
+  - first:
+      213: -5520735362593710072
+    second: Cash Value-regular_95
+  - first:
+      213: -3731108629223669478
+    second: Cash Value-regular_96
+  - first:
+      213: 8199347578309900204
+    second: Cash Value-regular_97
+  - first:
+      213: 2147891697109229808
+    second: Cash Value-regular_98
+  - first:
+      213: 4071373105233900464
+    second: Cash Value-regular_99
+  - first:
+      213: 2870738869278145133
+    second: Cash Value-regular_100
+  - first:
+      213: 150497315352614334
+    second: Cash Value-regular_101
+  - first:
+      213: -4088130722480423669
+    second: Cash Value-regular_102
+  - first:
+      213: 1469175624628157468
+    second: Cash Value-regular_103
+  - first:
+      213: -2695580934721910204
+    second: Cash Value-regular_104
+  - first:
+      213: -5533365473376703650
+    second: Cash Value-regular_105
+  - first:
+      213: -7535815750776055494
+    second: Cash Value-regular_106
+  - first:
+      213: 3597849212790953822
+    second: Cash Value-regular_107
+  - first:
+      213: 7949575974663584276
+    second: Cash Value-regular_108
+  - first:
+      213: -653343206582510142
+    second: Cash Value-regular_109
+  - first:
+      213: 2306545143365159150
+    second: Cash Value-regular_110
+  - first:
+      213: -2091119642729868851
+    second: Cash Value-regular_111
+  - first:
+      213: -4555146364924936825
+    second: Cash Value-regular_112
+  - first:
+      213: 5564366256326359359
+    second: Cash Value-regular_113
+  - first:
+      213: -7895125325275926558
+    second: Cash Value-regular_114
+  - first:
+      213: -5315930858015506982
+    second: Cash Value-regular_115
+  - first:
+      213: -7122077634113024610
+    second: Cash Value-regular_116
+  - first:
+      213: -8546632759754607498
+    second: Cash Value-regular_117
+  - first:
+      213: 3086495764376574924
+    second: Cash Value-regular_118
+  - first:
+      213: 7367382310271090650
+    second: Cash Value-regular_119
+  - first:
+      213: 4545379852734802868
+    second: Cash Value-regular_120
+  - first:
+      213: 1413593172867195560
+    second: Cash Value-regular_121
+  - first:
+      213: 7900826148608292181
+    second: Cash Value-regular_122
+  - first:
+      213: -1305715613748002272
+    second: Cash Value-regular_123
+  - first:
+      213: -8841465154752500908
+    second: Cash Value-regular_124
+  - first:
+      213: 161528752725508664
+    second: Cash Value-regular_125
+  - first:
+      213: -423456598272423664
+    second: Cash Value-regular_126
+  - first:
+      213: 1836960433295321554
+    second: Cash Value-regular_127
+  - first:
+      213: -1214412727558527644
+    second: Cash Value-regular_128
+  - first:
+      213: -2470564803097837465
+    second: Cash Value-regular_129
+  - first:
+      213: -7763645270244267535
+    second: Cash Value-regular_130
+  - first:
+      213: -2011751234481150890
+    second: Cash Value-regular_131
+  - first:
+      213: 3962283262482502149
+    second: Cash Value-regular_132
+  - first:
+      213: -5300289445838867727
+    second: Cash Value-regular_133
+  - first:
+      213: 2679228950608357944
+    second: Cash Value-regular_134
+  - first:
+      213: 1212765369775112941
+    second: Cash Value-regular_135
+  - first:
+      213: 4918564876091465856
+    second: Cash Value-regular_136
+  - first:
+      213: -6801981703301428783
+    second: Cash Value-regular_137
+  - first:
+      213: 7329632402060285264
+    second: Cash Value-regular_138
+  - first:
+      213: 9204604547827066410
+    second: Cash Value-regular_139
+  - first:
+      213: 2732824129346214948
+    second: Cash Value-regular_140
+  - first:
+      213: 5179411802585651476
+    second: Cash Value-regular_141
+  - first:
+      213: -4725282788494549723
+    second: Cash Value-regular_142
+  - first:
+      213: 3973228086986424440
+    second: Cash Value-regular_143
+  - first:
+      213: 3375277879693393961
+    second: Cash Value-regular_144
+  - first:
+      213: 707992748780164468
+    second: Cash Value-regular_145
+  - first:
+      213: 7148902909306532839
+    second: Cash Value-regular_146
+  - first:
+      213: 8416578958430156745
+    second: Cash Value-regular_147
+  - first:
+      213: 6536305171264975244
+    second: Cash Value-regular_148
+  - first:
+      213: 8477507393151307849
+    second: Cash Value-regular_149
+  - first:
+      213: -8105891431597336863
+    second: Cash Value-regular_150
+  - first:
+      213: 3336725044112827353
+    second: Cash Value-regular_151
+  - first:
+      213: 2907386443102524025
+    second: Cash Value-regular_152
+  - first:
+      213: -6977338916662382223
+    second: Cash Value-regular_153
+  - first:
+      213: -6387920453550428299
+    second: Cash Value-regular_154
+  - first:
+      213: 5338570412054046488
+    second: Cash Value-regular_155
+  - first:
+      213: -7346250230647363356
+    second: Cash Value-regular_156
+  - first:
+      213: 91800769342912688
+    second: Cash Value-regular_157
+  - first:
+      213: 4158963189269744497
+    second: Cash Value-regular_158
+  - first:
+      213: -7623791050455415311
+    second: Cash Value-regular_159
+  - first:
+      213: -961225564395277993
+    second: Cash Value-regular_160
+  - first:
+      213: -84861051640434752
+    second: Cash Value-regular_161
+  - first:
+      213: -5655775110898964657
+    second: Cash Value-regular_162
+  - first:
+      213: 768280278864492015
+    second: Cash Value-regular_163
+  - first:
+      213: 2788842549041182602
+    second: Cash Value-regular_164
+  - first:
+      213: -9128467773194772461
+    second: Cash Value-regular_165
+  - first:
+      213: 654247159575871507
+    second: Cash Value-regular_166
+  - first:
+      213: -1582646542879624861
+    second: Cash Value-regular_167
+  - first:
+      213: 692694929945025031
+    second: Cash Value-regular_168
+  - first:
+      213: -3289682971838873757
+    second: Cash Value-regular_169
+  - first:
+      213: -3574071227963645048
+    second: Cash Value-regular_170
+  - first:
+      213: -7063821232968705054
+    second: Cash Value-regular_171
+  - first:
+      213: 5706634247452255884
+    second: Cash Value-regular_172
+  - first:
+      213: -6500804318672129390
+    second: Cash Value-regular_173
+  - first:
+      213: -861443524539892163
+    second: Cash Value-regular_174
+  - first:
+      213: 7550900931745068914
+    second: Cash Value-regular_175
+  - first:
+      213: 2409556105759281576
+    second: Cash Value-regular_176
+  - first:
+      213: 5346740943097531999
+    second: Cash Value-regular_177
+  - first:
+      213: 7255980545216423711
+    second: Cash Value-regular_178
+  - first:
+      213: -6447035596501864987
+    second: Cash Value-regular_179
+  - first:
+      213: 6018389953521087380
+    second: Cash Value-regular_180
+  - first:
+      213: -7435905447226624252
+    second: Cash Value-regular_181
+  - first:
+      213: -5222120781630837712
+    second: Cash Value-regular_182
+  - first:
+      213: -5435196380749919037
+    second: Cash Value-regular_183
+  - first:
+      213: -6757266732466958169
+    second: Cash Value-regular_184
+  - first:
+      213: 1556691740377002664
+    second: Cash Value-regular_185
+  - first:
+      213: -5966847629479616195
+    second: Cash Value-regular_186
+  - first:
+      213: 1607704972259622018
+    second: Cash Value-regular_187
+  - first:
+      213: 183227223151868783
+    second: Cash Value-regular_188
+  - first:
+      213: 1383307741862457628
+    second: Cash Value-regular_189
+  - first:
+      213: 3270971682312938985
+    second: Cash Value-regular_190
+  - first:
+      213: 4490123031818678600
+    second: Cash Value-regular_191
+  - first:
+      213: -4697216665234174926
+    second: Cash Value-regular_192
+  - first:
+      213: -8217512118720012430
+    second: Cash Value-regular_193
+  - first:
+      213: 923420662404815764
+    second: Cash Value-regular_194
+  - first:
+      213: 5977371361188573730
+    second: Cash Value-regular_195
+  - first:
+      213: 4769169454982305199
+    second: Cash Value-regular_196
+  - first:
+      213: -449669999032695283
+    second: Cash Value-regular_197
+  - first:
+      213: -6861227709872239947
+    second: Cash Value-regular_198
+  - first:
+      213: 3353366550182515857
+    second: Cash Value-regular_199
+  - first:
+      213: -33883720260857547
+    second: Cash Value-regular_200
+  - first:
+      213: -431904986377643997
+    second: Cash Value-regular_201
+  - first:
+      213: 7422998601999321621
+    second: Cash Value-regular_202
+  - first:
+      213: 8786563509470119297
+    second: Cash Value-regular_203
+  - first:
+      213: 7681378971637825637
+    second: Cash Value-regular_204
+  - first:
+      213: 3425678322257037771
+    second: Cash Value-regular_205
+  - first:
+      213: -7573637278770237019
+    second: Cash Value-regular_206
+  - first:
+      213: 2455895583130887626
+    second: Cash Value-regular_207
+  - first:
+      213: 813170136191592342
+    second: Cash Value-regular_208
+  - first:
+      213: 6684401803709009026
+    second: Cash Value-regular_209
+  - first:
+      213: 8328455448868469364
+    second: Cash Value-regular_210
+  - first:
+      213: 7950052314665735610
+    second: Cash Value-regular_211
+  - first:
+      213: 4702113778952159936
+    second: Cash Value-regular_212
+  - first:
+      213: 1922920730624791023
+    second: Cash Value-regular_213
+  - first:
+      213: 4646930251885588664
+    second: Cash Value-regular_214
+  - first:
+      213: -5553775859989516025
+    second: Cash Value-regular_215
+  - first:
+      213: -598309070742022149
+    second: Cash Value-regular_216
+  - first:
+      213: -6628383156296926370
+    second: Cash Value-regular_217
+  - first:
+      213: -3822351084252739889
+    second: Cash Value-regular_218
+  - first:
+      213: 2000363599921639363
+    second: Cash Value-regular_219
+  - first:
+      213: 2937703478021007004
+    second: Cash Value-regular_220
+  - first:
+      213: 3467796870913237883
+    second: Cash Value-regular_221
+  - first:
+      213: 4098925678451034472
+    second: Cash Value-regular_222
+  - first:
+      213: -8147558667009374623
+    second: Cash Value-regular_223
+  - first:
+      213: 4543204040964136164
+    second: Cash Value-regular_224
+  - first:
+      213: 8460686884464945262
+    second: Cash Value-regular_225
+  - first:
+      213: -5059090699972181803
+    second: Cash Value-regular_226
+  - first:
+      213: 7241978408378880212
+    second: Cash Value-regular_227
+  - first:
+      213: 8423336542551593944
+    second: Cash Value-regular_228
+  - first:
+      213: 7075575297893258781
+    second: Cash Value-regular_229
+  - first:
+      213: -2762499868148609983
+    second: Cash Value-regular_230
+  - first:
+      213: -3627483758699677111
+    second: Cash Value-regular_231
+  - first:
+      213: 8032393473416111809
+    second: Cash Value-regular_232
+  - first:
+      213: -2021678836158069730
+    second: Cash Value-regular_233
+  - first:
+      213: -6725882440583146638
+    second: Cash Value-regular_234
+  - first:
+      213: 6092043351575909647
+    second: Cash Value-regular_235
+  - first:
+      213: 7501356259260170514
+    second: Cash Value-regular_236
+  - first:
+      213: 7018681090619586067
+    second: Cash Value-regular_237
+  - first:
+      213: -8449672726456725221
+    second: Cash Value-regular_238
+  - first:
+      213: 107527941539074970
+    second: Cash Value-regular_239
+  - first:
+      213: -4039605320290461469
+    second: Cash Value-regular_240
+  - first:
+      213: 4714113119642762237
+    second: Cash Value-regular_241
+  - first:
+      213: 6796576683376809872
+    second: Cash Value-regular_242
+  - first:
+      213: -2348183770305506876
+    second: Cash Value-regular_243
+  - first:
+      213: -1938195145478266056
+    second: Cash Value-regular_244
+  - first:
+      213: -4693897696752324694
+    second: Cash Value-regular_245
+  - first:
+      213: -3717364199702663362
+    second: Cash Value-regular_246
+  - first:
+      213: -1637931235231574052
+    second: Cash Value-regular_247
+  - first:
+      213: 2195862351293218415
+    second: Cash Value-regular_248
+  - first:
+      213: 6659102603011696921
+    second: Cash Value-regular_249
+  - first:
+      213: 6286115406811214095
+    second: Cash Value-regular_250
+  - first:
+      213: -1859504483241902714
+    second: Cash Value-regular_251
+  - first:
+      213: -4406298732608604553
+    second: Cash Value-regular_252
+  - first:
+      213: -2513134565440824369
+    second: Cash Value-regular_253
+  - first:
+      213: -7342647411450019498
+    second: Cash Value-regular_254
+  - first:
+      213: -6683695511199651909
+    second: Cash Value-regular_255
+  - first:
+      213: -3771704490869097138
+    second: Cash Value-regular_256
+  - first:
+      213: 272036948407931588
+    second: Cash Value-regular_257
+  - first:
+      213: 4530824897417193548
+    second: Cash Value-regular_258
+  - first:
+      213: 5124059965822501348
+    second: Cash Value-regular_259
+  - first:
+      213: 897648782975577146
+    second: Cash Value-regular_260
+  - first:
+      213: -1974089456226427923
+    second: Cash Value-regular_261
+  - first:
+      213: 5647174277699295807
+    second: Cash Value-regular_262
+  - first:
+      213: 2348686346256018371
+    second: Cash Value-regular_263
+  - first:
+      213: -2085819013294890297
+    second: Cash Value-regular_264
+  - first:
+      213: -7962622380828346709
+    second: Cash Value-regular_265
+  - first:
+      213: -4871163338155471957
+    second: Cash Value-regular_266
+  - first:
+      213: -7546413470215035036
+    second: Cash Value-regular_267
+  - first:
+      213: -2776312466443906648
+    second: Cash Value-regular_268
+  - first:
+      213: -535955229430029128
+    second: Cash Value-regular_269
+  - first:
+      213: -8465913782094835806
+    second: Cash Value-regular_270
+  - first:
+      213: -2881007241653819980
+    second: Cash Value-regular_271
+  - first:
+      213: 6576445868332758512
+    second: Cash Value-regular_272
+  - first:
+      213: -4705230229500660103
+    second: Cash Value-regular_273
+  - first:
+      213: 9080841210224721004
+    second: Cash Value-regular_274
+  - first:
+      213: -6045315100758444187
+    second: Cash Value-regular_275
+  - first:
+      213: -5035947503161150555
+    second: Cash Value-regular_276
+  - first:
+      213: 1854807739968575571
+    second: Cash Value-regular_277
+  - first:
+      213: -4174170282462882852
+    second: Cash Value-regular_278
+  - first:
+      213: 8768558486050313831
+    second: Cash Value-regular_279
+  - first:
+      213: 7717695790214384076
+    second: Cash Value-regular_280
+  - first:
+      213: -7931734561979774448
+    second: Cash Value-regular_281
+  - first:
+      213: 6958674204194454162
+    second: Cash Value-regular_282
+  - first:
+      213: -924251989178714125
+    second: Cash Value-regular_283
+  - first:
+      213: 8465974849381438606
+    second: Cash Value-regular_284
+  - first:
+      213: 4414195609511237576
+    second: Cash Value-regular_285
+  - first:
+      213: 7838581777169428964
+    second: Cash Value-regular_286
+  - first:
+      213: -3493308334865087175
+    second: Cash Value-regular_287
+  - first:
+      213: 8665319062023655729
+    second: Cash Value-regular_288
+  - first:
+      213: 7811348207888891780
+    second: Cash Value-regular_289
+  - first:
+      213: 8994352178002338345
+    second: Cash Value-regular_290
+  - first:
+      213: -9165509566327731146
+    second: Cash Value-regular_291
+  - first:
+      213: -9148685278141917833
+    second: Cash Value-regular_292
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cash Value-regular_0
+      rect:
+        serializedVersion: 2
+        x: 3451
+        y: 961
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cdb2e7fa515a58f0800000000000000
+      internalID: -551038553251725888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_1
+      rect:
+        serializedVersion: 2
+        x: 3487
+        y: 952
+        width: 79
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8096e482f9fb78a40800000000000000
+      internalID: 5370471770959538440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_2
+      rect:
+        serializedVersion: 2
+        x: 3592
+        y: 1003
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3280150fd1c1ed0800000000000000
+      internalID: -2442043979952807007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_3
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 153
+        width: 854
+        height: 847
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d763dadd9d60a8080800000000000000
+      internalID: -9184520957271918979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_4
+      rect:
+        serializedVersion: 2
+        x: 3587
+        y: 975
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce36878b0ea4b220800000000000000
+      internalID: 2500815057639063235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_5
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 963
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa0df860e0475a50800000000000000
+      internalID: 6509743118965607074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_6
+      rect:
+        serializedVersion: 2
+        x: 3688
+        y: 935
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29e6505b06d4d640800000000000000
+      internalID: 5103939621798471979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_7
+      rect:
+        serializedVersion: 2
+        x: 3392
+        y: 921
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5790ab8959d378d80800000000000000
+      internalID: -8248556479784023691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_8
+      rect:
+        serializedVersion: 2
+        x: 3424
+        y: 941
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8edb0b14a7e9b7770800000000000000
+      internalID: 8609649360574135784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_9
+      rect:
+        serializedVersion: 2
+        x: 3465
+        y: 936
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf77e8812552ba370800000000000000
+      internalID: 8334796569908770812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_10
+      rect:
+        serializedVersion: 2
+        x: 3507
+        y: 930
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83a24cae9f8000d0800000000000000
+      internalID: -3458606602162887796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_11
+      rect:
+        serializedVersion: 2
+        x: 3542
+        y: 934
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35bc85675a0d7d50800000000000000
+      internalID: 6736551988098282812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_12
+      rect:
+        serializedVersion: 2
+        x: 3559
+        y: 946
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3954c39631b7bb0800000000000000
+      internalID: -4937331223777930331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_13
+      rect:
+        serializedVersion: 2
+        x: 3568
+        y: 929
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dffdc8833b7f7e30800000000000000
+      internalID: 4503453613662535634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_14
+      rect:
+        serializedVersion: 2
+        x: 3594
+        y: 934
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f545db62af462a40800000000000000
+      internalID: 5343045566934107639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_15
+      rect:
+        serializedVersion: 2
+        x: 3601
+        y: 913
+        width: 56
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a1193cea7c1d620800000000000000
+      internalID: 2797236396993092231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_16
+      rect:
+        serializedVersion: 2
+        x: 3645
+        y: 948
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf1fd9d7ef946360800000000000000
+      internalID: 7162025125567471560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_17
+      rect:
+        serializedVersion: 2
+        x: 3427
+        y: 899
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646859a0acaa0b3b0800000000000000
+      internalID: -5498707360281688506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_18
+      rect:
+        serializedVersion: 2
+        x: 3488
+        y: 922
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348c77d309a6951f0800000000000000
+      internalID: -1055695469902575549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_19
+      rect:
+        serializedVersion: 2
+        x: 3544
+        y: 909
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d7ff599b4ab8d50800000000000000
+      internalID: 6740662384282533179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_20
+      rect:
+        serializedVersion: 2
+        x: 3666
+        y: 922
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c901cb300e42890c0800000000000000
+      internalID: -4568861277413437284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_21
+      rect:
+        serializedVersion: 2
+        x: 3687
+        y: 756
+        width: 172
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7125f287e05b770800000000000000
+      internalID: 8625816570650826697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_22
+      rect:
+        serializedVersion: 2
+        x: 3385
+        y: 889
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9188e15aa20c141c0800000000000000
+      internalID: -4521121261511866343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_23
+      rect:
+        serializedVersion: 2
+        x: 3418
+        y: 853
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e837186fa1605fdc0800000000000000
+      internalID: -3605969213765618802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_24
+      rect:
+        serializedVersion: 2
+        x: 3465
+        y: 894
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f99ad8b639edd4c0800000000000000
+      internalID: -4260993251183781387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_25
+      rect:
+        serializedVersion: 2
+        x: 3485
+        y: 868
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a133a7c4a63c2e150800000000000000
+      internalID: 5900493323125797658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_26
+      rect:
+        serializedVersion: 2
+        x: 3544
+        y: 870
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ea3a101985572d0800000000000000
+      internalID: -3281619373648531893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_27
+      rect:
+        serializedVersion: 2
+        x: 3573
+        y: 888
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba81cf9e1029a4aa0800000000000000
+      internalID: -6175963402066978645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_28
+      rect:
+        serializedVersion: 2
+        x: 3636
+        y: 888
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb242b769081f0d0800000000000000
+      internalID: -3390787660633854996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_29
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 858
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce5f7ed5ca034380800000000000000
+      internalID: -8988328586343653683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_30
+      rect:
+        serializedVersion: 2
+        x: 3457
+        y: 865
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d18c460b7ab0570800000000000000
+      internalID: 8434019103228304777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_31
+      rect:
+        serializedVersion: 2
+        x: 3519
+        y: 873
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4a0e3066de36060800000000000000
+      internalID: 6945656072742937815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_32
+      rect:
+        serializedVersion: 2
+        x: 3572
+        y: 858
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef8e9d2dd56913f0800000000000000
+      internalID: -929599847447752728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_33
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 861
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bdadfc54e9cf9a60800000000000000
+      internalID: 7683081471967210935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_34
+      rect:
+        serializedVersion: 2
+        x: 3391
+        y: 821
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c526ae1307a55d810800000000000000
+      internalID: 1789435864869921372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_35
+      rect:
+        serializedVersion: 2
+        x: 3477
+        y: 832
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf518b908d2d6e230800000000000000
+      internalID: 3667850771857675772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_36
+      rect:
+        serializedVersion: 2
+        x: 3512
+        y: 840
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e54f63b32b339470800000000000000
+      internalID: 8400122754496415205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_37
+      rect:
+        serializedVersion: 2
+        x: 3544
+        y: 851
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94860193750840b0800000000000000
+      internalID: -5744335330798566243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_38
+      rect:
+        serializedVersion: 2
+        x: 3554
+        y: 833
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e0a662787ca6bf0800000000000000
+      internalID: -330232239379313020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_39
+      rect:
+        serializedVersion: 2
+        x: 3576
+        y: 837
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805a5f9b43683a7b0800000000000000
+      internalID: -5214176382548597496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_40
+      rect:
+        serializedVersion: 2
+        x: 3608
+        y: 847
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71959c16b201ad90800000000000000
+      internalID: -7088381357317582470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_41
+      rect:
+        serializedVersion: 2
+        x: 3630
+        y: 847
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6958562fb43c020800000000000000
+      internalID: 2360814134129694415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_42
+      rect:
+        serializedVersion: 2
+        x: 3423
+        y: 811
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29719a93ee485b0e0800000000000000
+      internalID: -2254749879724599406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_43
+      rect:
+        serializedVersion: 2
+        x: 3435
+        y: 830
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca65739599df13b0800000000000000
+      internalID: -5539469780195120445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_44
+      rect:
+        serializedVersion: 2
+        x: 3449
+        y: 806
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e303ab6b5262db0800000000000000
+      internalID: -4817121284688167329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_45
+      rect:
+        serializedVersion: 2
+        x: 3465
+        y: 828
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4906cc3322277a0800000000000000
+      internalID: -6381000116163013392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_46
+      rect:
+        serializedVersion: 2
+        x: 3501
+        y: 782
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f12c2ab2fae51a0800000000000000
+      internalID: -6818820183843266783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_47
+      rect:
+        serializedVersion: 2
+        x: 3553
+        y: 814
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1cacff29184beb0800000000000000
+      internalID: -4704993242338639395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_48
+      rect:
+        serializedVersion: 2
+        x: 3579
+        y: 813
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe98b6f905107940800000000000000
+      internalID: 5291752694698516217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_49
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 778
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8da3614aed8145b0800000000000000
+      internalID: -5385867642099487349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_50
+      rect:
+        serializedVersion: 2
+        x: 3480
+        y: 800
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d80f5973d31e840800000000000000
+      internalID: 5251545949438774529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_51
+      rect:
+        serializedVersion: 2
+        x: 3602
+        y: 776
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af06e267d45cc6870800000000000000
+      internalID: 8677527518522007802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_52
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 148
+        width: 641
+        height: 641
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49cf41d16b06284c0800000000000000
+      internalID: -4286757560015061868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_53
+      rect:
+        serializedVersion: 2
+        x: 3540
+        y: 767
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b062f833de5abbd0800000000000000
+      internalID: -2613672372448632648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_54
+      rect:
+        serializedVersion: 2
+        x: 3560
+        y: 779
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f17ed387bf76910800000000000000
+      internalID: 1830708267402600258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_55
+      rect:
+        serializedVersion: 2
+        x: 3595
+        y: 787
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d32667e6b1078170800000000000000
+      internalID: 8180509133219701713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_56
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 153
+        width: 635
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3db998dba846d120800000000000000
+      internalID: 2438216151178263866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_57
+      rect:
+        serializedVersion: 2
+        x: 2403
+        y: 744
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abbf44adbffcf6420800000000000000
+      internalID: 2625545788385983418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_58
+      rect:
+        serializedVersion: 2
+        x: 2505
+        y: 743
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03033085eb9881390800000000000000
+      internalID: -7847370900079693776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_59
+      rect:
+        serializedVersion: 2
+        x: 2518
+        y: 748
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d302dde6d6f5d10800000000000000
+      internalID: 2116530672811130205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_60
+      rect:
+        serializedVersion: 2
+        x: 2544
+        y: 753
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be14796efe7cdce20800000000000000
+      internalID: 3372571529150153195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_61
+      rect:
+        serializedVersion: 2
+        x: 2675
+        y: 744
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4cd4490200ecd780800000000000000
+      internalID: -8656798084362871730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_62
+      rect:
+        serializedVersion: 2
+        x: 3021
+        y: 743
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe21f024e51cf930800000000000000
+      internalID: 4178238623842381567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_63
+      rect:
+        serializedVersion: 2
+        x: 3123
+        y: 742
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45a324ac967c72d0800000000000000
+      internalID: -3279616013491788467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_64
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 747
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9803bd7ae6f2020800000000000000
+      internalID: 2319194000335079856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_65
+      rect:
+        serializedVersion: 2
+        x: 3162
+        y: 752
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6521f1cccacc7920800000000000000
+      internalID: 2989487233443112300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_66
+      rect:
+        serializedVersion: 2
+        x: 3293
+        y: 743
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297ff5941bfe38b30800000000000000
+      internalID: 4288534814906120082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_67
+      rect:
+        serializedVersion: 2
+        x: 3484
+        y: 753
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bcd1b1cb16a746e0800000000000000
+      internalID: -1853330083495682895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_68
+      rect:
+        serializedVersion: 2
+        x: 2363
+        y: 735
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888d13e87c4cdf2c0800000000000000
+      internalID: -4396141299880568696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_69
+      rect:
+        serializedVersion: 2
+        x: 2426
+        y: 732
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9474a2faa62622b20800000000000000
+      internalID: 3108154903183902537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_70
+      rect:
+        serializedVersion: 2
+        x: 2493
+        y: 727
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd2cbe3b28a95be0800000000000000
+      internalID: -1487973298179658242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_71
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 737
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd21f533030fdc7a0800000000000000
+      internalID: -6355159409338936612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_72
+      rect:
+        serializedVersion: 2
+        x: 2643
+        y: 738
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d325e65d28d54c20800000000000000
+      internalID: 3190193600304849875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_73
+      rect:
+        serializedVersion: 2
+        x: 2981
+        y: 734
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2647c19550645570800000000000000
+      internalID: 8454488321115506219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_74
+      rect:
+        serializedVersion: 2
+        x: 3044
+        y: 731
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04c614b4be0d8490800000000000000
+      internalID: -7742516015101721587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_75
+      rect:
+        serializedVersion: 2
+        x: 3174
+        y: 736
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3cb903d47ec9c10800000000000000
+      internalID: 2061777048142857192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_76
+      rect:
+        serializedVersion: 2
+        x: 3261
+        y: 737
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e719302640ce0fe30800000000000000
+      internalID: 4535384328330514814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_77
+      rect:
+        serializedVersion: 2
+        x: 3897
+        y: 700
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0baa6a9bf6d739250800000000000000
+      internalID: 5950237451496106672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_78
+      rect:
+        serializedVersion: 2
+        x: 2387
+        y: 723
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8a361b553df1b30800000000000000
+      internalID: 4260356137517557977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_79
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 718
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c531371506788490800000000000000
+      internalID: -7743809795027552828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_80
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 718
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07307c1e8c33c5c50800000000000000
+      internalID: 6655251287221142384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_81
+      rect:
+        serializedVersion: 2
+        x: 2534
+        y: 725
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a57c70bf362861a0800000000000000
+      internalID: -6816155981039503964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_82
+      rect:
+        serializedVersion: 2
+        x: 2623
+        y: 714
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b48437a6d7ce7ee0800000000000000
+      internalID: -1261351120874994504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_83
+      rect:
+        serializedVersion: 2
+        x: 2636
+        y: 727
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6c63d95ed4a2240800000000000000
+      internalID: 4767708804105553582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_84
+      rect:
+        serializedVersion: 2
+        x: 2651
+        y: 721
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9aeb2465883fd900800000000000000
+      internalID: 711349411710233247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_85
+      rect:
+        serializedVersion: 2
+        x: 3005
+        y: 722
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45085ec12e1691c0800000000000000
+      internalID: -4497374047338232499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_86
+      rect:
+        serializedVersion: 2
+        x: 3019
+        y: 717
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d4989ca355c3b60800000000000000
+      internalID: 7727144771638611317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_87
+      rect:
+        serializedVersion: 2
+        x: 3111
+        y: 725
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7317030e786ab870800000000000000
+      internalID: 8699380520645497723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_88
+      rect:
+        serializedVersion: 2
+        x: 3128
+        y: 717
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e9db0f315e85110800000000000000
+      internalID: 1250000770401410703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_89
+      rect:
+        serializedVersion: 2
+        x: 3151
+        y: 724
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77ac674202c83610800000000000000
+      internalID: 1601242982574237565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_90
+      rect:
+        serializedVersion: 2
+        x: 3241
+        y: 713
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4ee4a6c56ca1930800000000000000
+      internalID: 4114819309779215570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_91
+      rect:
+        serializedVersion: 2
+        x: 3254
+        y: 726
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dbabcb5f2feb3810800000000000000
+      internalID: 1746252267218775001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_92
+      rect:
+        serializedVersion: 2
+        x: 3269
+        y: 720
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd887be62cfc105b0800000000000000
+      internalID: -5403809643879757605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_93
+      rect:
+        serializedVersion: 2
+        x: 2362
+        y: 705
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f32c25ecadfb070800000000000000
+      internalID: 8124452832486244138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_94
+      rect:
+        serializedVersion: 2
+        x: 2375
+        y: 700
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8fec578b06349920800000000000000
+      internalID: 2996079075251777422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_95
+      rect:
+        serializedVersion: 2
+        x: 2422
+        y: 698
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8002aa510786263b0800000000000000
+      internalID: -5520735362593710072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_96
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 700
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a118ab05870783cc0800000000000000
+      internalID: -3731108629223669478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_97
+      rect:
+        serializedVersion: 2
+        x: 2668
+        y: 702
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7fe133e2fe9c170800000000000000
+      internalID: 8199347578309900204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_98
+      rect:
+        serializedVersion: 2
+        x: 2980
+        y: 704
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0e4365e18decd10800000000000000
+      internalID: 2147891697109229808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_99
+      rect:
+        serializedVersion: 2
+        x: 2993
+        y: 699
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3bb85a44c608830800000000000000
+      internalID: 4071373105233900464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_100
+      rect:
+        serializedVersion: 2
+        x: 3040
+        y: 697
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6afa32bac9e6d720800000000000000
+      internalID: 2870738869278145133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_101
+      rect:
+        serializedVersion: 2
+        x: 3154
+        y: 699
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb51e3dc28ca61200800000000000000
+      internalID: 150497315352614334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_102
+      rect:
+        serializedVersion: 2
+        x: 3286
+        y: 701
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d713b84ca0447c0800000000000000
+      internalID: -4088130722480423669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_103
+      rect:
+        serializedVersion: 2
+        x: 2316
+        y: 678
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1cbf92527f836410800000000000000
+      internalID: 1469175624628157468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_104
+      rect:
+        serializedVersion: 2
+        x: 2405
+        y: 684
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ac592fb6f579ad0800000000000000
+      internalID: -2695580934721910204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_105
+      rect:
+        serializedVersion: 2
+        x: 2654
+        y: 690
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b68f24b698533b0800000000000000
+      internalID: -5533365473376703650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_106
+      rect:
+        serializedVersion: 2
+        x: 2679
+        y: 678
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a39133a40876b6790800000000000000
+      internalID: -7535815750776055494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_107
+      rect:
+        serializedVersion: 2
+        x: 2933
+        y: 677
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57d2dbfbc02ee130800000000000000
+      internalID: 3597849212790953822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_108
+      rect:
+        serializedVersion: 2
+        x: 3023
+        y: 683
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a7dc4fa31925e60800000000000000
+      internalID: 7949575974663584276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_109
+      rect:
+        serializedVersion: 2
+        x: 3272
+        y: 689
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd1c3fa0dbdee6f0800000000000000
+      internalID: -653343206582510142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_110
+      rect:
+        serializedVersion: 2
+        x: 3923
+        y: 650
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee8cea8569e720020800000000000000
+      internalID: 2306545143365159150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_111
+      rect:
+        serializedVersion: 2
+        x: 3297
+        y: 677
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc19e30a3c9daf2e0800000000000000
+      internalID: -2091119642729868851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_112
+      rect:
+        serializedVersion: 2
+        x: 2215
+        y: 649
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78dbcbae38ed8c0c0800000000000000
+      internalID: -4555146364924936825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_113
+      rect:
+        serializedVersion: 2
+        x: 2427
+        y: 647
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39b08cf0a9983d40800000000000000
+      internalID: 5564366256326359359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_114
+      rect:
+        serializedVersion: 2
+        x: 2682
+        y: 650
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2efecb9c851ee6290800000000000000
+      internalID: -7895125325275926558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_115
+      rect:
+        serializedVersion: 2
+        x: 2833
+        y: 647
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: addb275bc050a36b0800000000000000
+      internalID: -5315930858015506982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_116
+      rect:
+        serializedVersion: 2
+        x: 3044
+        y: 646
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d40fb402c492d90800000000000000
+      internalID: -7122077634113024610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_117
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 649
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6743c1979c2446980800000000000000
+      internalID: -8546632759754607498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_118
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 621
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccbd9647b8f65da20800000000000000
+      internalID: 3086495764376574924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_119
+      rect:
+        serializedVersion: 2
+        x: 2655
+        y: 610
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf74385d233e3660800000000000000
+      internalID: 7367382310271090650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_120
+      rect:
+        serializedVersion: 2
+        x: 2709
+        y: 617
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bba973c4ee641f30800000000000000
+      internalID: 4545379852734802868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_121
+      rect:
+        serializedVersion: 2
+        x: 2868
+        y: 620
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a2aaad40871e9310800000000000000
+      internalID: 1413593172867195560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_122
+      rect:
+        serializedVersion: 2
+        x: 3273
+        y: 609
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5553ae3958f55ad60800000000000000
+      internalID: 7900826148608292181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_123
+      rect:
+        serializedVersion: 2
+        x: 3327
+        y: 616
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0228ed8319a21ede0800000000000000
+      internalID: -1305715613748002272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_124
+      rect:
+        serializedVersion: 2
+        x: 2282
+        y: 601
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45babfc294ecc4580800000000000000
+      internalID: -8841465154752500908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_125
+      rect:
+        serializedVersion: 2
+        x: 2655
+        y: 586
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83247377b8ddd3200800000000000000
+      internalID: 161528752725508664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_126
+      rect:
+        serializedVersion: 2
+        x: 2899
+        y: 600
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0194d2aa7749f1af0800000000000000
+      internalID: -423456598272423664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_127
+      rect:
+        serializedVersion: 2
+        x: 2741
+        y: 580
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9e30d08c13e7910800000000000000
+      internalID: 1836960433295321554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_128
+      rect:
+        serializedVersion: 2
+        x: 2754
+        y: 585
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465292bfe0a852fe0800000000000000
+      internalID: -1214412727558527644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_129
+      rect:
+        serializedVersion: 2
+        x: 3273
+        y: 585
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76045c4b66ac6bdd0800000000000000
+      internalID: -2470564803097837465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_130
+      rect:
+        serializedVersion: 2
+        x: 3358
+        y: 578
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f9e2f0a2cdf14490800000000000000
+      internalID: -7763645270244267535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_131
+      rect:
+        serializedVersion: 2
+        x: 3372
+        y: 584
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6542c4439e2d414e0800000000000000
+      internalID: -2011751234481150890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_132
+      rect:
+        serializedVersion: 2
+        x: 2727
+        y: 570
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502deb752abdcf630800000000000000
+      internalID: 3962283262482502149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_133
+      rect:
+        serializedVersion: 2
+        x: 3345
+        y: 569
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2b506c4d69176b0800000000000000
+      internalID: -5300289445838867727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_134
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 552
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a24f019888e2520800000000000000
+      internalID: 2679228950608357944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_135
+      rect:
+        serializedVersion: 2
+        x: 2744
+        y: 558
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de24755adab94d010800000000000000
+      internalID: 1212765369775112941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_136
+      rect:
+        serializedVersion: 2
+        x: 2922
+        y: 551
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0802524f1b0424440800000000000000
+      internalID: 4918564876091465856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_137
+      rect:
+        serializedVersion: 2
+        x: 3362
+        y: 556
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d90306eda18a91a0800000000000000
+      internalID: -6801981703301428783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_138
+      rect:
+        serializedVersion: 2
+        x: 2242
+        y: 541
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0551ffae5d518b560800000000000000
+      internalID: 7329632402060285264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_139
+      rect:
+        serializedVersion: 2
+        x: 2744
+        y: 544
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a266d2371135dbf70800000000000000
+      internalID: 9204604547827066410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_140
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 539
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c1c470111fce520800000000000000
+      internalID: 2732824129346214948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_141
+      rect:
+        serializedVersion: 2
+        x: 3362
+        y: 542
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419559eb797f0e740800000000000000
+      internalID: 5179411802585651476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_142
+      rect:
+        serializedVersion: 2
+        x: 2282
+        y: 524
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52dd388e65c6c6eb0800000000000000
+      internalID: -4725282788494549723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_143
+      rect:
+        serializedVersion: 2
+        x: 2689
+        y: 528
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8704e60e4edb32730800000000000000
+      internalID: 3973228086986424440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_144
+      rect:
+        serializedVersion: 2
+        x: 2738
+        y: 526
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920cb5d395567de20800000000000000
+      internalID: 3375277879693393961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_145
+      rect:
+        serializedVersion: 2
+        x: 2754
+        y: 521
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 475189667ab43d900800000000000000
+      internalID: 707992748780164468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_146
+      rect:
+        serializedVersion: 2
+        x: 2899
+        y: 523
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3f8fac151063360800000000000000
+      internalID: 7148902909306532839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_147
+      rect:
+        serializedVersion: 2
+        x: 3307
+        y: 527
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7b14148f1bdc470800000000000000
+      internalID: 8416578958430156745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_148
+      rect:
+        serializedVersion: 2
+        x: 3356
+        y: 525
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c813cc42cee95ba50800000000000000
+      internalID: 6536305171264975244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_149
+      rect:
+        serializedVersion: 2
+        x: 3372
+        y: 519
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940188dee0826a570800000000000000
+      internalID: 8477507393151307849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_150
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 502
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e612c790b6128f80800000000000000
+      internalID: -8105891431597336863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_151
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 502
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3ae77bfbd6e4e20800000000000000
+      internalID: 3336725044112827353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_152
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 494
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97299e5e09c195820800000000000000
+      internalID: 2907386443102524025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_153
+      rect:
+        serializedVersion: 2
+        x: 2807
+        y: 501
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17174da09338b2f90800000000000000
+      internalID: -6977338916662382223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_154
+      rect:
+        serializedVersion: 2
+        x: 3274
+        y: 500
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57faca0313c8957a0800000000000000
+      internalID: -6387920453550428299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_155
+      rect:
+        serializedVersion: 2
+        x: 3366
+        y: 493
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81764ea3189661a40800000000000000
+      internalID: 5338570412054046488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_156
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 486
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e8e12b5650ec0a90800000000000000
+      internalID: -7346250230647363356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_157
+      rect:
+        serializedVersion: 2
+        x: 2266
+        y: 485
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8bac63054264100800000000000000
+      internalID: 91800769342912688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_158
+      rect:
+        serializedVersion: 2
+        x: 2287
+        y: 487
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b495a4cfa97b930800000000000000
+      internalID: 4158963189269744497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_159
+      rect:
+        serializedVersion: 2
+        x: 2858
+        y: 485
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f58dc3ae6ad23690800000000000000
+      internalID: -7623791050455415311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_160
+      rect:
+        serializedVersion: 2
+        x: 2884
+        y: 483
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751f135217a09a2f0800000000000000
+      internalID: -961225564395277993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_161
+      rect:
+        serializedVersion: 2
+        x: 2905
+        y: 486
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cfa4b9b25382def0800000000000000
+      internalID: -84861051640434752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_162
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 461
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f472f519086a281b0800000000000000
+      internalID: -5655775110898964657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_163
+      rect:
+        serializedVersion: 2
+        x: 2237
+        y: 448
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5f7a5d7da79aa00800000000000000
+      internalID: 768280278864492015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_164
+      rect:
+        serializedVersion: 2
+        x: 2661
+        y: 471
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87381eb585f3b620800000000000000
+      internalID: 2788842549041182602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_165
+      rect:
+        serializedVersion: 2
+        x: 2695
+        y: 470
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310ef1bccea215180800000000000000
+      internalID: -9128467773194772461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_166
+      rect:
+        serializedVersion: 2
+        x: 2747
+        y: 461
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31004d5435a541900800000000000000
+      internalID: 654247159575871507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_167
+      rect:
+        serializedVersion: 2
+        x: 2818
+        y: 460
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361f8aeba5f490ae0800000000000000
+      internalID: -1582646542879624861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_168
+      rect:
+        serializedVersion: 2
+        x: 2855
+        y: 446
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a56156e52fc9900800000000000000
+      internalID: 692694929945025031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_169
+      rect:
+        serializedVersion: 2
+        x: 3279
+        y: 470
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f74ef34c2b852d0800000000000000
+      internalID: -3289682971838873757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_170
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 469
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88368478729566ec0800000000000000
+      internalID: -3574071227963645048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_171
+      rect:
+        serializedVersion: 2
+        x: 3365
+        y: 458
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ebd90ca30448fd90800000000000000
+      internalID: -7063821232968705054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_172
+      rect:
+        serializedVersion: 2
+        x: 2631
+        y: 459
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86687eec99023f40800000000000000
+      internalID: 5706634247452255884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_173
+      rect:
+        serializedVersion: 2
+        x: 3249
+        y: 457
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292f8373ae088c5a0800000000000000
+      internalID: -6500804318672129390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_174
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 441
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e3db5bda98b04f0800000000000000
+      internalID: -861443524539892163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_175
+      rect:
+        serializedVersion: 2
+        x: 2317
+        y: 435
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277b4da14603ac860800000000000000
+      internalID: 7550900931745068914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_176
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 442
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1d7260386707120800000000000000
+      internalID: 2409556105759281576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_177
+      rect:
+        serializedVersion: 2
+        x: 2741
+        y: 445
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e8d5b3f80733a40800000000000000
+      internalID: 5346740943097531999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_178
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 438
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1725ceacdb62b460800000000000000
+      internalID: 7255980545216423711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_179
+      rect:
+        serializedVersion: 2
+        x: 2836
+        y: 440
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed253868478786a0800000000000000
+      internalID: -6447035596501864987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_180
+      rect:
+        serializedVersion: 2
+        x: 3270
+        y: 441
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4937763a6cd958350800000000000000
+      internalID: 6018389953521087380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_181
+      rect:
+        serializedVersion: 2
+        x: 3359
+        y: 444
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4073aa2946b5ec890800000000000000
+      internalID: -7435905447226624252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_182
+      rect:
+        serializedVersion: 2
+        x: 3374
+        y: 436
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c65bc21dc4787b0800000000000000
+      internalID: -5222120781630837712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_183
+      rect:
+        serializedVersion: 2
+        x: 2617
+        y: 427
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc89e840bd4294b0800000000000000
+      internalID: -5435196380749919037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_184
+      rect:
+        serializedVersion: 2
+        x: 2935
+        y: 433
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a01eb655bd5932a0800000000000000
+      internalID: -6757266732466958169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_185
+      rect:
+        serializedVersion: 2
+        x: 3235
+        y: 426
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a2b4f1e3ea7a9510800000000000000
+      internalID: 1556691740377002664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_186
+      rect:
+        serializedVersion: 2
+        x: 2204
+        y: 413
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d316cf7d1bf713da0800000000000000
+      internalID: -5966847629479616195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_187
+      rect:
+        serializedVersion: 2
+        x: 2741
+        y: 401
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28cf92f7727bf4610800000000000000
+      internalID: 1607704972259622018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_188
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 415
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6bf52d4034fa8200800000000000000
+      internalID: 183227223151868783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_189
+      rect:
+        serializedVersion: 2
+        x: 2821
+        y: 412
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1172c8ef0f723310800000000000000
+      internalID: 1383307741862457628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_190
+      rect:
+        serializedVersion: 2
+        x: 3359
+        y: 400
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5ef9a2a63d46d20800000000000000
+      internalID: 3270971682312938985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_191
+      rect:
+        serializedVersion: 2
+        x: 3370
+        y: 414
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8413a559b1f105e30800000000000000
+      internalID: 4490123031818678600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_192
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 394
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c0ca3745220deb0800000000000000
+      internalID: -4697216665234174926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_193
+      rect:
+        serializedVersion: 2
+        x: 2699
+        y: 393
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27fd93a244885fd80800000000000000
+      internalID: -8217512118720012430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_194
+      rect:
+        serializedVersion: 2
+        x: 3294
+        y: 393
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b15e03336a0dc00800000000000000
+      internalID: 923420662404815764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_195
+      rect:
+        serializedVersion: 2
+        x: 3317
+        y: 392
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222fc326593e3f250800000000000000
+      internalID: 5977371361188573730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_196
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 363
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa51dd5e95e7f2240800000000000000
+      internalID: 4769169454982305199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_197
+      rect:
+        serializedVersion: 2
+        x: 2161
+        y: 375
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d068181b48372c9f0800000000000000
+      internalID: -449669999032695283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_198
+      rect:
+        serializedVersion: 2
+        x: 2210
+        y: 371
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba8ffd00c508c0a0800000000000000
+      internalID: -6861227709872239947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_199
+      rect:
+        serializedVersion: 2
+        x: 2639
+        y: 370
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1945e494c1d898e20800000000000000
+      internalID: 3353366550182515857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_200
+      rect:
+        serializedVersion: 2
+        x: 2708
+        y: 370
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531de2a9fee978ff0800000000000000
+      internalID: -33883720260857547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_201
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 375
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3289d3604b0910af0800000000000000
+      internalID: -431904986377643997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_202
+      rect:
+        serializedVersion: 2
+        x: 2767
+        y: 362
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a046856e9c30760800000000000000
+      internalID: 7422998601999321621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_203
+      rect:
+        serializedVersion: 2
+        x: 2779
+        y: 374
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185406a65f420f970800000000000000
+      internalID: 8786563509470119297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_204
+      rect:
+        serializedVersion: 2
+        x: 2827
+        y: 369
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560c0ad1a7db99a60800000000000000
+      internalID: 7681378971637825637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_205
+      rect:
+        serializedVersion: 2
+        x: 3257
+        y: 368
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc903e8b8447a8f20800000000000000
+      internalID: 3425678322257037771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_206
+      rect:
+        serializedVersion: 2
+        x: 3326
+        y: 368
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a17e35950905e690800000000000000
+      internalID: -7573637278770237019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_207
+      rect:
+        serializedVersion: 2
+        x: 3348
+        y: 373
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5a7fd5508151220800000000000000
+      internalID: 2455895583130887626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_208
+      rect:
+        serializedVersion: 2
+        x: 2613
+        y: 343
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697e7a53ee5f84b00800000000000000
+      internalID: 813170136191592342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_209
+      rect:
+        serializedVersion: 2
+        x: 2639
+        y: 344
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c4e066604c3cc50800000000000000
+      internalID: 6684401803709009026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_210
+      rect:
+        serializedVersion: 2
+        x: 2677
+        y: 347
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ab87dca1e949370800000000000000
+      internalID: 8328455448868469364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_211
+      rect:
+        serializedVersion: 2
+        x: 2711
+        y: 350
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab55c618572445e60800000000000000
+      internalID: 7950052314665735610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_212
+      rect:
+        serializedVersion: 2
+        x: 3231
+        y: 342
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2c9efa193414140800000000000000
+      internalID: 4702113778952159936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_213
+      rect:
+        serializedVersion: 2
+        x: 3257
+        y: 343
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe1102867369faa10800000000000000
+      internalID: 1922920730624791023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_214
+      rect:
+        serializedVersion: 2
+        x: 3294
+        y: 346
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b038af81763d7040800000000000000
+      internalID: 4646930251885588664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_215
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 349
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7017f2fc7460de2b0800000000000000
+      internalID: -5553775859989516025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_216
+      rect:
+        serializedVersion: 2
+        x: 2163
+        y: 339
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf71784f11162b7f0800000000000000
+      internalID: -598309070742022149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_217
+      rect:
+        serializedVersion: 2
+        x: 2602
+        y: 335
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b3db553a04304a0800000000000000
+      internalID: -6628383156296926370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_218
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 321
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc64948c0f744fac0800000000000000
+      internalID: -3822351084252739889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_219
+      rect:
+        serializedVersion: 2
+        x: 2781
+        y: 337
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf63f28818b2cb10800000000000000
+      internalID: 2000363599921639363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_220
+      rect:
+        serializedVersion: 2
+        x: 3220
+        y: 334
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c962fd6afb1d4c820800000000000000
+      internalID: 2937703478021007004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_221
+      rect:
+        serializedVersion: 2
+        x: 3228
+        y: 320
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b73aef381e6102030800000000000000
+      internalID: 3467796870913237883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_222
+      rect:
+        serializedVersion: 2
+        x: 2321
+        y: 295
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8690dc0003f42e830800000000000000
+      internalID: 4098925678451034472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_223
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 298
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166404a5f8e0eee80800000000000000
+      internalID: -8147558667009374623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_224
+      rect:
+        serializedVersion: 2
+        x: 2532
+        y: 303
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec59cb1104bc0f30800000000000000
+      internalID: 4543204040964136164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_225
+      rect:
+        serializedVersion: 2
+        x: 2939
+        y: 294
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68e65015e56a6570800000000000000
+      internalID: 8460686884464945262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_226
+      rect:
+        serializedVersion: 2
+        x: 3128
+        y: 296
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d00da500df7ac9b0800000000000000
+      internalID: -5059090699972181803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_227
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 302
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d0d8762efca08460800000000000000
+      internalID: 7241978408378880212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_228
+      rect:
+        serializedVersion: 2
+        x: 2235
+        y: 269
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3da5ae4f3b5e470800000000000000
+      internalID: 8423336542551593944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_229
+      rect:
+        serializedVersion: 2
+        x: 2277
+        y: 277
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16d474de3e713260800000000000000
+      internalID: 7075575297893258781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_230
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 270
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c40fa9101a9a9d0800000000000000
+      internalID: -2762499868148609983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_231
+      rect:
+        serializedVersion: 2
+        x: 2740
+        y: 283
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94af43e9db698adc0800000000000000
+      internalID: -3627483758699677111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_232
+      rect:
+        serializedVersion: 2
+        x: 2853
+        y: 268
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6222f7e4bc87f60800000000000000
+      internalID: 8032393473416111809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_233
+      rect:
+        serializedVersion: 2
+        x: 2894
+        y: 275
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e148fd05fcd81f3e0800000000000000
+      internalID: -2021678836158069730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_234
+      rect:
+        serializedVersion: 2
+        x: 3168
+        y: 269
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27311083e8dd8a2a0800000000000000
+      internalID: -6725882440583146638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_235
+      rect:
+        serializedVersion: 2
+        x: 3358
+        y: 282
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0556f6b6294b8450800000000000000
+      internalID: 6092043351575909647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_236
+      rect:
+        serializedVersion: 2
+        x: 2285
+        y: 258
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2110bde16cb2a1860800000000000000
+      internalID: 7501356259260170514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_237
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 269
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316b12ee34d576160800000000000000
+      internalID: 7018681090619586067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_238
+      rect:
+        serializedVersion: 2
+        x: 2468
+        y: 255
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b119d3f6c6bbcba80800000000000000
+      internalID: -8449672726456725221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_239
+      rect:
+        serializedVersion: 2
+        x: 2903
+        y: 256
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a939dd6d7140e7100800000000000000
+      internalID: 107527941539074970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_240
+      rect:
+        serializedVersion: 2
+        x: 2927
+        y: 267
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e81f4b2d5070f7c0800000000000000
+      internalID: -4039605320290461469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_241
+      rect:
+        serializedVersion: 2
+        x: 3086
+        y: 254
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfbb057e7e4eb6140800000000000000
+      internalID: 4714113119642762237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_242
+      rect:
+        serializedVersion: 2
+        x: 3892
+        y: 256
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0979065db7a425e50800000000000000
+      internalID: 6796576683376809872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_243
+      rect:
+        serializedVersion: 2
+        x: 3900
+        y: 231
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c15a975d43996fd0800000000000000
+      internalID: -2348183770305506876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_244
+      rect:
+        serializedVersion: 2
+        x: 2197
+        y: 258
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833a160c8c52a15e0800000000000000
+      internalID: -1938195145478266056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_245
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 250
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aafad050aecebdeb0800000000000000
+      internalID: -4693897696752324694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_246
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 245
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3fe7ffa4f4496cc0800000000000000
+      internalID: -3717364199702663362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_247
+      rect:
+        serializedVersion: 2
+        x: 2540
+        y: 249
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7518d3836e449e0800000000000000
+      internalID: -1637931235231574052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_248
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 256
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e7c70ac25497e10800000000000000
+      internalID: 2195862351293218415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_249
+      rect:
+        serializedVersion: 2
+        x: 2921
+        y: 249
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91924673982e96c50800000000000000
+      internalID: 6659102603011696921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_250
+      rect:
+        serializedVersion: 2
+        x: 3144
+        y: 244
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01b71048a4cc3750800000000000000
+      internalID: 6286115406811214095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_251
+      rect:
+        serializedVersion: 2
+        x: 3158
+        y: 247
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68dbe1a4686b136e0800000000000000
+      internalID: -1859504483241902714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_252
+      rect:
+        serializedVersion: 2
+        x: 2669
+        y: 248
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7763c94f5aea9d2c0800000000000000
+      internalID: -4406298732608604553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_253
+      rect:
+        serializedVersion: 2
+        x: 3287
+        y: 246
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcbd42a8d6d8f1dd0800000000000000
+      internalID: -2513134565440824369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_254
+      rect:
+        serializedVersion: 2
+        x: 3386
+        y: 170
+        width: 69
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6518491151da91a90800000000000000
+      internalID: -7342647411450019498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_255
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 231
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb76214285ebe33a0800000000000000
+      internalID: -6683695511199651909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_256
+      rect:
+        serializedVersion: 2
+        x: 2664
+        y: 234
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d7008bfb638abc0800000000000000
+      internalID: -3771704490869097138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_257
+      rect:
+        serializedVersion: 2
+        x: 2679
+        y: 220
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2d2abc92876c300800000000000000
+      internalID: 272036948407931588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_258
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 230
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c482c062d39b0ee30800000000000000
+      internalID: 4530824897417193548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_259
+      rect:
+        serializedVersion: 2
+        x: 3281
+        y: 233
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e186a6f3615c1740800000000000000
+      internalID: 5124059965822501348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_260
+      rect:
+        serializedVersion: 2
+        x: 3297
+        y: 234
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c225aefc6157c00800000000000000
+      internalID: 897648782975577146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_261
+      rect:
+        serializedVersion: 2
+        x: 3309
+        y: 218
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb97c64910aa94e0800000000000000
+      internalID: -1974089456226427923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_262
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 172
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a5df6e51bce5e40800000000000000
+      internalID: 5647174277699295807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_263
+      rect:
+        serializedVersion: 2
+        x: 3809
+        y: 198
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb666db9c5389020800000000000000
+      internalID: 2348686346256018371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_264
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 193
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c26dc698aead03e0800000000000000
+      internalID: -2085819013294890297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_265
+      rect:
+        serializedVersion: 2
+        x: 2429
+        y: 203
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6b626e1251f7190800000000000000
+      internalID: -7962622380828346709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_266
+      rect:
+        serializedVersion: 2
+        x: 3018
+        y: 192
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab4652a0c6266cb0800000000000000
+      internalID: -4871163338155471957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_267
+      rect:
+        serializedVersion: 2
+        x: 3047
+        y: 201
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4672c937ee0c54790800000000000000
+      internalID: -7546413470215035036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_268
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 148
+        width: 62
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a15f14758e8879d0800000000000000
+      internalID: -2776312466443906648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_269
+      rect:
+        serializedVersion: 2
+        x: 2481
+        y: 187
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b46f46fe87ef88f0800000000000000
+      internalID: -535955229430029128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_270
+      rect:
+        serializedVersion: 2
+        x: 2493
+        y: 185
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af472ff448038a80800000000000000
+      internalID: -8465913782094835806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_271
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 180
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b565ed8d2b9408d0800000000000000
+      internalID: -2881007241653819980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_272
+      rect:
+        serializedVersion: 2
+        x: 3099
+        y: 186
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f53f8a7caa344b50800000000000000
+      internalID: 6576445868332758512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_273
+      rect:
+        serializedVersion: 2
+        x: 3111
+        y: 184
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976fe20290aa3beb0800000000000000
+      internalID: -4705230229500660103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_274
+      rect:
+        serializedVersion: 2
+        x: 3144
+        y: 178
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c3c25e7f0a50e70800000000000000
+      internalID: 9080841210224721004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_275
+      rect:
+        serializedVersion: 2
+        x: 3747
+        y: 155
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567fcfff1f9ba1ca0800000000000000
+      internalID: -6045315100758444187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_276
+      rect:
+        serializedVersion: 2
+        x: 3834
+        y: 149
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3709e6d68bc1ab0800000000000000
+      internalID: -5035947503161150555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_277
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 175
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358d873ffc99db910800000000000000
+      internalID: 1854807739968575571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_278
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 160
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3dec96e3e5216c0800000000000000
+      internalID: -4174170282462882852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_279
+      rect:
+        serializedVersion: 2
+        x: 2953
+        y: 174
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76614493c7d20b970800000000000000
+      internalID: 8768558486050313831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_280
+      rect:
+        serializedVersion: 2
+        x: 3098
+        y: 159
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9814c5e63ca1b60800000000000000
+      internalID: 7717695790214384076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_281
+      rect:
+        serializedVersion: 2
+        x: 2279
+        y: 154
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ac184a071dce190800000000000000
+      internalID: -7931734561979774448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_282
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 160
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a3fa0f15d229060800000000000000
+      internalID: 6958674204194454162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_283
+      rect:
+        serializedVersion: 2
+        x: 2395
+        y: 149
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7fd0676b56c23f0800000000000000
+      internalID: -924251989178714125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_284
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 159
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8495c6554f2d7570800000000000000
+      internalID: 8465974849381438606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_285
+      rect:
+        serializedVersion: 2
+        x: 2414
+        y: 153
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7910af48f524d30800000000000000
+      internalID: 4414195609511237576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_286
+      rect:
+        serializedVersion: 2
+        x: 2509
+        y: 157
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1b803889c38cc60800000000000000
+      internalID: 7838581777169428964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_287
+      rect:
+        serializedVersion: 2
+        x: 2897
+        y: 152
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9358479e396458fc0800000000000000
+      internalID: -3493308334865087175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_288
+      rect:
+        serializedVersion: 2
+        x: 2949
+        y: 159
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131575da6c5614870800000000000000
+      internalID: 8665319062023655729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_289
+      rect:
+        serializedVersion: 2
+        x: 3018
+        y: 158
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ff91c0fcb776c60800000000000000
+      internalID: 7811348207888891780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_290
+      rect:
+        serializedVersion: 2
+        x: 3032
+        y: 152
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922279ad6ab52dc70800000000000000
+      internalID: 8994352178002338345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_291
+      rect:
+        serializedVersion: 2
+        x: 3127
+        y: 156
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c47914c919dc080800000000000000
+      internalID: -9165509566327731146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash Value-regular_292
+      rect:
+        serializedVersion: 2
+        x: 3013
+        y: 147
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 775518a1637590180800000000000000
+      internalID: -9148685278141917833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Cash Value-regular_0: -551038553251725888
+      Cash Value-regular_1: 5370471770959538440
+      Cash Value-regular_10: -3458606602162887796
+      Cash Value-regular_100: 2870738869278145133
+      Cash Value-regular_101: 150497315352614334
+      Cash Value-regular_102: -4088130722480423669
+      Cash Value-regular_103: 1469175624628157468
+      Cash Value-regular_104: -2695580934721910204
+      Cash Value-regular_105: -5533365473376703650
+      Cash Value-regular_106: -7535815750776055494
+      Cash Value-regular_107: 3597849212790953822
+      Cash Value-regular_108: 7949575974663584276
+      Cash Value-regular_109: -653343206582510142
+      Cash Value-regular_11: 6736551988098282812
+      Cash Value-regular_110: 2306545143365159150
+      Cash Value-regular_111: -2091119642729868851
+      Cash Value-regular_112: -4555146364924936825
+      Cash Value-regular_113: 5564366256326359359
+      Cash Value-regular_114: -7895125325275926558
+      Cash Value-regular_115: -5315930858015506982
+      Cash Value-regular_116: -7122077634113024610
+      Cash Value-regular_117: -8546632759754607498
+      Cash Value-regular_118: 3086495764376574924
+      Cash Value-regular_119: 7367382310271090650
+      Cash Value-regular_12: -4937331223777930331
+      Cash Value-regular_120: 4545379852734802868
+      Cash Value-regular_121: 1413593172867195560
+      Cash Value-regular_122: 7900826148608292181
+      Cash Value-regular_123: -1305715613748002272
+      Cash Value-regular_124: -8841465154752500908
+      Cash Value-regular_125: 161528752725508664
+      Cash Value-regular_126: -423456598272423664
+      Cash Value-regular_127: 1836960433295321554
+      Cash Value-regular_128: -1214412727558527644
+      Cash Value-regular_129: -2470564803097837465
+      Cash Value-regular_13: 4503453613662535634
+      Cash Value-regular_130: -7763645270244267535
+      Cash Value-regular_131: -2011751234481150890
+      Cash Value-regular_132: 3962283262482502149
+      Cash Value-regular_133: -5300289445838867727
+      Cash Value-regular_134: 2679228950608357944
+      Cash Value-regular_135: 1212765369775112941
+      Cash Value-regular_136: 4918564876091465856
+      Cash Value-regular_137: -6801981703301428783
+      Cash Value-regular_138: 7329632402060285264
+      Cash Value-regular_139: 9204604547827066410
+      Cash Value-regular_14: 5343045566934107639
+      Cash Value-regular_140: 2732824129346214948
+      Cash Value-regular_141: 5179411802585651476
+      Cash Value-regular_142: -4725282788494549723
+      Cash Value-regular_143: 3973228086986424440
+      Cash Value-regular_144: 3375277879693393961
+      Cash Value-regular_145: 707992748780164468
+      Cash Value-regular_146: 7148902909306532839
+      Cash Value-regular_147: 8416578958430156745
+      Cash Value-regular_148: 6536305171264975244
+      Cash Value-regular_149: 8477507393151307849
+      Cash Value-regular_15: 2797236396993092231
+      Cash Value-regular_150: -8105891431597336863
+      Cash Value-regular_151: 3336725044112827353
+      Cash Value-regular_152: 2907386443102524025
+      Cash Value-regular_153: -6977338916662382223
+      Cash Value-regular_154: -6387920453550428299
+      Cash Value-regular_155: 5338570412054046488
+      Cash Value-regular_156: -7346250230647363356
+      Cash Value-regular_157: 91800769342912688
+      Cash Value-regular_158: 4158963189269744497
+      Cash Value-regular_159: -7623791050455415311
+      Cash Value-regular_16: 7162025125567471560
+      Cash Value-regular_160: -961225564395277993
+      Cash Value-regular_161: -84861051640434752
+      Cash Value-regular_162: -5655775110898964657
+      Cash Value-regular_163: 768280278864492015
+      Cash Value-regular_164: 2788842549041182602
+      Cash Value-regular_165: -9128467773194772461
+      Cash Value-regular_166: 654247159575871507
+      Cash Value-regular_167: -1582646542879624861
+      Cash Value-regular_168: 692694929945025031
+      Cash Value-regular_169: -3289682971838873757
+      Cash Value-regular_17: -5498707360281688506
+      Cash Value-regular_170: -3574071227963645048
+      Cash Value-regular_171: -7063821232968705054
+      Cash Value-regular_172: 5706634247452255884
+      Cash Value-regular_173: -6500804318672129390
+      Cash Value-regular_174: -861443524539892163
+      Cash Value-regular_175: 7550900931745068914
+      Cash Value-regular_176: 2409556105759281576
+      Cash Value-regular_177: 5346740943097531999
+      Cash Value-regular_178: 7255980545216423711
+      Cash Value-regular_179: -6447035596501864987
+      Cash Value-regular_18: -1055695469902575549
+      Cash Value-regular_180: 6018389953521087380
+      Cash Value-regular_181: -7435905447226624252
+      Cash Value-regular_182: -5222120781630837712
+      Cash Value-regular_183: -5435196380749919037
+      Cash Value-regular_184: -6757266732466958169
+      Cash Value-regular_185: 1556691740377002664
+      Cash Value-regular_186: -5966847629479616195
+      Cash Value-regular_187: 1607704972259622018
+      Cash Value-regular_188: 183227223151868783
+      Cash Value-regular_189: 1383307741862457628
+      Cash Value-regular_19: 6740662384282533179
+      Cash Value-regular_190: 3270971682312938985
+      Cash Value-regular_191: 4490123031818678600
+      Cash Value-regular_192: -4697216665234174926
+      Cash Value-regular_193: -8217512118720012430
+      Cash Value-regular_194: 923420662404815764
+      Cash Value-regular_195: 5977371361188573730
+      Cash Value-regular_196: 4769169454982305199
+      Cash Value-regular_197: -449669999032695283
+      Cash Value-regular_198: -6861227709872239947
+      Cash Value-regular_199: 3353366550182515857
+      Cash Value-regular_2: -2442043979952807007
+      Cash Value-regular_20: -4568861277413437284
+      Cash Value-regular_200: -33883720260857547
+      Cash Value-regular_201: -431904986377643997
+      Cash Value-regular_202: 7422998601999321621
+      Cash Value-regular_203: 8786563509470119297
+      Cash Value-regular_204: 7681378971637825637
+      Cash Value-regular_205: 3425678322257037771
+      Cash Value-regular_206: -7573637278770237019
+      Cash Value-regular_207: 2455895583130887626
+      Cash Value-regular_208: 813170136191592342
+      Cash Value-regular_209: 6684401803709009026
+      Cash Value-regular_21: 8625816570650826697
+      Cash Value-regular_210: 8328455448868469364
+      Cash Value-regular_211: 7950052314665735610
+      Cash Value-regular_212: 4702113778952159936
+      Cash Value-regular_213: 1922920730624791023
+      Cash Value-regular_214: 4646930251885588664
+      Cash Value-regular_215: -5553775859989516025
+      Cash Value-regular_216: -598309070742022149
+      Cash Value-regular_217: -6628383156296926370
+      Cash Value-regular_218: -3822351084252739889
+      Cash Value-regular_219: 2000363599921639363
+      Cash Value-regular_22: -4521121261511866343
+      Cash Value-regular_220: 2937703478021007004
+      Cash Value-regular_221: 3467796870913237883
+      Cash Value-regular_222: 4098925678451034472
+      Cash Value-regular_223: -8147558667009374623
+      Cash Value-regular_224: 4543204040964136164
+      Cash Value-regular_225: 8460686884464945262
+      Cash Value-regular_226: -5059090699972181803
+      Cash Value-regular_227: 7241978408378880212
+      Cash Value-regular_228: 8423336542551593944
+      Cash Value-regular_229: 7075575297893258781
+      Cash Value-regular_23: -3605969213765618802
+      Cash Value-regular_230: -2762499868148609983
+      Cash Value-regular_231: -3627483758699677111
+      Cash Value-regular_232: 8032393473416111809
+      Cash Value-regular_233: -2021678836158069730
+      Cash Value-regular_234: -6725882440583146638
+      Cash Value-regular_235: 6092043351575909647
+      Cash Value-regular_236: 7501356259260170514
+      Cash Value-regular_237: 7018681090619586067
+      Cash Value-regular_238: -8449672726456725221
+      Cash Value-regular_239: 107527941539074970
+      Cash Value-regular_24: -4260993251183781387
+      Cash Value-regular_240: -4039605320290461469
+      Cash Value-regular_241: 4714113119642762237
+      Cash Value-regular_242: 6796576683376809872
+      Cash Value-regular_243: -2348183770305506876
+      Cash Value-regular_244: -1938195145478266056
+      Cash Value-regular_245: -4693897696752324694
+      Cash Value-regular_246: -3717364199702663362
+      Cash Value-regular_247: -1637931235231574052
+      Cash Value-regular_248: 2195862351293218415
+      Cash Value-regular_249: 6659102603011696921
+      Cash Value-regular_25: 5900493323125797658
+      Cash Value-regular_250: 6286115406811214095
+      Cash Value-regular_251: -1859504483241902714
+      Cash Value-regular_252: -4406298732608604553
+      Cash Value-regular_253: -2513134565440824369
+      Cash Value-regular_254: -7342647411450019498
+      Cash Value-regular_255: -6683695511199651909
+      Cash Value-regular_256: -3771704490869097138
+      Cash Value-regular_257: 272036948407931588
+      Cash Value-regular_258: 4530824897417193548
+      Cash Value-regular_259: 5124059965822501348
+      Cash Value-regular_26: -3281619373648531893
+      Cash Value-regular_260: 897648782975577146
+      Cash Value-regular_261: -1974089456226427923
+      Cash Value-regular_262: 5647174277699295807
+      Cash Value-regular_263: 2348686346256018371
+      Cash Value-regular_264: -2085819013294890297
+      Cash Value-regular_265: -7962622380828346709
+      Cash Value-regular_266: -4871163338155471957
+      Cash Value-regular_267: -7546413470215035036
+      Cash Value-regular_268: -2776312466443906648
+      Cash Value-regular_269: -535955229430029128
+      Cash Value-regular_27: -6175963402066978645
+      Cash Value-regular_270: -8465913782094835806
+      Cash Value-regular_271: -2881007241653819980
+      Cash Value-regular_272: 6576445868332758512
+      Cash Value-regular_273: -4705230229500660103
+      Cash Value-regular_274: 9080841210224721004
+      Cash Value-regular_275: -6045315100758444187
+      Cash Value-regular_276: -5035947503161150555
+      Cash Value-regular_277: 1854807739968575571
+      Cash Value-regular_278: -4174170282462882852
+      Cash Value-regular_279: 8768558486050313831
+      Cash Value-regular_28: -3390787660633854996
+      Cash Value-regular_280: 7717695790214384076
+      Cash Value-regular_281: -7931734561979774448
+      Cash Value-regular_282: 6958674204194454162
+      Cash Value-regular_283: -924251989178714125
+      Cash Value-regular_284: 8465974849381438606
+      Cash Value-regular_285: 4414195609511237576
+      Cash Value-regular_286: 7838581777169428964
+      Cash Value-regular_287: -3493308334865087175
+      Cash Value-regular_288: 8665319062023655729
+      Cash Value-regular_289: 7811348207888891780
+      Cash Value-regular_29: -8988328586343653683
+      Cash Value-regular_290: 8994352178002338345
+      Cash Value-regular_291: -9165509566327731146
+      Cash Value-regular_292: -9148685278141917833
+      Cash Value-regular_3: -9184520957271918979
+      Cash Value-regular_30: 8434019103228304777
+      Cash Value-regular_31: 6945656072742937815
+      Cash Value-regular_32: -929599847447752728
+      Cash Value-regular_33: 7683081471967210935
+      Cash Value-regular_34: 1789435864869921372
+      Cash Value-regular_35: 3667850771857675772
+      Cash Value-regular_36: 8400122754496415205
+      Cash Value-regular_37: -5744335330798566243
+      Cash Value-regular_38: -330232239379313020
+      Cash Value-regular_39: -5214176382548597496
+      Cash Value-regular_4: 2500815057639063235
+      Cash Value-regular_40: -7088381357317582470
+      Cash Value-regular_41: 2360814134129694415
+      Cash Value-regular_42: -2254749879724599406
+      Cash Value-regular_43: -5539469780195120445
+      Cash Value-regular_44: -4817121284688167329
+      Cash Value-regular_45: -6381000116163013392
+      Cash Value-regular_46: -6818820183843266783
+      Cash Value-regular_47: -4704993242338639395
+      Cash Value-regular_48: 5291752694698516217
+      Cash Value-regular_49: -5385867642099487349
+      Cash Value-regular_5: 6509743118965607074
+      Cash Value-regular_50: 5251545949438774529
+      Cash Value-regular_51: 8677527518522007802
+      Cash Value-regular_52: -4286757560015061868
+      Cash Value-regular_53: -2613672372448632648
+      Cash Value-regular_54: 1830708267402600258
+      Cash Value-regular_55: 8180509133219701713
+      Cash Value-regular_56: 2438216151178263866
+      Cash Value-regular_57: 2625545788385983418
+      Cash Value-regular_58: -7847370900079693776
+      Cash Value-regular_59: 2116530672811130205
+      Cash Value-regular_6: 5103939621798471979
+      Cash Value-regular_60: 3372571529150153195
+      Cash Value-regular_61: -8656798084362871730
+      Cash Value-regular_62: 4178238623842381567
+      Cash Value-regular_63: -3279616013491788467
+      Cash Value-regular_64: 2319194000335079856
+      Cash Value-regular_65: 2989487233443112300
+      Cash Value-regular_66: 4288534814906120082
+      Cash Value-regular_67: -1853330083495682895
+      Cash Value-regular_68: -4396141299880568696
+      Cash Value-regular_69: 3108154903183902537
+      Cash Value-regular_7: -8248556479784023691
+      Cash Value-regular_70: -1487973298179658242
+      Cash Value-regular_71: -6355159409338936612
+      Cash Value-regular_72: 3190193600304849875
+      Cash Value-regular_73: 8454488321115506219
+      Cash Value-regular_74: -7742516015101721587
+      Cash Value-regular_75: 2061777048142857192
+      Cash Value-regular_76: 4535384328330514814
+      Cash Value-regular_77: 5950237451496106672
+      Cash Value-regular_78: 4260356137517557977
+      Cash Value-regular_79: -7743809795027552828
+      Cash Value-regular_8: 8609649360574135784
+      Cash Value-regular_80: 6655251287221142384
+      Cash Value-regular_81: -6816155981039503964
+      Cash Value-regular_82: -1261351120874994504
+      Cash Value-regular_83: 4767708804105553582
+      Cash Value-regular_84: 711349411710233247
+      Cash Value-regular_85: -4497374047338232499
+      Cash Value-regular_86: 7727144771638611317
+      Cash Value-regular_87: 8699380520645497723
+      Cash Value-regular_88: 1250000770401410703
+      Cash Value-regular_89: 1601242982574237565
+      Cash Value-regular_9: 8334796569908770812
+      Cash Value-regular_90: 4114819309779215570
+      Cash Value-regular_91: 1746252267218775001
+      Cash Value-regular_92: -5403809643879757605
+      Cash Value-regular_93: 8124452832486244138
+      Cash Value-regular_94: 2996079075251777422
+      Cash Value-regular_95: -5520735362593710072
+      Cash Value-regular_96: -3731108629223669478
+      Cash Value-regular_97: 8199347578309900204
+      Cash Value-regular_98: 2147891697109229808
+      Cash Value-regular_99: 4071373105233900464
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

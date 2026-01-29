@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26b1674101fae194da6a2708702f6718, type: 3}
+  m_Name: Card 8
+  m_EditorClassIdentifier: Assembly-CSharp::CardConfigSO
+  config:
+    id: 9
+    sprite: {fileID: 5452342757432072790, guid: c51e4ca867cf4aa49b90cd10c23bda97, type: 3}
+    value: 7
+    weight: 1

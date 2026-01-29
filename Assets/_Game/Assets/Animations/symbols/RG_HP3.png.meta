@@ -1,0 +1,4888 @@
+fileFormatVersion: 2
+guid: 0f95ad76a42db9748a3f12cb606b13cf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5716836064353233591
+    second: RG_HP3_0
+  - first:
+      213: 9192094178586178471
+    second: RG_HP3_1
+  - first:
+      213: 8756669737414745516
+    second: RG_HP3_2
+  - first:
+      213: -5901927975697111393
+    second: RG_HP3_3
+  - first:
+      213: -1718948985778052211
+    second: RG_HP3_4
+  - first:
+      213: -6693587005931411195
+    second: RG_HP3_5
+  - first:
+      213: -1836837973554927605
+    second: RG_HP3_6
+  - first:
+      213: -6578241331658281550
+    second: RG_HP3_7
+  - first:
+      213: -6113923286716674602
+    second: RG_HP3_8
+  - first:
+      213: -2608509019089829847
+    second: RG_HP3_9
+  - first:
+      213: -2238303502956170565
+    second: RG_HP3_10
+  - first:
+      213: -1023099439167235954
+    second: RG_HP3_11
+  - first:
+      213: -2674811526966593474
+    second: RG_HP3_12
+  - first:
+      213: 5345496350280527381
+    second: RG_HP3_13
+  - first:
+      213: 607417126450546747
+    second: RG_HP3_14
+  - first:
+      213: 2548908201201876553
+    second: RG_HP3_15
+  - first:
+      213: -659168256609425409
+    second: RG_HP3_16
+  - first:
+      213: 4673603408751114908
+    second: RG_HP3_17
+  - first:
+      213: -5498654184945795851
+    second: RG_HP3_18
+  - first:
+      213: -1784683050605483123
+    second: RG_HP3_19
+  - first:
+      213: 8222787429754152143
+    second: RG_HP3_20
+  - first:
+      213: -8833158956614987606
+    second: RG_HP3_21
+  - first:
+      213: -3014620490281307001
+    second: RG_HP3_22
+  - first:
+      213: 2568703715182982950
+    second: RG_HP3_23
+  - first:
+      213: 8547618152953204804
+    second: RG_HP3_24
+  - first:
+      213: 5951620820870852466
+    second: RG_HP3_25
+  - first:
+      213: 4975146438403766760
+    second: RG_HP3_26
+  - first:
+      213: 75565510807256382
+    second: RG_HP3_27
+  - first:
+      213: -2171591600570858724
+    second: RG_HP3_28
+  - first:
+      213: 2080812637224688574
+    second: RG_HP3_29
+  - first:
+      213: 7806529316204417471
+    second: RG_HP3_30
+  - first:
+      213: 7054964266051760764
+    second: RG_HP3_31
+  - first:
+      213: -5131268918428915191
+    second: RG_HP3_32
+  - first:
+      213: -2521311052546772693
+    second: RG_HP3_33
+  - first:
+      213: -9173089817428124959
+    second: RG_HP3_34
+  - first:
+      213: 4730031047566202786
+    second: RG_HP3_35
+  - first:
+      213: 4018490983748520494
+    second: RG_HP3_36
+  - first:
+      213: 7990542836149696280
+    second: RG_HP3_37
+  - first:
+      213: -3786951170722435208
+    second: RG_HP3_38
+  - first:
+      213: 1349835335890421363
+    second: RG_HP3_39
+  - first:
+      213: -4059298511387145872
+    second: RG_HP3_40
+  - first:
+      213: -8267453812902496315
+    second: RG_HP3_41
+  - first:
+      213: -1621422703322255007
+    second: RG_HP3_42
+  - first:
+      213: 5094094390235616370
+    second: RG_HP3_43
+  - first:
+      213: -4192285987085634914
+    second: RG_HP3_44
+  - first:
+      213: -6306645577944908242
+    second: RG_HP3_45
+  - first:
+      213: -8725943731559254197
+    second: RG_HP3_46
+  - first:
+      213: 2565886398986047294
+    second: RG_HP3_47
+  - first:
+      213: 5490156367250395822
+    second: RG_HP3_48
+  - first:
+      213: -6737370087431881550
+    second: RG_HP3_49
+  - first:
+      213: 4317556439215955379
+    second: RG_HP3_50
+  - first:
+      213: 8558780621389161061
+    second: RG_HP3_51
+  - first:
+      213: 6226410710777498586
+    second: RG_HP3_52
+  - first:
+      213: 2324298678156138211
+    second: RG_HP3_53
+  - first:
+      213: 8754131114169986444
+    second: RG_HP3_54
+  - first:
+      213: 2901538453025591845
+    second: RG_HP3_55
+  - first:
+      213: -4509478805564575695
+    second: RG_HP3_56
+  - first:
+      213: -7888327381838911998
+    second: RG_HP3_57
+  - first:
+      213: -5190253844316018183
+    second: RG_HP3_58
+  - first:
+      213: -6015026715117745446
+    second: RG_HP3_59
+  - first:
+      213: 6625602354122287264
+    second: RG_HP3_60
+  - first:
+      213: 3953876248930782181
+    second: RG_HP3_61
+  - first:
+      213: -5770095788463864979
+    second: RG_HP3_62
+  - first:
+      213: 5043696678738194189
+    second: RG_HP3_63
+  - first:
+      213: -5218310590162751841
+    second: RG_HP3_64
+  - first:
+      213: -1312475981658539265
+    second: RG_HP3_65
+  - first:
+      213: 5367573054650101127
+    second: RG_HP3_66
+  - first:
+      213: 1682368473920163548
+    second: RG_HP3_67
+  - first:
+      213: -707540752872830602
+    second: RG_HP3_68
+  - first:
+      213: -6537062099799233340
+    second: RG_HP3_69
+  - first:
+      213: 8803866997054149660
+    second: RG_HP3_70
+  - first:
+      213: 5670411014659940929
+    second: RG_HP3_71
+  - first:
+      213: -5889608658477370092
+    second: RG_HP3_72
+  - first:
+      213: 8957649991227921144
+    second: RG_HP3_73
+  - first:
+      213: -7369857995115873537
+    second: RG_HP3_74
+  - first:
+      213: 6600459704256053957
+    second: RG_HP3_75
+  - first:
+      213: 427873588215115393
+    second: RG_HP3_76
+  - first:
+      213: 8017051280229381666
+    second: RG_HP3_77
+  - first:
+      213: -5334795174544000678
+    second: RG_HP3_78
+  - first:
+      213: 5972804286478721158
+    second: RG_HP3_79
+  - first:
+      213: 6813161752600325651
+    second: RG_HP3_80
+  - first:
+      213: 3991546201164745795
+    second: RG_HP3_81
+  - first:
+      213: -4227881951066279068
+    second: RG_HP3_82
+  - first:
+      213: -3595500427858516187
+    second: RG_HP3_83
+  - first:
+      213: 3013928394133700637
+    second: RG_HP3_84
+  - first:
+      213: 359218246476279339
+    second: RG_HP3_85
+  - first:
+      213: 8126186047915014846
+    second: RG_HP3_86
+  - first:
+      213: -7786265649303978779
+    second: RG_HP3_87
+  - first:
+      213: 4838340047009648353
+    second: RG_HP3_88
+  - first:
+      213: 1159279216587128197
+    second: RG_HP3_89
+  - first:
+      213: 7157076508646838441
+    second: RG_HP3_90
+  - first:
+      213: -4368928078194854096
+    second: RG_HP3_91
+  - first:
+      213: 7633668144782164813
+    second: RG_HP3_92
+  - first:
+      213: -7016093096719897122
+    second: RG_HP3_93
+  - first:
+      213: -5773686399640004002
+    second: RG_HP3_94
+  - first:
+      213: 8493440801932899656
+    second: RG_HP3_95
+  - first:
+      213: -6022144317842518438
+    second: RG_HP3_96
+  - first:
+      213: -1775183317361428611
+    second: RG_HP3_97
+  - first:
+      213: 9115883106338250499
+    second: RG_HP3_98
+  - first:
+      213: 407357617046461397
+    second: RG_HP3_99
+  - first:
+      213: 6854711772235888494
+    second: RG_HP3_100
+  - first:
+      213: 2886726374008808415
+    second: RG_HP3_101
+  - first:
+      213: 1052748004825369902
+    second: RG_HP3_102
+  - first:
+      213: 7186847905034484781
+    second: RG_HP3_103
+  - first:
+      213: -6675832370762025998
+    second: RG_HP3_104
+  - first:
+      213: -875298712978794910
+    second: RG_HP3_105
+  - first:
+      213: 7569218531845929072
+    second: RG_HP3_106
+  - first:
+      213: -8734284010079311356
+    second: RG_HP3_107
+  - first:
+      213: 5285523838280266953
+    second: RG_HP3_108
+  - first:
+      213: -2145121468242472629
+    second: RG_HP3_109
+  - first:
+      213: -8828345129634385257
+    second: RG_HP3_110
+  - first:
+      213: 5019363807872227074
+    second: RG_HP3_111
+  - first:
+      213: 5984403218866355001
+    second: RG_HP3_112
+  - first:
+      213: 519594255427384770
+    second: RG_HP3_113
+  - first:
+      213: -3577070974447724111
+    second: RG_HP3_114
+  - first:
+      213: 4191809877038328616
+    second: RG_HP3_115
+  - first:
+      213: 4219873228956017568
+    second: RG_HP3_116
+  - first:
+      213: 7207540755316253262
+    second: RG_HP3_117
+  - first:
+      213: 7510713878921429439
+    second: RG_HP3_118
+  - first:
+      213: 3070228058552800211
+    second: RG_HP3_119
+  - first:
+      213: 5344380805811570908
+    second: RG_HP3_120
+  - first:
+      213: -4664639165712122896
+    second: RG_HP3_121
+  - first:
+      213: 8630511821457338666
+    second: RG_HP3_122
+  - first:
+      213: -7841793696996428221
+    second: RG_HP3_123
+  - first:
+      213: 1553221178537847266
+    second: RG_HP3_124
+  - first:
+      213: -5150342310004783234
+    second: RG_HP3_125
+  - first:
+      213: 7057917538523798655
+    second: RG_HP3_126
+  - first:
+      213: -498093698617423852
+    second: RG_HP3_127
+  - first:
+      213: 7495256082599375344
+    second: RG_HP3_128
+  - first:
+      213: 3225416518700543764
+    second: RG_HP3_129
+  - first:
+      213: 486114724270002952
+    second: RG_HP3_130
+  - first:
+      213: -107009890435305691
+    second: RG_HP3_131
+  - first:
+      213: -5607587304995252111
+    second: RG_HP3_132
+  - first:
+      213: -4701024569416005014
+    second: RG_HP3_133
+  - first:
+      213: -6024515383083150723
+    second: RG_HP3_134
+  - first:
+      213: -3904885413174539741
+    second: RG_HP3_135
+  - first:
+      213: 3126749739802544228
+    second: RG_HP3_136
+  - first:
+      213: 7248494234788672563
+    second: RG_HP3_137
+  - first:
+      213: -3028200693822057919
+    second: RG_HP3_138
+  - first:
+      213: 8010882860842856466
+    second: RG_HP3_139
+  - first:
+      213: -6194608005643835410
+    second: RG_HP3_140
+  - first:
+      213: -453128306168451919
+    second: RG_HP3_141
+  - first:
+      213: 6583609094426047500
+    second: RG_HP3_142
+  - first:
+      213: 5155888267328219458
+    second: RG_HP3_143
+  - first:
+      213: -3860426636448802620
+    second: RG_HP3_144
+  - first:
+      213: 7620625599244108984
+    second: RG_HP3_145
+  - first:
+      213: 3324509447731802043
+    second: RG_HP3_146
+  - first:
+      213: -7810706240977670392
+    second: RG_HP3_147
+  - first:
+      213: 2027587990519678786
+    second: RG_HP3_148
+  - first:
+      213: -5232025581186303123
+    second: RG_HP3_149
+  - first:
+      213: 8650668925265407542
+    second: RG_HP3_150
+  - first:
+      213: -5065074944868274022
+    second: RG_HP3_151
+  - first:
+      213: 1519114017074688762
+    second: RG_HP3_152
+  - first:
+      213: 386547665099217255
+    second: RG_HP3_153
+  - first:
+      213: -455608868469305881
+    second: RG_HP3_154
+  - first:
+      213: 2872135404728220406
+    second: RG_HP3_155
+  - first:
+      213: 6276339143437552862
+    second: RG_HP3_156
+  - first:
+      213: -7732126937459687588
+    second: RG_HP3_157
+  - first:
+      213: -4561326973412838589
+    second: RG_HP3_158
+  - first:
+      213: 7586849446705713390
+    second: RG_HP3_159
+  - first:
+      213: -4644051035064843574
+    second: RG_HP3_160
+  - first:
+      213: -4941264687368228319
+    second: RG_HP3_161
+  - first:
+      213: 5158966155379955601
+    second: RG_HP3_162
+  - first:
+      213: -4999471526847500621
+    second: RG_HP3_163
+  - first:
+      213: 4751037120030612512
+    second: RG_HP3_164
+  - first:
+      213: 7143229627854117699
+    second: RG_HP3_165
+  - first:
+      213: 7514379349141354629
+    second: RG_HP3_166
+  - first:
+      213: 6441939103515149063
+    second: RG_HP3_167
+  - first:
+      213: 3017825291092366044
+    second: RG_HP3_168
+  - first:
+      213: -4207329803178919863
+    second: RG_HP3_169
+  - first:
+      213: -1469916168652828019
+    second: RG_HP3_170
+  - first:
+      213: 3366474138996157969
+    second: RG_HP3_171
+  - first:
+      213: 5659660254405455809
+    second: RG_HP3_172
+  - first:
+      213: -3366279859099156546
+    second: RG_HP3_173
+  - first:
+      213: -6175408861836074344
+    second: RG_HP3_174
+  - first:
+      213: -435086785177917038
+    second: RG_HP3_175
+  - first:
+      213: 8914625933202522879
+    second: RG_HP3_176
+  - first:
+      213: 2958683092690932393
+    second: RG_HP3_177
+  - first:
+      213: -4034072723502484940
+    second: RG_HP3_178
+  - first:
+      213: 1912763850059462802
+    second: RG_HP3_179
+  - first:
+      213: 8160634753007433463
+    second: RG_HP3_180
+  - first:
+      213: 6048903826108167506
+    second: RG_HP3_181
+  - first:
+      213: 8348254210029412618
+    second: RG_HP3_182
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RG_HP3_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1804
+        width: 114
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7baaae68c18465f40800000000000000
+      internalID: 5716836064353233591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_1
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1806
+        width: 109
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3b09024f0e09f70800000000000000
+      internalID: 9192094178586178471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_2
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1908
+        width: 111
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cadd40a3bb0f58970800000000000000
+      internalID: 8756669737414745516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_3
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1908
+        width: 127
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9622ae96c3281ea0800000000000000
+      internalID: -5901927975697111393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_4
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1935
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d836eab31011528e0800000000000000
+      internalID: -1718948985778052211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_5
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1569
+        width: 362
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509a94e051a9b13a0800000000000000
+      internalID: -6693587005931411195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_6
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 1954
+        width: 59
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b086f44589d3286e0800000000000000
+      internalID: -1836837973554927605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_7
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1945
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd27b3ac5465b4a0800000000000000
+      internalID: -6578241331658281550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_8
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 1927
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd8347e92bf62ba0800000000000000
+      internalID: -6113923286716674602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_9
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1916
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9208fbb1ed6bccbd0800000000000000
+      internalID: -2608509019089829847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_10
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1851
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2f8c6b2d2ffe0e0800000000000000
+      internalID: -2238303502956170565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_11
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1881
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88198e0b783dc1f0800000000000000
+      internalID: -1023099439167235954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_12
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1862
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e383906861921ead0800000000000000
+      internalID: -2674811526966593474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_13
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1815
+        width: 90
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e2e92eb940f2a40800000000000000
+      internalID: 5345496350280527381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1300
+        width: 503
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38c29488aafd6800800000000000000
+      internalID: 607417126450546747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_15
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1779
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94eb7b9118a8f5320800000000000000
+      internalID: 2548908201201876553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_16
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1763
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7e49986f92ad6f0800000000000000
+      internalID: -659168256609425409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_17
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1747
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a3aa7d989fbd040800000000000000
+      internalID: 4673603408751114908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_18
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1730
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc3793e62bd0b3b0800000000000000
+      internalID: -5498654184945795851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_19
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1708
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8beffb98388b37e0800000000000000
+      internalID: -1784683050605483123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_20
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 1632
+        width: 76
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc42b06e9953d1270800000000000000
+      internalID: 8222787429754152143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_21
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 1675
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa05762aab05a6580800000000000000
+      internalID: -8833158956614987606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_22
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 1555
+        width: 169
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7843b20e2aae926d0800000000000000
+      internalID: -3014620490281307001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_23
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 1621
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62735bc5b6ed5a320800000000000000
+      internalID: 2568703715182982950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_24
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 1639
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 440d4724c6d3f9670800000000000000
+      internalID: 8547618152953204804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_25
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 1655
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f63d18a97689250800000000000000
+      internalID: 5951620820870852466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_26
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 1425
+        width: 114
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e93b9683554b0540800000000000000
+      internalID: 4975146438403766760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_27
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 1616
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3dffe48e667c0100800000000000000
+      internalID: 75565510807256382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_28
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 1588
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1380c2e1f4fcd1e0800000000000000
+      internalID: -2171591600570858724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_29
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 1561
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebbdbe5a11880ec10800000000000000
+      internalID: 2080812637224688574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_30
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 1584
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb199056d0d565c60800000000000000
+      internalID: 7806529316204417471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_31
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1494
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72f6150f9448e160800000000000000
+      internalID: 7054964266051760764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_32
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 1411
+        width: 136
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90aaa06fa121ac8b0800000000000000
+      internalID: -5131268918428915191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_33
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 1267
+        width: 247
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21fea8c4f0820dd0800000000000000
+      internalID: -2521311052546772693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_34
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 1467
+        width: 107
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea91738963a2b080800000000000000
+      internalID: -9173089817428124959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_35
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 1462
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a790ce4d2274a140800000000000000
+      internalID: 4730031047566202786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_36
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1463
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ac073424c84c730800000000000000
+      internalID: 4018490983748520494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_37
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 1162
+        width: 162
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 817be3faf5c14ee60800000000000000
+      internalID: 7990542836149696280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_38
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1417
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87fe65f69fb027bc0800000000000000
+      internalID: -3786951170722435208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_39
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1396
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376c40516149bb210800000000000000
+      internalID: 1349835335890421363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_40
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 1199
+        width: 100
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0794f7fc2897aa7c0800000000000000
+      internalID: -4059298511387145872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_41
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1330
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c77ffc5f8a144d80800000000000000
+      internalID: -8267453812902496315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_42
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1257
+        width: 197
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16139b954ac8f79e0800000000000000
+      internalID: -1621422703322255007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_43
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1283
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274dd46bbdbd1b640800000000000000
+      internalID: 5094094390235616370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_44
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 1089
+        width: 133
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e92b9ee3b1202d5c0800000000000000
+      internalID: -4192285987085634914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_45
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 1279
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e3e4ac24b4a78a0800000000000000
+      internalID: -6306645577944908242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_46
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 1294
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b473d5e786837e680800000000000000
+      internalID: -8725943731559254197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_47
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1257
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3fc191d51cdb9320800000000000000
+      internalID: 2565886398986047294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_48
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1259
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea21f4fb024f03c40800000000000000
+      internalID: 5490156367250395822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_49
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1060
+        width: 209
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bcb7420a9d0082a0800000000000000
+      internalID: -6737370087431881550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_50
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1257
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bdda21c4ba0beb30800000000000000
+      internalID: 4317556439215955379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_51
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 1174
+        width: 143
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562e568f0a5e6c670800000000000000
+      internalID: 8558780621389161061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_52
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 1250
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb84917d87a86650800000000000000
+      internalID: 6226410710777498586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_53
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 1238
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e618674551914020800000000000000
+      internalID: 2324298678156138211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_54
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 1264
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8deb41fddbec7970800000000000000
+      internalID: 8754131114169986444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_55
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 1221
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5221aba99d5544820800000000000000
+      internalID: 2901538453025591845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_56
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 1269
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130bb282bec1b61c0800000000000000
+      internalID: -4509478805564575695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_57
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1248
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20621855a08078290800000000000000
+      internalID: -7888327381838911998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_58
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1095
+        width: 196
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f92073b0a388f7b0800000000000000
+      internalID: -5190253844316018183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_59
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 1193
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada0ce25215568ca0800000000000000
+      internalID: -6015026715117745446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_60
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 1215
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a86374bc3ed2fb50800000000000000
+      internalID: 6625602354122287264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_61
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1061
+        width: 312
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb8f57ff7dfed630800000000000000
+      internalID: 3953876248930782181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_62
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 1058
+        width: 69
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6342a0a3708cefa0800000000000000
+      internalID: -5770095788463864979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_63
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 1183
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0fe10b186fcef540800000000000000
+      internalID: 5043696678738194189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_64
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 1179
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ea0b18a26d497b0800000000000000
+      internalID: -5218310590162751841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_65
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 1174
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffab2096c0629cde0800000000000000
+      internalID: -1312475981658539265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_66
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1130
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78da06c21437d7a40800000000000000
+      internalID: 5367573054650101127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_67
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 1162
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdec355a639f85710800000000000000
+      internalID: 1682368473920163548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_68
+      rect:
+        serializedVersion: 2
+        x: 1913
+        y: 1151
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67907e81f6f4e26f0800000000000000
+      internalID: -707540752872830602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_69
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 1120
+        width: 63
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc2cc2b7a0b745a0800000000000000
+      internalID: -6537062099799233340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_70
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1112
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c149231936e9d2a70800000000000000
+      internalID: 8803866997054149660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_71
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1117
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142a44356c851be40800000000000000
+      internalID: 5670411014659940929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_72
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 1109
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415346d2128e34ea0800000000000000
+      internalID: -5889608658477370092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_73
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 1059
+        width: 140
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f2db651537ff4c70800000000000000
+      internalID: 8957649991227921144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_74
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 1119
+        width: 9
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffabb0c533109b990800000000000000
+      internalID: -7369857995115873537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_75
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 1067
+        width: 50
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2467a512b899b50800000000000000
+      internalID: 6600459704256053957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_76
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 1143
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e6552f2cc10f500800000000000000
+      internalID: 427873588215115393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_77
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1088
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226b928c9a9424f60800000000000000
+      internalID: 8017051280229381666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_78
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1082
+        width: 50
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5936dfbd0007f5b0800000000000000
+      internalID: -5334795174544000678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_79
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1096
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680ae707ad9a3e250800000000000000
+      internalID: 5972804286478721158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_80
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 1115
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e250d24863d8e50800000000000000
+      internalID: 6813161752600325651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_81
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 1114
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c0cf03f12d46730800000000000000
+      internalID: 3991546201164745795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_82
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 897
+        width: 217
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463b86a04cb8355c0800000000000000
+      internalID: -4227881951066279068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_83
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 1059
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5276abf19673a1ec0800000000000000
+      internalID: -3595500427858516187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_84
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 1009
+        width: 59
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d108dcee7ef93d920800000000000000
+      internalID: 3013928394133700637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_85
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 1083
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2eae0a87133cf400800000000000000
+      internalID: 359218246476279339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_86
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1060
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebab5bcf72306c070800000000000000
+      internalID: 8126186047915014846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_87
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1065
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ecf86635a0a1f390800000000000000
+      internalID: -7786265649303978779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_88
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 995
+        width: 59
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee8e8c53ac352340800000000000000
+      internalID: 4838340047009648353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_89
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1021
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d3b2c2e46961010800000000000000
+      internalID: 1159279216587128197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_90
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 975
+        width: 159
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a010303a2b035360800000000000000
+      internalID: 7157076508646838441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_91
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 974
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03737f97f037e53c0800000000000000
+      internalID: -4368928078194854096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_92
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 899
+        width: 84
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43c4f69bbc30f960800000000000000
+      internalID: 7633668144782164813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_93
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 555
+        width: 503
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edda0fa5084d1ae90800000000000000
+      internalID: -7016093096719897122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_94
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 945
+        width: 52
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a14f05fcebfdfa0800000000000000
+      internalID: -5773686399640004002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_95
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 1045
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845f400c863ced570800000000000000
+      internalID: 8493440801932899656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_96
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 982
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e0cdc46ab0d6ca0800000000000000
+      internalID: -6022144317842518438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_97
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 994
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77f87d9d284d57e0800000000000000
+      internalID: -1775183317361428611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_98
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 990
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f964f136f128e70800000000000000
+      internalID: 9115883106338250499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_99
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 974
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db9a9c289937a500800000000000000
+      internalID: 407357617046461397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_100
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 954
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67fecdf904d02f50800000000000000
+      internalID: 6854711772235888494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_101
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 878
+        width: 74
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3eb86b756bf0820800000000000000
+      internalID: 2886726374008808415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_102
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 947
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d0e919bbc1c9e00800000000000000
+      internalID: 1052748004825369902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_103
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 950
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c37529710dcb360800000000000000
+      internalID: 7186847905034484781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_104
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 572
+        width: 493
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3fca034ddaa53a0800000000000000
+      internalID: -6675832370762025998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_105
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 856
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266da8445705ad3f0800000000000000
+      internalID: -875298712978794910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_106
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 885
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078faf9b6244b0960800000000000000
+      internalID: 7569218531845929072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_107
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 898
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a29d318f699c680800000000000000
+      internalID: -8734284010079311356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_108
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 867
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c4fd805de3f95940800000000000000
+      internalID: 5285523838280266953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_109
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 864
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41d755d36ffa32e0800000000000000
+      internalID: -2145121468242472629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_110
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 875
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792b79111ea6b7580800000000000000
+      internalID: -8828345129634385257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_111
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 615
+        width: 287
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2071dae1acc58a540800000000000000
+      internalID: 5019363807872227074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_112
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 876
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93bbb35550fdc0350800000000000000
+      internalID: 5984403218866355001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_113
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 885
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5351ee838f53700800000000000000
+      internalID: 519594255427384770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_114
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 878
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9deaf96e0bb5ec0800000000000000
+      internalID: -3577070974447724111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_115
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 855
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82be7debfdc4c2a30800000000000000
+      internalID: 4191809877038328616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_116
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 824
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3aa190850009a30800000000000000
+      internalID: 4219873228956017568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_117
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 869
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42a6c83124560460800000000000000
+      internalID: 7207540755316253262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_118
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 858
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb145baba7a6b3860800000000000000
+      internalID: 7510713878921429439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_119
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 872
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d31a790724ab9a20800000000000000
+      internalID: 3070228058552800211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_120
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 810
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd880d2f60e0b2a40800000000000000
+      internalID: 5344380805811570908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_121
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 857
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fbba52a46fd34fb0800000000000000
+      internalID: -4664639165712122896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_122
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 857
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2136c376ccb5c770800000000000000
+      internalID: 8630511821457338666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_123
+      rect:
+        serializedVersion: 2
+        x: 1957
+        y: 849
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34671a02e2a5c2390800000000000000
+      internalID: -7841793696996428221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_124
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 858
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9ac5cbe662e8510800000000000000
+      internalID: 1553221178537847266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_125
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 836
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77008ce4fe4688b0800000000000000
+      internalID: -5150342310004783234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_126
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 824
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7cd5b95b92c2f160800000000000000
+      internalID: 7057917538523798655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_127
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 836
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4184c0d8b6a6619f0800000000000000
+      internalID: -498093698617423852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_128
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 825
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1fbef02bf740860800000000000000
+      internalID: 7495256082599375344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_129
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 700
+        width: 184
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41fa2d91c3bf2cc20800000000000000
+      internalID: 3225416518700543764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_130
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 814
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803533424c60fb600800000000000000
+      internalID: 486114724270002952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_131
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 770
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f66255213d38ef0800000000000000
+      internalID: -107009890435305691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_132
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 812
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17894ce6e09dd22b0800000000000000
+      internalID: -5607587304995252111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_133
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 812
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a439baf0b92ceb0800000000000000
+      internalID: -4701024569416005014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_134
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 809
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d72d377ad2f946ca0800000000000000
+      internalID: -6024515383083150723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_135
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 822
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a802bd76f0fc9c0800000000000000
+      internalID: -3904885413174539741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_136
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 778
+        width: 59
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468c9767252746b20800000000000000
+      internalID: 3126749739802544228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_137
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 798
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334bb053a13d79460800000000000000
+      internalID: 7248494234788672563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_138
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 756
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1421528538ba9f5d0800000000000000
+      internalID: -3028200693822057919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_139
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 730
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210bdc9b48f5c2f60800000000000000
+      internalID: 8010882860842856466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_140
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 642
+        width: 54
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee7eeccd6d4580aa0800000000000000
+      internalID: -6194608005643835410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_141
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 699
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bca721d43a26b9f0800000000000000
+      internalID: -453128306168451919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_142
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 633
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04bb45079dad5b50800000000000000
+      internalID: 6583609094426047500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_143
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 658
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249e3b3ef056d8740800000000000000
+      internalID: 5155888267328219458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_144
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 600
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c853057d620d6ac0800000000000000
+      internalID: -3860426636448802620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_145
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 620
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b481315b96e1c960800000000000000
+      internalID: 7620625599244108984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_146
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 636
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbfeb7c8ab7032e20800000000000000
+      internalID: 3324509447731802043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_147
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 567
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f69958e0cca9390800000000000000
+      internalID: -7810706240977670392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_148
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 590
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24706c5e880732c10800000000000000
+      internalID: 2027587990519678786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_149
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 567
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b32a1547c1467b0800000000000000
+      internalID: -5232025581186303123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_150
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 301
+        width: 463
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e64f7ed895d0870800000000000000
+      internalID: 8650668925265407542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_151
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 223
+        width: 333
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a90356e6c2d35b9b0800000000000000
+      internalID: -5065074944868274022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_152
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 308
+        width: 537
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2bd01662af41510800000000000000
+      internalID: 1519114017074688762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_153
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 392
+        width: 241
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769defaad0b4d5500800000000000000
+      internalID: 386547665099217255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_154
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 414
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed8e56e52a5da9f0800000000000000
+      internalID: -455608868469305881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_155
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 419
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6faf5a1feefdbd720800000000000000
+      internalID: 2872135404728220406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_156
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 388
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc897e82390a1750800000000000000
+      internalID: 6276339143437552862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_157
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 53
+        width: 503
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f7c765487f1b490800000000000000
+      internalID: -7732126937459687588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_158
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 63
+        width: 213
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343f15dd849e2b0c0800000000000000
+      internalID: -4561326973412838589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_159
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 399
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee0534bff57e94960800000000000000
+      internalID: 7586849446705713390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_160
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 379
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2cc2850340d8fb0800000000000000
+      internalID: -4644051035064843574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_161
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 390
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1223c3062f91d6bb0800000000000000
+      internalID: -4941264687368228319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_162
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 373
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1975fab8264589740800000000000000
+      internalID: 5158966155379955601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_163
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 361
+        width: 233
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be2399722f4e9ab0800000000000000
+      internalID: -4999471526847500621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_164
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 375
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c9e1ea6131fe140800000000000000
+      internalID: 4751037120030612512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_165
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 364
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b5a450089d12360800000000000000
+      internalID: 7143229627854117699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_166
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 54
+        width: 555
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588f9158430784860800000000000000
+      internalID: 7514379349141354629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_167
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 356
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70308b9db7d566950800000000000000
+      internalID: 6441939103515149063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_168
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 365
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd210c5fc1871e920800000000000000
+      internalID: 3017825291092366044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_169
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 358
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9483b9cd5df8c95c0800000000000000
+      internalID: -4207329803178919863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_170
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 340
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8258d5580fc99be0800000000000000
+      internalID: -1469916168652828019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_171
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 327
+        width: 109
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ea760a46e18be20800000000000000
+      internalID: 3366474138996157969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_172
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 256
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cfeb35e3072b8e40800000000000000
+      internalID: 5659660254405455809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_173
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 287
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebfb7dfad429841d0800000000000000
+      internalID: -3366279859099156546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_174
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 272
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892267fdb5a8c4aa0800000000000000
+      internalID: -6175408861836074344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_175
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 260
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299e003cfd246f9f0800000000000000
+      internalID: -435086785177917038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_176
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 117
+        width: 91
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff28506fd0d17bb70800000000000000
+      internalID: 8914625933202522879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_177
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 191
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a21cc6d89a5f0920800000000000000
+      internalID: 2958683092690932393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_178
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 54
+        width: 122
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 432ba8d3b381408c0800000000000000
+      internalID: -4034072723502484940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_179
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 54
+        width: 80
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298b00e56908b8a10800000000000000
+      internalID: 1912763850059462802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_180
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 156
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f637ba2216604170800000000000000
+      internalID: 8160634753007433463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_181
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 115
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255bdab3bf502f350800000000000000
+      internalID: 6048903826108167506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RG_HP3_182
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 54
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a01667b19f4fad370800000000000000
+      internalID: 8348254210029412618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      RG_HP3_0: 5716836064353233591
+      RG_HP3_1: 9192094178586178471
+      RG_HP3_10: -2238303502956170565
+      RG_HP3_100: 6854711772235888494
+      RG_HP3_101: 2886726374008808415
+      RG_HP3_102: 1052748004825369902
+      RG_HP3_103: 7186847905034484781
+      RG_HP3_104: -6675832370762025998
+      RG_HP3_105: -875298712978794910
+      RG_HP3_106: 7569218531845929072
+      RG_HP3_107: -8734284010079311356
+      RG_HP3_108: 5285523838280266953
+      RG_HP3_109: -2145121468242472629
+      RG_HP3_11: -1023099439167235954
+      RG_HP3_110: -8828345129634385257
+      RG_HP3_111: 5019363807872227074
+      RG_HP3_112: 5984403218866355001
+      RG_HP3_113: 519594255427384770
+      RG_HP3_114: -3577070974447724111
+      RG_HP3_115: 4191809877038328616
+      RG_HP3_116: 4219873228956017568
+      RG_HP3_117: 7207540755316253262
+      RG_HP3_118: 7510713878921429439
+      RG_HP3_119: 3070228058552800211
+      RG_HP3_12: -2674811526966593474
+      RG_HP3_120: 5344380805811570908
+      RG_HP3_121: -4664639165712122896
+      RG_HP3_122: 8630511821457338666
+      RG_HP3_123: -7841793696996428221
+      RG_HP3_124: 1553221178537847266
+      RG_HP3_125: -5150342310004783234
+      RG_HP3_126: 7057917538523798655
+      RG_HP3_127: -498093698617423852
+      RG_HP3_128: 7495256082599375344
+      RG_HP3_129: 3225416518700543764
+      RG_HP3_13: 5345496350280527381
+      RG_HP3_130: 486114724270002952
+      RG_HP3_131: -107009890435305691
+      RG_HP3_132: -5607587304995252111
+      RG_HP3_133: -4701024569416005014
+      RG_HP3_134: -6024515383083150723
+      RG_HP3_135: -3904885413174539741
+      RG_HP3_136: 3126749739802544228
+      RG_HP3_137: 7248494234788672563
+      RG_HP3_138: -3028200693822057919
+      RG_HP3_139: 8010882860842856466
+      RG_HP3_14: 607417126450546747
+      RG_HP3_140: -6194608005643835410
+      RG_HP3_141: -453128306168451919
+      RG_HP3_142: 6583609094426047500
+      RG_HP3_143: 5155888267328219458
+      RG_HP3_144: -3860426636448802620
+      RG_HP3_145: 7620625599244108984
+      RG_HP3_146: 3324509447731802043
+      RG_HP3_147: -7810706240977670392
+      RG_HP3_148: 2027587990519678786
+      RG_HP3_149: -5232025581186303123
+      RG_HP3_15: 2548908201201876553
+      RG_HP3_150: 8650668925265407542
+      RG_HP3_151: -5065074944868274022
+      RG_HP3_152: 1519114017074688762
+      RG_HP3_153: 386547665099217255
+      RG_HP3_154: -455608868469305881
+      RG_HP3_155: 2872135404728220406
+      RG_HP3_156: 6276339143437552862
+      RG_HP3_157: -7732126937459687588
+      RG_HP3_158: -4561326973412838589
+      RG_HP3_159: 7586849446705713390
+      RG_HP3_16: -659168256609425409
+      RG_HP3_160: -4644051035064843574
+      RG_HP3_161: -4941264687368228319
+      RG_HP3_162: 5158966155379955601
+      RG_HP3_163: -4999471526847500621
+      RG_HP3_164: 4751037120030612512
+      RG_HP3_165: 7143229627854117699
+      RG_HP3_166: 7514379349141354629
+      RG_HP3_167: 6441939103515149063
+      RG_HP3_168: 3017825291092366044
+      RG_HP3_169: -4207329803178919863
+      RG_HP3_17: 4673603408751114908
+      RG_HP3_170: -1469916168652828019
+      RG_HP3_171: 3366474138996157969
+      RG_HP3_172: 5659660254405455809
+      RG_HP3_173: -3366279859099156546
+      RG_HP3_174: -6175408861836074344
+      RG_HP3_175: -435086785177917038
+      RG_HP3_176: 8914625933202522879
+      RG_HP3_177: 2958683092690932393
+      RG_HP3_178: -4034072723502484940
+      RG_HP3_179: 1912763850059462802
+      RG_HP3_18: -5498654184945795851
+      RG_HP3_180: 8160634753007433463
+      RG_HP3_181: 6048903826108167506
+      RG_HP3_182: 8348254210029412618
+      RG_HP3_19: -1784683050605483123
+      RG_HP3_2: 8756669737414745516
+      RG_HP3_20: 8222787429754152143
+      RG_HP3_21: -8833158956614987606
+      RG_HP3_22: -3014620490281307001
+      RG_HP3_23: 2568703715182982950
+      RG_HP3_24: 8547618152953204804
+      RG_HP3_25: 5951620820870852466
+      RG_HP3_26: 4975146438403766760
+      RG_HP3_27: 75565510807256382
+      RG_HP3_28: -2171591600570858724
+      RG_HP3_29: 2080812637224688574
+      RG_HP3_3: -5901927975697111393
+      RG_HP3_30: 7806529316204417471
+      RG_HP3_31: 7054964266051760764
+      RG_HP3_32: -5131268918428915191
+      RG_HP3_33: -2521311052546772693
+      RG_HP3_34: -9173089817428124959
+      RG_HP3_35: 4730031047566202786
+      RG_HP3_36: 4018490983748520494
+      RG_HP3_37: 7990542836149696280
+      RG_HP3_38: -3786951170722435208
+      RG_HP3_39: 1349835335890421363
+      RG_HP3_4: -1718948985778052211
+      RG_HP3_40: -4059298511387145872
+      RG_HP3_41: -8267453812902496315
+      RG_HP3_42: -1621422703322255007
+      RG_HP3_43: 5094094390235616370
+      RG_HP3_44: -4192285987085634914
+      RG_HP3_45: -6306645577944908242
+      RG_HP3_46: -8725943731559254197
+      RG_HP3_47: 2565886398986047294
+      RG_HP3_48: 5490156367250395822
+      RG_HP3_49: -6737370087431881550
+      RG_HP3_5: -6693587005931411195
+      RG_HP3_50: 4317556439215955379
+      RG_HP3_51: 8558780621389161061
+      RG_HP3_52: 6226410710777498586
+      RG_HP3_53: 2324298678156138211
+      RG_HP3_54: 8754131114169986444
+      RG_HP3_55: 2901538453025591845
+      RG_HP3_56: -4509478805564575695
+      RG_HP3_57: -7888327381838911998
+      RG_HP3_58: -5190253844316018183
+      RG_HP3_59: -6015026715117745446
+      RG_HP3_6: -1836837973554927605
+      RG_HP3_60: 6625602354122287264
+      RG_HP3_61: 3953876248930782181
+      RG_HP3_62: -5770095788463864979
+      RG_HP3_63: 5043696678738194189
+      RG_HP3_64: -5218310590162751841
+      RG_HP3_65: -1312475981658539265
+      RG_HP3_66: 5367573054650101127
+      RG_HP3_67: 1682368473920163548
+      RG_HP3_68: -707540752872830602
+      RG_HP3_69: -6537062099799233340
+      RG_HP3_7: -6578241331658281550
+      RG_HP3_70: 8803866997054149660
+      RG_HP3_71: 5670411014659940929
+      RG_HP3_72: -5889608658477370092
+      RG_HP3_73: 8957649991227921144
+      RG_HP3_74: -7369857995115873537
+      RG_HP3_75: 6600459704256053957
+      RG_HP3_76: 427873588215115393
+      RG_HP3_77: 8017051280229381666
+      RG_HP3_78: -5334795174544000678
+      RG_HP3_79: 5972804286478721158
+      RG_HP3_8: -6113923286716674602
+      RG_HP3_80: 6813161752600325651
+      RG_HP3_81: 3991546201164745795
+      RG_HP3_82: -4227881951066279068
+      RG_HP3_83: -3595500427858516187
+      RG_HP3_84: 3013928394133700637
+      RG_HP3_85: 359218246476279339
+      RG_HP3_86: 8126186047915014846
+      RG_HP3_87: -7786265649303978779
+      RG_HP3_88: 4838340047009648353
+      RG_HP3_89: 1159279216587128197
+      RG_HP3_9: -2608509019089829847
+      RG_HP3_90: 7157076508646838441
+      RG_HP3_91: -4368928078194854096
+      RG_HP3_92: 7633668144782164813
+      RG_HP3_93: -7016093096719897122
+      RG_HP3_94: -5773686399640004002
+      RG_HP3_95: 8493440801932899656
+      RG_HP3_96: -6022144317842518438
+      RG_HP3_97: -1775183317361428611
+      RG_HP3_98: 9115883106338250499
+      RG_HP3_99: 407357617046461397
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

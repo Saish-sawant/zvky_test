@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: 7f70e1e2d53e3e64781d307cab0b157d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2180903458126309209
+    second: royals_0
+  - first:
+      213: 3517417179008921092
+    second: royals_1
+  - first:
+      213: -4348428814346452161
+    second: royals_2
+  - first:
+      213: 5159798328869587154
+    second: royals_3
+  - first:
+      213: -6686037562633882798
+    second: royals_4
+  - first:
+      213: 6137980362481982493
+    second: royals_5
+  - first:
+      213: 4544128919254417923
+    second: royals_6
+  - first:
+      213: 6108228201416433030
+    second: royals_7
+  - first:
+      213: 6377436957263840802
+    second: royals_8
+  - first:
+      213: -2320296762242724302
+    second: royals_9
+  - first:
+      213: -9053851608640041779
+    second: royals_10
+  - first:
+      213: -6415432546671725023
+    second: royals_11
+  - first:
+      213: -8926019616058398396
+    second: royals_12
+  - first:
+      213: -963116179363860697
+    second: royals_13
+  - first:
+      213: 6035062034733283634
+    second: royals_14
+  - first:
+      213: -697101874144866659
+    second: royals_15
+  - first:
+      213: 2081451486763377684
+    second: royals_16
+  - first:
+      213: 8944590577511310026
+    second: royals_17
+  - first:
+      213: -8900226827203753566
+    second: royals_18
+  - first:
+      213: 2391074099746504185
+    second: royals_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: royals_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 276
+        width: 236
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8d5f81cdfdbb1e0800000000000000
+      internalID: -2180903458126309209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royals_1
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 276
+        width: 239
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40eeea9c94060d030800000000000000
+      internalID: 3517417179008921092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royals_2
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 276
+        width: 236
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f338ec5480747a3c0800000000000000
+      internalID: -4348428814346452161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royals_3
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 276
+        width: 232
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d80de80e394b9740800000000000000
+      internalID: 5159798328869587154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royals_4
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 276
+        width: 348
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253f94cc24c6633a0800000000000000
+      internalID: -6686037562633882798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royals_5
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 168
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1cdf088e9c7e2550800000000000000
+      internalID: 6137980362481982493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royals_6
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 167
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3024dbd1d2dff0f30800000000000000
+      internalID: 4544128919254417923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royals_7
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 167
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d1378bf29c4c450800000000000000
+      internalID: 6108228201416433030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royals_8
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 167
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226c82f9f15318850800000000000000
+      internalID: 6377436957263840802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royals_9
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 167
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e88016366accfd0800000000000000
+      internalID: -2320296762242724302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royals_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 98
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc49e96ee14a5280800000000000000
+      internalID: -9053851608640041779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royals_11
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 95
+        width: 99
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126f627d61ec7f6a0800000000000000
+      internalID: -6415432546671725023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royals_12
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 95
+        width: 99
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449aba68378602480800000000000000
+      internalID: -8926019616058398396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royals_13
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 95
+        width: 99
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72fe59b00f252a2f0800000000000000
+      internalID: -963116179363860697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royals_14
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 95
+        width: 100
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23939b902f8d0c350800000000000000
+      internalID: 6035062034733283634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royals_15
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 89
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e0653f9856356f0800000000000000
+      internalID: -697101874144866659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royals_16
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 0
+        width: 89
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4146db5691dc2ec10800000000000000
+      internalID: 2081451486763377684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royals_17
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 0
+        width: 89
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac22ed16db1912c70800000000000000
+      internalID: 8944590577511310026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royals_18
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 0
+        width: 89
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a94e182bda0c7480800000000000000
+      internalID: -8900226827203753566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: royals_19
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 0
+        width: 89
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fdf60ba93dce2120800000000000000
+      internalID: 2391074099746504185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      royals_0: -2180903458126309209
+      royals_1: 3517417179008921092
+      royals_10: -9053851608640041779
+      royals_11: -6415432546671725023
+      royals_12: -8926019616058398396
+      royals_13: -963116179363860697
+      royals_14: 6035062034733283634
+      royals_15: -697101874144866659
+      royals_16: 2081451486763377684
+      royals_17: 8944590577511310026
+      royals_18: -8900226827203753566
+      royals_19: 2391074099746504185
+      royals_2: -4348428814346452161
+      royals_3: 5159798328869587154
+      royals_4: -6686037562633882798
+      royals_5: 6137980362481982493
+      royals_6: 4544128919254417923
+      royals_7: 6108228201416433030
+      royals_8: 6377436957263840802
+      royals_9: -2320296762242724302
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

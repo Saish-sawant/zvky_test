@@ -1,0 +1,7618 @@
+fileFormatVersion: 2
+guid: cc330bb85e5957146914079901667180
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2670962176661113550
+    second: LG_Wild_0
+  - first:
+      213: 4547924029171010851
+    second: LG_Wild_1
+  - first:
+      213: -1069841204847504783
+    second: LG_Wild_2
+  - first:
+      213: -6193307080993353556
+    second: LG_Wild_3
+  - first:
+      213: -3973185586894919697
+    second: LG_Wild_4
+  - first:
+      213: -516327289624180370
+    second: LG_Wild_5
+  - first:
+      213: 3616169421529318602
+    second: LG_Wild_6
+  - first:
+      213: 414953652418718709
+    second: LG_Wild_7
+  - first:
+      213: -8896750053114155505
+    second: LG_Wild_8
+  - first:
+      213: 2740383419857334616
+    second: LG_Wild_9
+  - first:
+      213: 8061130943131232764
+    second: LG_Wild_10
+  - first:
+      213: 5806682975810397450
+    second: LG_Wild_11
+  - first:
+      213: -539461503106966229
+    second: LG_Wild_12
+  - first:
+      213: 848389099092092216
+    second: LG_Wild_13
+  - first:
+      213: -6119948983893322823
+    second: LG_Wild_14
+  - first:
+      213: 2826914906517573158
+    second: LG_Wild_15
+  - first:
+      213: -4573751721233075930
+    second: LG_Wild_16
+  - first:
+      213: -3398241305665691449
+    second: LG_Wild_17
+  - first:
+      213: 629059815717734565
+    second: LG_Wild_18
+  - first:
+      213: -1958316343985169601
+    second: LG_Wild_19
+  - first:
+      213: 8138514454538773666
+    second: LG_Wild_20
+  - first:
+      213: -8481279203302088939
+    second: LG_Wild_21
+  - first:
+      213: -6712684215965807067
+    second: LG_Wild_22
+  - first:
+      213: 4618725487384981221
+    second: LG_Wild_23
+  - first:
+      213: -2630294993315728272
+    second: LG_Wild_24
+  - first:
+      213: -792466578381449501
+    second: LG_Wild_25
+  - first:
+      213: 261013298241317417
+    second: LG_Wild_26
+  - first:
+      213: 5697752519687173127
+    second: LG_Wild_27
+  - first:
+      213: 5027347441170389901
+    second: LG_Wild_28
+  - first:
+      213: 7305347695544921827
+    second: LG_Wild_29
+  - first:
+      213: -5966280644769483936
+    second: LG_Wild_30
+  - first:
+      213: 6502262320665143494
+    second: LG_Wild_31
+  - first:
+      213: 5680796736772751091
+    second: LG_Wild_32
+  - first:
+      213: -7988492036004441425
+    second: LG_Wild_33
+  - first:
+      213: -7915610169158543164
+    second: LG_Wild_34
+  - first:
+      213: 4870405544842555126
+    second: LG_Wild_35
+  - first:
+      213: 3499396732079120213
+    second: LG_Wild_36
+  - first:
+      213: -4466512272990014408
+    second: LG_Wild_37
+  - first:
+      213: -5352575310754531590
+    second: LG_Wild_38
+  - first:
+      213: 3384030916881111303
+    second: LG_Wild_39
+  - first:
+      213: 6012856962406508104
+    second: LG_Wild_40
+  - first:
+      213: -6183019974412143394
+    second: LG_Wild_41
+  - first:
+      213: -6009731731372092392
+    second: LG_Wild_42
+  - first:
+      213: -8709166945245305317
+    second: LG_Wild_43
+  - first:
+      213: -8597398673364694918
+    second: LG_Wild_44
+  - first:
+      213: -8758502273237202807
+    second: LG_Wild_45
+  - first:
+      213: -959612739757488118
+    second: LG_Wild_46
+  - first:
+      213: -6807547492142544324
+    second: LG_Wild_47
+  - first:
+      213: 6868418849364039889
+    second: LG_Wild_48
+  - first:
+      213: 3476980426165421387
+    second: LG_Wild_49
+  - first:
+      213: -4563813486486181387
+    second: LG_Wild_50
+  - first:
+      213: -698599868016174625
+    second: LG_Wild_51
+  - first:
+      213: 5897679505514871789
+    second: LG_Wild_52
+  - first:
+      213: 5503127939882854595
+    second: LG_Wild_53
+  - first:
+      213: 3285458842317505007
+    second: LG_Wild_54
+  - first:
+      213: -3835380575243388302
+    second: LG_Wild_55
+  - first:
+      213: -8550305987292844981
+    second: LG_Wild_56
+  - first:
+      213: 1725654133125177424
+    second: LG_Wild_57
+  - first:
+      213: -407466272381462511
+    second: LG_Wild_58
+  - first:
+      213: -4409927775912007904
+    second: LG_Wild_59
+  - first:
+      213: 6538004376988141682
+    second: LG_Wild_60
+  - first:
+      213: -295256681382784845
+    second: LG_Wild_61
+  - first:
+      213: -7248730702566174977
+    second: LG_Wild_62
+  - first:
+      213: 4473441718844030621
+    second: LG_Wild_63
+  - first:
+      213: -4181376831344280224
+    second: LG_Wild_64
+  - first:
+      213: -3717939346328397194
+    second: LG_Wild_65
+  - first:
+      213: 6138886484080638240
+    second: LG_Wild_66
+  - first:
+      213: -9129543671770429166
+    second: LG_Wild_67
+  - first:
+      213: 2745488670658545001
+    second: LG_Wild_68
+  - first:
+      213: -2166322943319937773
+    second: LG_Wild_69
+  - first:
+      213: 163162686566092223
+    second: LG_Wild_70
+  - first:
+      213: 1046567308803228093
+    second: LG_Wild_71
+  - first:
+      213: 5561044934319986552
+    second: LG_Wild_72
+  - first:
+      213: 1330509220197710445
+    second: LG_Wild_73
+  - first:
+      213: -3416008911173182471
+    second: LG_Wild_74
+  - first:
+      213: -5303130668230950063
+    second: LG_Wild_75
+  - first:
+      213: -4790489556035840260
+    second: LG_Wild_76
+  - first:
+      213: -8194802532102662879
+    second: LG_Wild_77
+  - first:
+      213: -465747875258824018
+    second: LG_Wild_78
+  - first:
+      213: -5270197499036170384
+    second: LG_Wild_79
+  - first:
+      213: -4941868513273986025
+    second: LG_Wild_80
+  - first:
+      213: -1142330275635889340
+    second: LG_Wild_81
+  - first:
+      213: -5961914690637310492
+    second: LG_Wild_82
+  - first:
+      213: -7598544548696045102
+    second: LG_Wild_83
+  - first:
+      213: -5742283539730089225
+    second: LG_Wild_84
+  - first:
+      213: 8297716976529635615
+    second: LG_Wild_85
+  - first:
+      213: -860113296403211959
+    second: LG_Wild_86
+  - first:
+      213: 8136171095985572961
+    second: LG_Wild_87
+  - first:
+      213: 9121261512224617285
+    second: LG_Wild_88
+  - first:
+      213: -6957951770690729601
+    second: LG_Wild_89
+  - first:
+      213: 7511657976559564891
+    second: LG_Wild_90
+  - first:
+      213: 4773158139062355521
+    second: LG_Wild_91
+  - first:
+      213: 6553192401983038078
+    second: LG_Wild_92
+  - first:
+      213: -2214173834519046395
+    second: LG_Wild_93
+  - first:
+      213: -5015588247389679034
+    second: LG_Wild_94
+  - first:
+      213: 9153200089128849647
+    second: LG_Wild_95
+  - first:
+      213: -6727820281074563264
+    second: LG_Wild_96
+  - first:
+      213: -2071732143913879970
+    second: LG_Wild_97
+  - first:
+      213: -4212379119473342529
+    second: LG_Wild_98
+  - first:
+      213: 1795411852075024002
+    second: LG_Wild_99
+  - first:
+      213: 6107080916245322575
+    second: LG_Wild_100
+  - first:
+      213: -2814488798554684371
+    second: LG_Wild_101
+  - first:
+      213: 4879047633363918251
+    second: LG_Wild_102
+  - first:
+      213: 922195959126322477
+    second: LG_Wild_103
+  - first:
+      213: -587039744244506722
+    second: LG_Wild_104
+  - first:
+      213: 4468521610480059495
+    second: LG_Wild_105
+  - first:
+      213: 34243534896089390
+    second: LG_Wild_106
+  - first:
+      213: 5194190118815928305
+    second: LG_Wild_107
+  - first:
+      213: 3534244706041819625
+    second: LG_Wild_108
+  - first:
+      213: 3510143387980261612
+    second: LG_Wild_109
+  - first:
+      213: -423472343781330481
+    second: LG_Wild_110
+  - first:
+      213: 8428439685937311228
+    second: LG_Wild_111
+  - first:
+      213: -1947042897230557535
+    second: LG_Wild_112
+  - first:
+      213: -2376381489639727183
+    second: LG_Wild_113
+  - first:
+      213: -5448280835139868927
+    second: LG_Wild_114
+  - first:
+      213: -3525754006563746278
+    second: LG_Wild_115
+  - first:
+      213: 845742306410364998
+    second: LG_Wild_116
+  - first:
+      213: 3026009665839958476
+    second: LG_Wild_117
+  - first:
+      213: -5593405910170605658
+    second: LG_Wild_118
+  - first:
+      213: -9195169733245459994
+    second: LG_Wild_119
+  - first:
+      213: 6570592062699074675
+    second: LG_Wild_120
+  - first:
+      213: 4003417863314706278
+    second: LG_Wild_121
+  - first:
+      213: -839040753259445674
+    second: LG_Wild_122
+  - first:
+      213: 5421499598957347056
+    second: LG_Wild_123
+  - first:
+      213: 3760732807649775122
+    second: LG_Wild_124
+  - first:
+      213: 3822332651318355883
+    second: LG_Wild_125
+  - first:
+      213: 6765942761321456270
+    second: LG_Wild_126
+  - first:
+      213: 4877048065470683082
+    second: LG_Wild_127
+  - first:
+      213: 4440947166192564951
+    second: LG_Wild_128
+  - first:
+      213: 8520410682361554418
+    second: LG_Wild_129
+  - first:
+      213: -5033816290111867903
+    second: LG_Wild_130
+  - first:
+      213: 5683647480184623400
+    second: LG_Wild_131
+  - first:
+      213: 7050609814587723823
+    second: LG_Wild_132
+  - first:
+      213: -2218385989948182782
+    second: LG_Wild_133
+  - first:
+      213: -7361422566669245502
+    second: LG_Wild_134
+  - first:
+      213: 4665829232935007305
+    second: LG_Wild_135
+  - first:
+      213: 2582107481923833503
+    second: LG_Wild_136
+  - first:
+      213: -3715107992608431845
+    second: LG_Wild_137
+  - first:
+      213: -5387711499807146847
+    second: LG_Wild_138
+  - first:
+      213: 8739932493758325177
+    second: LG_Wild_139
+  - first:
+      213: 3244786180130568286
+    second: LG_Wild_140
+  - first:
+      213: 4353474667206968103
+    second: LG_Wild_141
+  - first:
+      213: 6258193318961784321
+    second: LG_Wild_142
+  - first:
+      213: 5825472959000188999
+    second: LG_Wild_143
+  - first:
+      213: 6866874502112128641
+    second: LG_Wild_144
+  - first:
+      213: -3789565411750164204
+    second: LG_Wild_145
+  - first:
+      213: -6138846402598165330
+    second: LG_Wild_146
+  - first:
+      213: 6961424852160006641
+    second: LG_Wild_147
+  - first:
+      213: 7019463118971037845
+    second: LG_Wild_148
+  - first:
+      213: 7002251368128968831
+    second: LG_Wild_149
+  - first:
+      213: -3500704188579008190
+    second: LG_Wild_150
+  - first:
+      213: 9214159141950442435
+    second: LG_Wild_151
+  - first:
+      213: 6932261617822540714
+    second: LG_Wild_152
+  - first:
+      213: 2567006595908483008
+    second: LG_Wild_153
+  - first:
+      213: -6533050789876769083
+    second: LG_Wild_154
+  - first:
+      213: 217390354776059310
+    second: LG_Wild_155
+  - first:
+      213: 2782687252738079305
+    second: LG_Wild_156
+  - first:
+      213: -566317213555376538
+    second: LG_Wild_157
+  - first:
+      213: -4578682706791038895
+    second: LG_Wild_158
+  - first:
+      213: -1362606060404805359
+    second: LG_Wild_159
+  - first:
+      213: 2490160675946512673
+    second: LG_Wild_160
+  - first:
+      213: -4028926516751287966
+    second: LG_Wild_161
+  - first:
+      213: -6811459027859722039
+    second: LG_Wild_162
+  - first:
+      213: -5864551258211157372
+    second: LG_Wild_163
+  - first:
+      213: -6893436913534562951
+    second: LG_Wild_164
+  - first:
+      213: 1974122968421786046
+    second: LG_Wild_165
+  - first:
+      213: -3204474989406131083
+    second: LG_Wild_166
+  - first:
+      213: -6247123917144535557
+    second: LG_Wild_167
+  - first:
+      213: -3358534170532628627
+    second: LG_Wild_168
+  - first:
+      213: 7702184730970947691
+    second: LG_Wild_169
+  - first:
+      213: 7350318682075476041
+    second: LG_Wild_170
+  - first:
+      213: 3258672868041751720
+    second: LG_Wild_171
+  - first:
+      213: -8620026973164650277
+    second: LG_Wild_172
+  - first:
+      213: 2342909739083665629
+    second: LG_Wild_173
+  - first:
+      213: 8205336400524165384
+    second: LG_Wild_174
+  - first:
+      213: -5104362056136564232
+    second: LG_Wild_175
+  - first:
+      213: -5736324072790207426
+    second: LG_Wild_176
+  - first:
+      213: -2556097842879628373
+    second: LG_Wild_177
+  - first:
+      213: -6995003050492007900
+    second: LG_Wild_178
+  - first:
+      213: -3097587722912671879
+    second: LG_Wild_179
+  - first:
+      213: 4636596836142289923
+    second: LG_Wild_180
+  - first:
+      213: 5650820701130383362
+    second: LG_Wild_181
+  - first:
+      213: -8290083880391424230
+    second: LG_Wild_182
+  - first:
+      213: 6653488282161384502
+    second: LG_Wild_183
+  - first:
+      213: -1466628730442814588
+    second: LG_Wild_184
+  - first:
+      213: 1288992842199000779
+    second: LG_Wild_185
+  - first:
+      213: 6030873443825259074
+    second: LG_Wild_186
+  - first:
+      213: 9180615989972037534
+    second: LG_Wild_187
+  - first:
+      213: 2079366329395655141
+    second: LG_Wild_188
+  - first:
+      213: -6067205384839875249
+    second: LG_Wild_189
+  - first:
+      213: 5035863112068013137
+    second: LG_Wild_190
+  - first:
+      213: -8806035469143285378
+    second: LG_Wild_191
+  - first:
+      213: 6404997282725334303
+    second: LG_Wild_192
+  - first:
+      213: -7984255365061173750
+    second: LG_Wild_193
+  - first:
+      213: -6513374247109996862
+    second: LG_Wild_194
+  - first:
+      213: 334198525564812498
+    second: LG_Wild_195
+  - first:
+      213: -6156253753059998827
+    second: LG_Wild_196
+  - first:
+      213: -7760587148706767002
+    second: LG_Wild_197
+  - first:
+      213: 7756117560152062715
+    second: LG_Wild_198
+  - first:
+      213: 4851865782287010904
+    second: LG_Wild_199
+  - first:
+      213: 2870999434586678983
+    second: LG_Wild_200
+  - first:
+      213: -5160601735634930809
+    second: LG_Wild_201
+  - first:
+      213: -7995998913221793195
+    second: LG_Wild_202
+  - first:
+      213: 5247518769485888101
+    second: LG_Wild_203
+  - first:
+      213: 7040700108135957617
+    second: LG_Wild_204
+  - first:
+      213: -7035611322216408205
+    second: LG_Wild_205
+  - first:
+      213: 6116073817285979504
+    second: LG_Wild_206
+  - first:
+      213: -4123614372738884323
+    second: LG_Wild_207
+  - first:
+      213: 4444808578468116963
+    second: LG_Wild_208
+  - first:
+      213: -2730087171308738927
+    second: LG_Wild_209
+  - first:
+      213: 2471242565150958810
+    second: LG_Wild_210
+  - first:
+      213: -4177561329347118255
+    second: LG_Wild_211
+  - first:
+      213: 1667241233010096275
+    second: LG_Wild_212
+  - first:
+      213: 4179934277465867987
+    second: LG_Wild_213
+  - first:
+      213: -5660105258338603707
+    second: LG_Wild_214
+  - first:
+      213: -8766329626718939131
+    second: LG_Wild_215
+  - first:
+      213: 1683080431588114267
+    second: LG_Wild_216
+  - first:
+      213: -4474177499557477557
+    second: LG_Wild_217
+  - first:
+      213: 702083658088567974
+    second: LG_Wild_218
+  - first:
+      213: 9135189199447039164
+    second: LG_Wild_219
+  - first:
+      213: -1234737373087768804
+    second: LG_Wild_220
+  - first:
+      213: -9018059522538411193
+    second: LG_Wild_221
+  - first:
+      213: 129706804297671914
+    second: LG_Wild_222
+  - first:
+      213: -182522553951121206
+    second: LG_Wild_223
+  - first:
+      213: 6313899332848508671
+    second: LG_Wild_224
+  - first:
+      213: -6837625006573877408
+    second: LG_Wild_225
+  - first:
+      213: -1135027635110839743
+    second: LG_Wild_226
+  - first:
+      213: -8650627852498324334
+    second: LG_Wild_227
+  - first:
+      213: 1750686547345517869
+    second: LG_Wild_228
+  - first:
+      213: 6993039736060709944
+    second: LG_Wild_229
+  - first:
+      213: 6423699127521701307
+    second: LG_Wild_230
+  - first:
+      213: 6628114693669116491
+    second: LG_Wild_231
+  - first:
+      213: 5512888023172050539
+    second: LG_Wild_232
+  - first:
+      213: -8758046955574975088
+    second: LG_Wild_233
+  - first:
+      213: 3833838702135311401
+    second: LG_Wild_234
+  - first:
+      213: 5422158575266255317
+    second: LG_Wild_235
+  - first:
+      213: -7692482526699483139
+    second: LG_Wild_236
+  - first:
+      213: -4491108044222325219
+    second: LG_Wild_237
+  - first:
+      213: 6377606843635801225
+    second: LG_Wild_238
+  - first:
+      213: -6894191693247657706
+    second: LG_Wild_239
+  - first:
+      213: -8935487521222441473
+    second: LG_Wild_240
+  - first:
+      213: 1654713030725566400
+    second: LG_Wild_241
+  - first:
+      213: 1865814999475798810
+    second: LG_Wild_242
+  - first:
+      213: 2766534450594103127
+    second: LG_Wild_243
+  - first:
+      213: -1348532980447231173
+    second: LG_Wild_244
+  - first:
+      213: 8652582408415146360
+    second: LG_Wild_245
+  - first:
+      213: -724918808593238676
+    second: LG_Wild_246
+  - first:
+      213: -5986389070018786624
+    second: LG_Wild_247
+  - first:
+      213: 6997292620819329941
+    second: LG_Wild_248
+  - first:
+      213: 5241716324207054152
+    second: LG_Wild_249
+  - first:
+      213: -4529959009163150279
+    second: LG_Wild_250
+  - first:
+      213: -1364951493412670560
+    second: LG_Wild_251
+  - first:
+      213: 5025240746864899958
+    second: LG_Wild_252
+  - first:
+      213: 1929289742002194585
+    second: LG_Wild_253
+  - first:
+      213: 1621172154683291264
+    second: LG_Wild_254
+  - first:
+      213: -7860586460988033593
+    second: LG_Wild_255
+  - first:
+      213: -1197870630841327909
+    second: LG_Wild_256
+  - first:
+      213: -5799521454774802812
+    second: LG_Wild_257
+  - first:
+      213: -586092736875507283
+    second: LG_Wild_258
+  - first:
+      213: 9056276056531207153
+    second: LG_Wild_259
+  - first:
+      213: 4190785015092887031
+    second: LG_Wild_260
+  - first:
+      213: 8334822988964469316
+    second: LG_Wild_261
+  - first:
+      213: 6231192147529152229
+    second: LG_Wild_262
+  - first:
+      213: -1661760205712315270
+    second: LG_Wild_263
+  - first:
+      213: 8433586812287562270
+    second: LG_Wild_264
+  - first:
+      213: -3760190878495636128
+    second: LG_Wild_265
+  - first:
+      213: 1925439234017199072
+    second: LG_Wild_266
+  - first:
+      213: 3534718144626353631
+    second: LG_Wild_267
+  - first:
+      213: 2772691196385434660
+    second: LG_Wild_268
+  - first:
+      213: -2614082564397906487
+    second: LG_Wild_269
+  - first:
+      213: 6139052275833758498
+    second: LG_Wild_270
+  - first:
+      213: -538414908101848093
+    second: LG_Wild_271
+  - first:
+      213: -4024459481158632609
+    second: LG_Wild_272
+  - first:
+      213: 7059423059141256140
+    second: LG_Wild_273
+  - first:
+      213: 556999701511512641
+    second: LG_Wild_274
+  - first:
+      213: 8388521557839004659
+    second: LG_Wild_275
+  - first:
+      213: -4836424272984974449
+    second: LG_Wild_276
+  - first:
+      213: 3332909969217495313
+    second: LG_Wild_277
+  - first:
+      213: -2868506357281194346
+    second: LG_Wild_278
+  - first:
+      213: -2993132930090297765
+    second: LG_Wild_279
+  - first:
+      213: -4370133639542555630
+    second: LG_Wild_280
+  - first:
+      213: -5055387414400592319
+    second: LG_Wild_281
+  - first:
+      213: -5392085846817230238
+    second: LG_Wild_282
+  - first:
+      213: 4068566987592754286
+    second: LG_Wild_283
+  - first:
+      213: -8215856601968403404
+    second: LG_Wild_284
+  - first:
+      213: 7112350235414986368
+    second: LG_Wild_285
+  - first:
+      213: -4351704975804602865
+    second: LG_Wild_286
+  - first:
+      213: 7637514419561349505
+    second: LG_Wild_287
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LG_Wild_0
+      rect:
+        serializedVersion: 2
+        x: 2595
+        y: 4072
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2353c9b3d06deead0800000000000000
+      internalID: -2670962176661113550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_1
+      rect:
+        serializedVersion: 2
+        x: 2699
+        y: 4071
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d83300fc87d1f30800000000000000
+      internalID: 4547924029171010851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_2
+      rect:
+        serializedVersion: 2
+        x: 2789
+        y: 4059
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1721dfaa7192721f0800000000000000
+      internalID: -1069841204847504783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_3
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 4031
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0da7cf504fc0aa0800000000000000
+      internalID: -6193307080993353556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_4
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 2952
+        width: 1120
+        height: 1054
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe72d6272c86cd8c0800000000000000
+      internalID: -3973185586894919697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_5
+      rect:
+        serializedVersion: 2
+        x: 2569
+        y: 3928
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e694c12d013a5d8f0800000000000000
+      internalID: -516327289624180370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_6
+      rect:
+        serializedVersion: 2
+        x: 2621
+        y: 3911
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac482e9fde63f2230800000000000000
+      internalID: 3616169421529318602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_7
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 3813
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb2baaf52632c500800000000000000
+      internalID: 414953652418718709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_8
+      rect:
+        serializedVersion: 2
+        x: 2689
+        y: 3847
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e61b4b6f4688480800000000000000
+      internalID: -8896750053114155505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_9
+      rect:
+        serializedVersion: 2
+        x: 2050
+        y: 3807
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85177f0833cc70620800000000000000
+      internalID: 2740383419857334616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_10
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 3770
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf92f3112e3eedf60800000000000000
+      internalID: 8061130943131232764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_11
+      rect:
+        serializedVersion: 2
+        x: 2023
+        y: 3776
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05ac70c66b759050800000000000000
+      internalID: 5806682975810397450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_12
+      rect:
+        serializedVersion: 2
+        x: 2572
+        y: 3762
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d9f410f927388f0800000000000000
+      internalID: -539461503106966229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_13
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 3761
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835a2b2046516cb00800000000000000
+      internalID: 848389099092092216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_14
+      rect:
+        serializedVersion: 2
+        x: 2482
+        y: 3713
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b39683f2d2911ba0800000000000000
+      internalID: -6119948983893322823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2453
+        width: 901
+        height: 1114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e8c3d31283b3720800000000000000
+      internalID: 2826914906517573158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_16
+      rect:
+        serializedVersion: 2
+        x: 3493
+        y: 3502
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6213215da05c680c0800000000000000
+      internalID: -4573751721233075930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_17
+      rect:
+        serializedVersion: 2
+        x: 3729
+        y: 3299
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c0acb2898507d0d0800000000000000
+      internalID: -3398241305665691449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_18
+      rect:
+        serializedVersion: 2
+        x: 3285
+        y: 3210
+        width: 212
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8045ac19edab800800000000000000
+      internalID: 629059815717734565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_19
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 2815
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b1ce629a9a2d4e0800000000000000
+      internalID: -1958316343985169601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_20
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 2789
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a46a26d6cfc1f070800000000000000
+      internalID: 8138514454538773666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_21
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 2629
+        width: 184
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f554610817c4a80800000000000000
+      internalID: -8481279203302088939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_22
+      rect:
+        serializedVersion: 2
+        x: 2406
+        y: 2506
+        width: 1466
+        height: 643
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e8cf95541c7d2a0800000000000000
+      internalID: -6712684215965807067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_23
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 2099
+        width: 553
+        height: 621
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eeef961c52091040800000000000000
+      internalID: 4618725487384981221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_24
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 2656
+        width: 98
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0747de4b3a05f7bd0800000000000000
+      internalID: -2630294993315728272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_25
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 2688
+        width: 82
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6543b78d79005f0800000000000000
+      internalID: -792466578381449501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_26
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 2507
+        width: 140
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92aa35b363e4f9300800000000000000
+      internalID: 261013298241317417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_27
+      rect:
+        serializedVersion: 2
+        x: 2104
+        y: 2483
+        width: 154
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7047a0a8abb721f40800000000000000
+      internalID: 5697752519687173127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_28
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 2562
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b1e699cd9b4c540800000000000000
+      internalID: 5027347441170389901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_29
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 2435
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee6ca1160fc16560800000000000000
+      internalID: 7305347695544921827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_30
+      rect:
+        serializedVersion: 2
+        x: 2876
+        y: 2262
+        width: 598
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 063f9324d53833da0800000000000000
+      internalID: -5966280644769483936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_31
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 2382
+        width: 45
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c827a3512dac3a50800000000000000
+      internalID: 6502262320665143494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_32
+      rect:
+        serializedVersion: 2
+        x: 2305
+        y: 2331
+        width: 96
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3feb980b88e36de40800000000000000
+      internalID: 5680796736772751091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_33
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 2051
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa21bee61dc232190800000000000000
+      internalID: -7988492036004441425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_34
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1923
+        width: 151
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8d5d66d7a162290800000000000000
+      internalID: -7915610169158543164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_35
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1971
+        width: 67
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6feee6cd908279340800000000000000
+      internalID: 4870405544842555126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_36
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 1715
+        width: 584
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f1db789ca509030800000000000000
+      internalID: 3499396732079120213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_37
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 1771
+        width: 530
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834f18790c2c302c0800000000000000
+      internalID: -4466512272990014408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_38
+      rect:
+        serializedVersion: 2
+        x: 2301
+        y: 1842
+        width: 528
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af633f03d15d7b5b0800000000000000
+      internalID: -5352575310754531590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_39
+      rect:
+        serializedVersion: 2
+        x: 2829
+        y: 1835
+        width: 706
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70953a5803e76fe20800000000000000
+      internalID: 3384030916881111303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_40
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1811
+        width: 360
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8466971cc85f17350800000000000000
+      internalID: 6012856962406508104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_41
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1946
+        width: 80
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4f402a710813aa0800000000000000
+      internalID: -6183019974412143394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_42
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 1828
+        width: 115
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8145c2cc4d4299ca0800000000000000
+      internalID: -6009731731372092392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_43
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1808
+        width: 125
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1664137ec2d22780800000000000000
+      internalID: -8709166945245305317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_44
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 1871
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78cea12577efa880800000000000000
+      internalID: -8597398673364694918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_45
+      rect:
+        serializedVersion: 2
+        x: 3577
+        y: 1601
+        width: 439
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 988ce37469c837680800000000000000
+      internalID: -8758502273237202807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_46
+      rect:
+        serializedVersion: 2
+        x: 2523
+        y: 1853
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08c0d42c45cea2f0800000000000000
+      internalID: -959612739757488118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_47
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1543
+        width: 477
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a0e33bf9bb681a0800000000000000
+      internalID: -6807547492142544324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_48
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1762
+        width: 152
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8d0f49d86815f50800000000000000
+      internalID: 6868418849364039889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_49
+      rect:
+        serializedVersion: 2
+        x: 2073
+        y: 1689
+        width: 75
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4583989647b04030800000000000000
+      internalID: 3476980426165421387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_50
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 1425
+        width: 446
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9aadc60d31aa0c0800000000000000
+      internalID: -4563813486486181387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_51
+      rect:
+        serializedVersion: 2
+        x: 3125
+        y: 1426
+        width: 448
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9d2c21f131e46f0800000000000000
+      internalID: -698599868016174625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_52
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 1630
+        width: 78
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: debb0555344c8d150800000000000000
+      internalID: 5897679505514871789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_53
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 1647
+        width: 87
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8ae3a54b90f5c40800000000000000
+      internalID: 5503127939882854595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_54
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 1679
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe14084f86b489d20800000000000000
+      internalID: 3285458842317505007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_55
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1272
+        width: 309
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a3f2200bdf5cac0800000000000000
+      internalID: -3835380575243388302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_56
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 1577
+        width: 63
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ca38a8106375980800000000000000
+      internalID: -8550305987292844981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_57
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 1561
+        width: 108
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0506c1a8a41c2f710800000000000000
+      internalID: 1725654133125177424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_58
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 1457
+        width: 218
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11810c88593685af0800000000000000
+      internalID: -407466272381462511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_59
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 1534
+        width: 81
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027e2a77d0accc2c0800000000000000
+      internalID: -4409927775912007904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_60
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 1404
+        width: 204
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278c35e4758abba50800000000000000
+      internalID: 6538004376988141682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_61
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1541
+        width: 69
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b05e94dc9907ebf0800000000000000
+      internalID: -295256681382784845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_62
+      rect:
+        serializedVersion: 2
+        x: 2252
+        y: 1570
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe4319d4d5576b90800000000000000
+      internalID: -7248730702566174977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_63
+      rect:
+        serializedVersion: 2
+        x: 2447
+        y: 1408
+        width: 179
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e7c1fba8bd41e30800000000000000
+      internalID: 4473441718844030621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_64
+      rect:
+        serializedVersion: 2
+        x: 3729
+        y: 1562
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06dfcaffce3c8f5c0800000000000000
+      internalID: -4181376831344280224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_65
+      rect:
+        serializedVersion: 2
+        x: 3904
+        y: 1584
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ad5adecd9376cc0800000000000000
+      internalID: -3717939346328397194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_66
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 1468
+        width: 97
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029b2186bb4b13550800000000000000
+      internalID: 6138886484080638240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_67
+      rect:
+        serializedVersion: 2
+        x: 3675
+        y: 1562
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21945b2a6685d4180800000000000000
+      internalID: -9129543671770429166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_68
+      rect:
+        serializedVersion: 2
+        x: 3705
+        y: 1564
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9654675566fe91620800000000000000
+      internalID: 2745488670658545001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_69
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1210
+        width: 884
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31de2aeb2ccafe1e0800000000000000
+      internalID: -2166322943319937773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_70
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 1367
+        width: 249
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbdce55599ba34200800000000000000
+      internalID: 163162686566092223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_71
+      rect:
+        serializedVersion: 2
+        x: 3778
+        y: 1527
+        width: 61
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1c0c22c67268e00800000000000000
+      internalID: 1046567308803228093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_72
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 1392
+        width: 93
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877d02277eccc2d40800000000000000
+      internalID: 5561044934319986552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_73
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 1464
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a3440261be67210800000000000000
+      internalID: 1330509220197710445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_74
+      rect:
+        serializedVersion: 2
+        x: 3656
+        y: 1326
+        width: 289
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb14fb7ef5e790d0800000000000000
+      internalID: -3416008911173182471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_75
+      rect:
+        serializedVersion: 2
+        x: 3952
+        y: 1363
+        width: 113
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1534d9221ce7766b0800000000000000
+      internalID: -5303130668230950063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_76
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 1283
+        width: 82
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6d3404123c48db0800000000000000
+      internalID: -4790489556035840260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_77
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 1344
+        width: 108
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1259c85d386364e80800000000000000
+      internalID: -8194802532102662879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_78
+      rect:
+        serializedVersion: 2
+        x: 2037
+        y: 1137
+        width: 808
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa0e4c66c45989f0800000000000000
+      internalID: -465747875258824018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_79
+      rect:
+        serializedVersion: 2
+        x: 2849
+        y: 1336
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0770ccd1c4f7cd6b0800000000000000
+      internalID: -5270197499036170384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_80
+      rect:
+        serializedVersion: 2
+        x: 3508
+        y: 1349
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 714cd9335c4fa6bb0800000000000000
+      internalID: -4941868513273986025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_81
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 984
+        width: 338
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b7c88aaa0a520f0800000000000000
+      internalID: -1142330275635889340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_82
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 1039
+        width: 213
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5516b2d26034da0800000000000000
+      internalID: -5961914690637310492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_83
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 1148
+        width: 184
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9cdf4edfb8c8690800000000000000
+      internalID: -7598544548696045102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_84
+      rect:
+        serializedVersion: 2
+        x: 3595
+        y: 1248
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fab0d66b8f4f40b0800000000000000
+      internalID: -5742283539730089225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_85
+      rect:
+        serializedVersion: 2
+        x: 3693
+        y: 1241
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19f6c080a9672370800000000000000
+      internalID: 8297716976529635615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_86
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 917
+        width: 329
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949db4593834014f0800000000000000
+      internalID: -860113296403211959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_87
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1150
+        width: 98
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c4508218c79e070800000000000000
+      internalID: 8136171095985572961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_88
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 959
+        width: 537
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5433793d40b359e70800000000000000
+      internalID: 9121261512224617285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_89
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 952
+        width: 304
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f79cda7bab3607f90800000000000000
+      internalID: -6957951770690729601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_90
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 1138
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58ff079125ce3860800000000000000
+      internalID: 7511657976559564891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_91
+      rect:
+        serializedVersion: 2
+        x: 3021
+        y: 1100
+        width: 147
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1468397c90aad3240800000000000000
+      internalID: 4773158139062355521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_92
+      rect:
+        serializedVersion: 2
+        x: 3701
+        y: 1127
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72ecf0f4cd91fa50800000000000000
+      internalID: 6553192401983038078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_93
+      rect:
+        serializedVersion: 2
+        x: 2554
+        y: 1090
+        width: 82
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5071782f0aca541e0800000000000000
+      internalID: -2214173834519046395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_94
+      rect:
+        serializedVersion: 2
+        x: 2631
+        y: 1112
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642d6be001d056ab0800000000000000
+      internalID: -5015588247389679034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_95
+      rect:
+        serializedVersion: 2
+        x: 3709
+        y: 852
+        width: 307
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0599e3cf2b60f70800000000000000
+      internalID: 9153200089128849647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_96
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 754
+        width: 287
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047c1e1991bf1a2a0800000000000000
+      internalID: -6727820281074563264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_97
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 959
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e563144779abf33e0800000000000000
+      internalID: -2071732143913879970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_98
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 953
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7c48c428f9a85c0800000000000000
+      internalID: -4212379119473342529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_99
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 962
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e357421959ae810800000000000000
+      internalID: 1795411852075024002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_100
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 938
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b9e539cb5b0c450800000000000000
+      internalID: 6107080916245322575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_101
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 783
+        width: 403
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2405d9795de0f8d0800000000000000
+      internalID: -2814488798554684371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_102
+      rect:
+        serializedVersion: 2
+        x: 2353
+        y: 826
+        width: 533
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: badddd4e8fbd5b340800000000000000
+      internalID: 4879047633363918251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_103
+      rect:
+        serializedVersion: 2
+        x: 2896
+        y: 852
+        width: 552
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d660db65c4ccc00800000000000000
+      internalID: 922195959126322477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_104
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 940
+        width: 173
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f154f767a6ad7f0800000000000000
+      internalID: -587039744244506722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_105
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 732
+        width: 470
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76402dfbab0630e30800000000000000
+      internalID: 4468521610480059495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_106
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 938
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29c5554058a97000800000000000000
+      internalID: 34243534896089390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_107
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 944
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff0edf9468751840800000000000000
+      internalID: 5194190118815928305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_108
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 943
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e17decb5d82c0130800000000000000
+      internalID: 3534244706041819625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_109
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 946
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8ef3750d886b030800000000000000
+      internalID: 3510143387980261612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_110
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 909
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc136b0a5268f1af0800000000000000
+      internalID: -423472343781330481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_111
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 934
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd29131d35d7f470800000000000000
+      internalID: 8428439685937311228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_112
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 728
+        width: 340
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae00240dc6baf4e0800000000000000
+      internalID: -1947042897230557535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_113
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 931
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bfd53330a5650fd0800000000000000
+      internalID: -2376381489639727183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_114
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 927
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1076be85271d364b0800000000000000
+      internalID: -5448280835139868927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_115
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 934
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e8b594961021fc0800000000000000
+      internalID: -3525754006563746278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_116
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 926
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6400c11952eacbb00800000000000000
+      internalID: 845742306410364998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_117
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 932
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc90a4332cb8ef920800000000000000
+      internalID: 3026009665839958476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_118
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 923
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a7e5b7b5fa3062b0800000000000000
+      internalID: -5593405910170605658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_119
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 913
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e12b7088d1346080800000000000000
+      internalID: -9195169733245459994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_120
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 924
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374fd252bae6f2b50800000000000000
+      internalID: 6570592062699074675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_121
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 920
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f835ee55ffe8730800000000000000
+      internalID: 4003417863314706278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_122
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 914
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65205ed51e02b54f0800000000000000
+      internalID: -839040753259445674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_123
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 919
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f086c139290d3b40800000000000000
+      internalID: 5421499598957347056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_124
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 909
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e4f17309ec03430800000000000000
+      internalID: 3760732807649775122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_125
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 910
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba725377b47ab0530800000000000000
+      internalID: 3822332651318355883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_126
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 912
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82e03b081575ed50800000000000000
+      internalID: 6765942761321456270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_127
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 913
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7d2e63061cea340800000000000000
+      internalID: 4877048065470683082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_128
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 915
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da7f232be961ad30800000000000000
+      internalID: 4440947166192564951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_129
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 906
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5aa9e5f549e3670800000000000000
+      internalID: 8520410682361554418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_130
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 880
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104be4321ca442ab0800000000000000
+      internalID: -5033816290111867903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_131
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 704
+        width: 252
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821d2fc154f50ee40800000000000000
+      internalID: 5683647480184623400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_132
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 893
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f205268454cc8d160800000000000000
+      internalID: 7050609814587723823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_133
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 900
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f6f6612b5b631e0800000000000000
+      internalID: -2218385989948182782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_134
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 899
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3a2289d29f6d990800000000000000
+      internalID: -7361422566669245502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_135
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 898
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94479bb77fa50c040800000000000000
+      internalID: 4665829232935007305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_136
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 898
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ec2fff21d75d320800000000000000
+      internalID: 2582107481923833503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_137
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 901
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b112c56d6f8417cc0800000000000000
+      internalID: -3715107992608431845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_138
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 697
+        width: 254
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac35bdafe00b35b0800000000000000
+      internalID: -5387711499807146847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_139
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 884
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1eb530c4a7a4970800000000000000
+      internalID: 8739932493758325177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_140
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 882
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5877c6d6dbc70d20800000000000000
+      internalID: 3244786180130568286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_141
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 876
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7238885e426aa6c30800000000000000
+      internalID: 4353474667206968103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_142
+      rect:
+        serializedVersion: 2
+        x: 2311
+        y: 842
+        width: 95
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106a0709aa199d650800000000000000
+      internalID: 6258193318961784321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_143
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 865
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74899d1aacc38d050800000000000000
+      internalID: 5825472959000188999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_144
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 862
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ea4973af90c4f50800000000000000
+      internalID: 6866874502112128641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_145
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 871
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41946830652c86bc0800000000000000
+      internalID: -3789565411750164204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_146
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 868
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4a37ac8bf6ecaa0800000000000000
+      internalID: -6138846402598165330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_147
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 855
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f9c2931503fb9060800000000000000
+      internalID: 6961424852160006641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_148
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 847
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598693814842a6160800000000000000
+      internalID: 7019463118971037845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_149
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 851
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f78f151158efc2160800000000000000
+      internalID: 7002251368128968831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_150
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 824
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241b60886100b6fc0800000000000000
+      internalID: -3500704188579008190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_151
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 857
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cbcfdfbbe44fdf70800000000000000
+      internalID: 9214159141950442435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_152
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 836
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa323647637543060800000000000000
+      internalID: 6932261617822540714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_153
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 847
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c7b53df5e6df9320800000000000000
+      internalID: 2567006595908483008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_154
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 838
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce5fc19be0f555a0800000000000000
+      internalID: -6533050789876769083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_155
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 817
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eade50a3063540300800000000000000
+      internalID: 217390354776059310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_156
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 828
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94af57420571e9620800000000000000
+      internalID: 2782687252738079305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_157
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 830
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66eb7d7ae790428f0800000000000000
+      internalID: -566317213555376538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_158
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 832
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1500f7a46504570c0800000000000000
+      internalID: -4578682706791038895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_159
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 825
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111f6c8e10d071de0800000000000000
+      internalID: -1362606060404805359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_160
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 825
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121407bf0f3de8220800000000000000
+      internalID: 2490160675946512673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_161
+      rect:
+        serializedVersion: 2
+        x: 3220
+        y: 638
+        width: 254
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26933eedda06618c0800000000000000
+      internalID: -4028926516751287966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_162
+      rect:
+        serializedVersion: 2
+        x: 3488
+        y: 638
+        width: 254
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c03b425a16d871a0800000000000000
+      internalID: -6811459027859722039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_163
+      rect:
+        serializedVersion: 2
+        x: 3755
+        y: 638
+        width: 254
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48af04fc3bdec9ea0800000000000000
+      internalID: -5864551258211157372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_164
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 823
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d053f66a79550a0800000000000000
+      internalID: -6893436913534562951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_165
+      rect:
+        serializedVersion: 2
+        x: 2952
+        y: 625
+        width: 254
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb168b3616e756b10800000000000000
+      internalID: 1974122968421786046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_166
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 808
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ce2d4a9fa6783d0800000000000000
+      internalID: -3204474989406131083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_167
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 809
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfdc0c265e1cd49a0800000000000000
+      internalID: -6247123917144535557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_168
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 799
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67346757f61461d0800000000000000
+      internalID: -3358534170532628627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_169
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 800
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6006f37438a3ea60800000000000000
+      internalID: 7702184730970947691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_170
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 812
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940b60fc5e3910660800000000000000
+      internalID: 7350318682075476041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_171
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 779
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8acf4d255b1293d20800000000000000
+      internalID: 3258672868041751720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_172
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 793
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd04c3683238f5880800000000000000
+      internalID: -8620026973164650277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_173
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 798
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd092e29effa38020800000000000000
+      internalID: 2342909739083665629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_174
+      rect:
+        serializedVersion: 2
+        x: 2416
+        y: 604
+        width: 254
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80143d78bf53fd170800000000000000
+      internalID: 8205336400524165384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_175
+      rect:
+        serializedVersion: 2
+        x: 2684
+        y: 607
+        width: 254
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f16ff601c9a929b0800000000000000
+      internalID: -5104362056136564232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_176
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 485
+        width: 254
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3451dce5ab7460b0800000000000000
+      internalID: -5736324072790207426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_177
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 492
+        width: 254
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab74000e8ae68cd0800000000000000
+      internalID: -2556097842879628373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_178
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 491
+        width: 253
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a66a469c1ccee90800000000000000
+      internalID: -6995003050492007900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_179
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 515
+        width: 252
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977dd23b0682305d0800000000000000
+      internalID: -3097587722912671879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_180
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 518
+        width: 253
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30416f8b140885040800000000000000
+      internalID: 4636596836142289923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_181
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 517
+        width: 254
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200ec440d7fbb6e40800000000000000
+      internalID: 5650820701130383362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_182
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 541
+        width: 255
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17c31f22a4b3fc80800000000000000
+      internalID: -8290083880391424230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_183
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 541
+        width: 253
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c04774750f55c50800000000000000
+      internalID: 6653488282161384502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_184
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 569
+        width: 253
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48be290b0fc75abe0800000000000000
+      internalID: -1466628730442814588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_185
+      rect:
+        serializedVersion: 2
+        x: 2571
+        y: 394
+        width: 252
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6ea4d192c63e110800000000000000
+      internalID: 1288992842199000779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_186
+      rect:
+        serializedVersion: 2
+        x: 2838
+        y: 395
+        width: 253
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2429a88b177f1b350800000000000000
+      internalID: 6030873443825259074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_187
+      rect:
+        serializedVersion: 2
+        x: 3105
+        y: 414
+        width: 254
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9fed851a99186f70800000000000000
+      internalID: 9180615989972037534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_188
+      rect:
+        serializedVersion: 2
+        x: 3373
+        y: 427
+        width: 254
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1398dd8a46bdc10800000000000000
+      internalID: 2079366329395655141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_189
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 427
+        width: 255
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45384119d4fccba0800000000000000
+      internalID: -6067205384839875249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_190
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 286
+        width: 230
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c9e4cb1daf2e540800000000000000
+      internalID: 5035863112068013137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_191
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 289
+        width: 286
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71693ea56daac580800000000000000
+      internalID: -8806035469143285378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_192
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 374
+        width: 221
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d8f20f71f13e850800000000000000
+      internalID: 6404997282725334303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_193
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 302
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e95814c0a323190800000000000000
+      internalID: -7984255365061173750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_194
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 313
+        width: 246
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cec4dfa1a8db95a0800000000000000
+      internalID: -6513374247109996862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_195
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 327
+        width: 628
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dcffb0d9cf43a400800000000000000
+      internalID: 334198525564812498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_196
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 349
+        width: 492
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59381bd24d7909aa0800000000000000
+      internalID: -6156253753059998827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_197
+      rect:
+        serializedVersion: 2
+        x: 2305
+        y: 360
+        width: 248
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f1fd80b1bdc4490800000000000000
+      internalID: -7760587148706767002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_198
+      rect:
+        serializedVersion: 2
+        x: 2728
+        y: 216
+        width: 247
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa7809c3d343ab60800000000000000
+      internalID: 7756117560152062715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_199
+      rect:
+        serializedVersion: 2
+        x: 2978
+        y: 220
+        width: 205
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c0713093a455340800000000000000
+      internalID: 4851865782287010904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_200
+      rect:
+        serializedVersion: 2
+        x: 3184
+        y: 224
+        width: 210
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6e2e846c6d7d720800000000000000
+      internalID: 2870999434586678983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_201
+      rect:
+        serializedVersion: 2
+        x: 3394
+        y: 233
+        width: 221
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7833730401cd168b0800000000000000
+      internalID: -5160601735634930809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_202
+      rect:
+        serializedVersion: 2
+        x: 3616
+        y: 238
+        width: 174
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a61016a51880190800000000000000
+      internalID: -7995998913221793195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_203
+      rect:
+        serializedVersion: 2
+        x: 3846
+        y: 259
+        width: 120
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ab66fa48ee2d840800000000000000
+      internalID: 5247518769485888101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_204
+      rect:
+        serializedVersion: 2
+        x: 2345
+        y: 214
+        width: 148
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1748f73f17795b160800000000000000
+      internalID: 7040700108135957617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_205
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 340
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b139957cc7c5e90800000000000000
+      internalID: -7035611322216408205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_206
+      rect:
+        serializedVersion: 2
+        x: 2684
+        y: 317
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07de5638bb8a0e450800000000000000
+      internalID: 6116073817285979504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_207
+      rect:
+        serializedVersion: 2
+        x: 2690
+        y: 345
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d143a639af5c6c0800000000000000
+      internalID: -4123614372738884323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_208
+      rect:
+        serializedVersion: 2
+        x: 2707
+        y: 316
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9733e3ad12fad30800000000000000
+      internalID: 4444808578468116963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_209
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 200
+        width: 216
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196aa4cae28cc1ad0800000000000000
+      internalID: -2730087171308738927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_210
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 211
+        width: 299
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4e5a1150e9b4220800000000000000
+      internalID: 2471242565150958810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_211
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 310
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b3bd8ca125606c0800000000000000
+      internalID: -4177561329347118255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_212
+      rect:
+        serializedVersion: 2
+        x: 2601
+        y: 291
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3987378611b332710800000000000000
+      internalID: 1667241233010096275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_213
+      rect:
+        serializedVersion: 2
+        x: 2623
+        y: 329
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d605d0441c120a30800000000000000
+      internalID: 4179934277465867987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_214
+      rect:
+        serializedVersion: 2
+        x: 2636
+        y: 281
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d286d81444371b0800000000000000
+      internalID: -5660105258338603707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_215
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 182
+        width: 119
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5085f6786adb75680800000000000000
+      internalID: -8766329626718939131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_216
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 187
+        width: 270
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f78353cb08b5710800000000000000
+      internalID: 1683080431588114267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_217
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 188
+        width: 156
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43c4d4f44788e1c0800000000000000
+      internalID: -4474177499557477557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_218
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 259
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4d9f20e5d4eb900800000000000000
+      internalID: 702083658088567974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_219
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 278
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc96053d26b6ce70800000000000000
+      internalID: 9135189199447039164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_220
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 295
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f543ea6e45ddee0800000000000000
+      internalID: -1234737373087768804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_221
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 290
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74be4cbd4aa69d280800000000000000
+      internalID: -9018059522538411193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_222
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 288
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae42d1bb6afccc100800000000000000
+      internalID: 129706804297671914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_223
+      rect:
+        serializedVersion: 2
+        x: 2703
+        y: 298
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac01f3844bc877df0800000000000000
+      internalID: -182522553951121206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_224
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 170
+        width: 129
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffed202adf97f9750800000000000000
+      internalID: 6313899332848508671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_225
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 174
+        width: 286
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06706d7a840eb11a0800000000000000
+      internalID: -6837625006573877408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_226
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 250
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a77f621629f30f0800000000000000
+      internalID: -1135027635110839743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_227
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 244
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294bcb71dcbc2f780800000000000000
+      internalID: -8650627852498324334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_228
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 264
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2da597a320bb4810800000000000000
+      internalID: 1750686547345517869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_229
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 195
+        width: 147
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c0718d6944c0160800000000000000
+      internalID: 6993039736060709944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_230
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 260
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbdeaef7250952950800000000000000
+      internalID: 6423699127521701307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_231
+      rect:
+        serializedVersion: 2
+        x: 2515
+        y: 240
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ad1b6523bcbfb50800000000000000
+      internalID: 6628114693669116491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_232
+      rect:
+        serializedVersion: 2
+        x: 2675
+        y: 271
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6eeca3d276b18c40800000000000000
+      internalID: 5512888023172050539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_233
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 157
+        width: 120
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09523ce22ba257680800000000000000
+      internalID: -8758046955574975088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_234
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 176
+        width: 114
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c7beeacf7843530800000000000000
+      internalID: 3833838702135311401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_235
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 226
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d155921f706f3b40800000000000000
+      internalID: 5422158575266255317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_236
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 237
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff8d2306efce3590800000000000000
+      internalID: -7692482526699483139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_237
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 225
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e9a3857016ca1c0800000000000000
+      internalID: -4491108044222325219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_238
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 255
+        width: 40
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c130062afc18850800000000000000
+      internalID: 6377606843635801225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_239
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 182
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61946869e29e250a0800000000000000
+      internalID: -6894191693247657706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_240
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5c9921175cef380800000000000000
+      internalID: -8935487521222441473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_241
+      rect:
+        serializedVersion: 2
+        x: 2137
+        y: 137
+        width: 75
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf7b910cb8b6f610800000000000000
+      internalID: 1654713030725566400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_242
+      rect:
+        serializedVersion: 2
+        x: 2216
+        y: 126
+        width: 187
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a13c9544bd4b4e910800000000000000
+      internalID: 1865814999475798810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_243
+      rect:
+        serializedVersion: 2
+        x: 2406
+        y: 126
+        width: 92
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75fba82dc64b46620800000000000000
+      internalID: 2766534450594103127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_244
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 126
+        width: 189
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b334b8c266c094de0800000000000000
+      internalID: -1348532980447231173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_245
+      rect:
+        serializedVersion: 2
+        x: 2729
+        y: 167
+        width: 87
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871f06b6bd5241870800000000000000
+      internalID: 8652582408415146360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_246
+      rect:
+        serializedVersion: 2
+        x: 2915
+        y: 125
+        width: 254
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65fcc23f2290f5f0800000000000000
+      internalID: -724918808593238676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_247
+      rect:
+        serializedVersion: 2
+        x: 3170
+        y: 128
+        width: 91
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cacf3aabd21ceca0800000000000000
+      internalID: -5986389070018786624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_248
+      rect:
+        serializedVersion: 2
+        x: 3265
+        y: 143
+        width: 108
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593f56db0906b1160800000000000000
+      internalID: 6997292620819329941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_249
+      rect:
+        serializedVersion: 2
+        x: 3376
+        y: 127
+        width: 112
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d4abd99315eb840800000000000000
+      internalID: 5241716324207054152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_250
+      rect:
+        serializedVersion: 2
+        x: 3492
+        y: 125
+        width: 227
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93cffbb284a5221c0800000000000000
+      internalID: -4529959009163150279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_251
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 125
+        width: 228
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3bf7b39d7be0de0800000000000000
+      internalID: -1364951493412670560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_252
+      rect:
+        serializedVersion: 2
+        x: 3953
+        y: 125
+        width: 126
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67773bb95dd3db540800000000000000
+      internalID: 5025240746864899958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_253
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 127
+        width: 126
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99888dc6cc636ca10800000000000000
+      internalID: 1929289742002194585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_254
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 125
+        width: 86
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086f6af3c7f8f7610800000000000000
+      internalID: 1621172154683291264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_255
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 127
+        width: 63
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5309ac24699e290800000000000000
+      internalID: -7860586460988033593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_256
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 126
+        width: 83
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde54d1020f406fe0800000000000000
+      internalID: -1197870630841327909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_257
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 127
+        width: 91
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48624ecc6f5f38fa0800000000000000
+      internalID: -5799521454774802812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_258
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 126
+        width: 84
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da15915d2c7cdd7f0800000000000000
+      internalID: -586092736875507283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_259
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 126
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f30b69571b5ead70800000000000000
+      internalID: 9056276056531207153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_260
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 127
+        width: 111
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd34aa74c8a82a30800000000000000
+      internalID: 4190785015092887031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_261
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 125
+        width: 59
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a9cf2495d3ba370800000000000000
+      internalID: 8334822988964469316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_262
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 155
+        width: 47
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6bda07e34a97650800000000000000
+      internalID: 6231192147529152229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_263
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 126
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c23a4b5ed30f8e0800000000000000
+      internalID: -1661760205712315270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_264
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 158
+        width: 47
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12b1d0d58e1a0570800000000000000
+      internalID: 8433586812287562270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_265
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 159
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0658a9f715e11dbc0800000000000000
+      internalID: -3760190878495636128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_266
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 128
+        width: 27
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3023c28c888ba10800000000000000
+      internalID: 1925439234017199072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_267
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 156
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5e49fbc67dd0130800000000000000
+      internalID: 3534718144626353631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_268
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 126
+        width: 129
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c1868e3f39a7620800000000000000
+      internalID: 2772691196385434660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_269
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 127
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c54587f1c9e8bbd0800000000000000
+      internalID: -2614082564397906487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_270
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 125
+        width: 88
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 223ef9ec48b423550800000000000000
+      internalID: 6139052275833758498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_271
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 127
+        width: 132
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e390d46e7a2788f0800000000000000
+      internalID: -538414908101848093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_272
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 126
+        width: 65
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b3694ac6f3628c0800000000000000
+      internalID: -4024459481158632609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_273
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 142
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3e05faedb18f160800000000000000
+      internalID: 7059423059141256140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_274
+      rect:
+        serializedVersion: 2
+        x: 1951
+        y: 127
+        width: 71
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142a794074cdab700800000000000000
+      internalID: 556999701511512641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_275
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 126
+        width: 106
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f343bd99e30a6470800000000000000
+      internalID: 8388521557839004659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_276
+      rect:
+        serializedVersion: 2
+        x: 2689
+        y: 148
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b57a98fb191ecb0800000000000000
+      internalID: -4836424272984974449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_277
+      rect:
+        serializedVersion: 2
+        x: 2848
+        y: 127
+        width: 64
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111219f55ffd04e20800000000000000
+      internalID: 3332909969217495313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_278
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 126
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69efd428aa40138d0800000000000000
+      internalID: -2868506357281194346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_279
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 126
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56917855714676d0800000000000000
+      internalID: -2993132930090297765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_280
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 127
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21cb41adb9a2a53c0800000000000000
+      internalID: -4370133639542555630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_281
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 126
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1461ca26ee7a7d9b0800000000000000
+      internalID: -5055387414400592319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_282
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 126
+        width: 49
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2623c06ad767b25b0800000000000000
+      internalID: -5392085846817230238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_283
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 126
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64e8587e14767830800000000000000
+      internalID: 4068566987592754286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_284
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 128
+        width: 45
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c102233f96bfd80800000000000000
+      internalID: -8215856601968403404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_285
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 127
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e73143bd424b260800000000000000
+      internalID: 7112350235414986368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_286
+      rect:
+        serializedVersion: 2
+        x: 2179
+        y: 127
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06eddd7163ab93c0800000000000000
+      internalID: -4351704975804602865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LG_Wild_287
+      rect:
+        serializedVersion: 2
+        x: 3345
+        y: 126
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 181c0e836e6edf960800000000000000
+      internalID: 7637514419561349505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LG_Wild_0: -2670962176661113550
+      LG_Wild_1: 4547924029171010851
+      LG_Wild_10: 8061130943131232764
+      LG_Wild_100: 6107080916245322575
+      LG_Wild_101: -2814488798554684371
+      LG_Wild_102: 4879047633363918251
+      LG_Wild_103: 922195959126322477
+      LG_Wild_104: -587039744244506722
+      LG_Wild_105: 4468521610480059495
+      LG_Wild_106: 34243534896089390
+      LG_Wild_107: 5194190118815928305
+      LG_Wild_108: 3534244706041819625
+      LG_Wild_109: 3510143387980261612
+      LG_Wild_11: 5806682975810397450
+      LG_Wild_110: -423472343781330481
+      LG_Wild_111: 8428439685937311228
+      LG_Wild_112: -1947042897230557535
+      LG_Wild_113: -2376381489639727183
+      LG_Wild_114: -5448280835139868927
+      LG_Wild_115: -3525754006563746278
+      LG_Wild_116: 845742306410364998
+      LG_Wild_117: 3026009665839958476
+      LG_Wild_118: -5593405910170605658
+      LG_Wild_119: -9195169733245459994
+      LG_Wild_12: -539461503106966229
+      LG_Wild_120: 6570592062699074675
+      LG_Wild_121: 4003417863314706278
+      LG_Wild_122: -839040753259445674
+      LG_Wild_123: 5421499598957347056
+      LG_Wild_124: 3760732807649775122
+      LG_Wild_125: 3822332651318355883
+      LG_Wild_126: 6765942761321456270
+      LG_Wild_127: 4877048065470683082
+      LG_Wild_128: 4440947166192564951
+      LG_Wild_129: 8520410682361554418
+      LG_Wild_13: 848389099092092216
+      LG_Wild_130: -5033816290111867903
+      LG_Wild_131: 5683647480184623400
+      LG_Wild_132: 7050609814587723823
+      LG_Wild_133: -2218385989948182782
+      LG_Wild_134: -7361422566669245502
+      LG_Wild_135: 4665829232935007305
+      LG_Wild_136: 2582107481923833503
+      LG_Wild_137: -3715107992608431845
+      LG_Wild_138: -5387711499807146847
+      LG_Wild_139: 8739932493758325177
+      LG_Wild_14: -6119948983893322823
+      LG_Wild_140: 3244786180130568286
+      LG_Wild_141: 4353474667206968103
+      LG_Wild_142: 6258193318961784321
+      LG_Wild_143: 5825472959000188999
+      LG_Wild_144: 6866874502112128641
+      LG_Wild_145: -3789565411750164204
+      LG_Wild_146: -6138846402598165330
+      LG_Wild_147: 6961424852160006641
+      LG_Wild_148: 7019463118971037845
+      LG_Wild_149: 7002251368128968831
+      LG_Wild_15: 2826914906517573158
+      LG_Wild_150: -3500704188579008190
+      LG_Wild_151: 9214159141950442435
+      LG_Wild_152: 6932261617822540714
+      LG_Wild_153: 2567006595908483008
+      LG_Wild_154: -6533050789876769083
+      LG_Wild_155: 217390354776059310
+      LG_Wild_156: 2782687252738079305
+      LG_Wild_157: -566317213555376538
+      LG_Wild_158: -4578682706791038895
+      LG_Wild_159: -1362606060404805359
+      LG_Wild_16: -4573751721233075930
+      LG_Wild_160: 2490160675946512673
+      LG_Wild_161: -4028926516751287966
+      LG_Wild_162: -6811459027859722039
+      LG_Wild_163: -5864551258211157372
+      LG_Wild_164: -6893436913534562951
+      LG_Wild_165: 1974122968421786046
+      LG_Wild_166: -3204474989406131083
+      LG_Wild_167: -6247123917144535557
+      LG_Wild_168: -3358534170532628627
+      LG_Wild_169: 7702184730970947691
+      LG_Wild_17: -3398241305665691449
+      LG_Wild_170: 7350318682075476041
+      LG_Wild_171: 3258672868041751720
+      LG_Wild_172: -8620026973164650277
+      LG_Wild_173: 2342909739083665629
+      LG_Wild_174: 8205336400524165384
+      LG_Wild_175: -5104362056136564232
+      LG_Wild_176: -5736324072790207426
+      LG_Wild_177: -2556097842879628373
+      LG_Wild_178: -6995003050492007900
+      LG_Wild_179: -3097587722912671879
+      LG_Wild_18: 629059815717734565
+      LG_Wild_180: 4636596836142289923
+      LG_Wild_181: 5650820701130383362
+      LG_Wild_182: -8290083880391424230
+      LG_Wild_183: 6653488282161384502
+      LG_Wild_184: -1466628730442814588
+      LG_Wild_185: 1288992842199000779
+      LG_Wild_186: 6030873443825259074
+      LG_Wild_187: 9180615989972037534
+      LG_Wild_188: 2079366329395655141
+      LG_Wild_189: -6067205384839875249
+      LG_Wild_19: -1958316343985169601
+      LG_Wild_190: 5035863112068013137
+      LG_Wild_191: -8806035469143285378
+      LG_Wild_192: 6404997282725334303
+      LG_Wild_193: -7984255365061173750
+      LG_Wild_194: -6513374247109996862
+      LG_Wild_195: 334198525564812498
+      LG_Wild_196: -6156253753059998827
+      LG_Wild_197: -7760587148706767002
+      LG_Wild_198: 7756117560152062715
+      LG_Wild_199: 4851865782287010904
+      LG_Wild_2: -1069841204847504783
+      LG_Wild_20: 8138514454538773666
+      LG_Wild_200: 2870999434586678983
+      LG_Wild_201: -5160601735634930809
+      LG_Wild_202: -7995998913221793195
+      LG_Wild_203: 5247518769485888101
+      LG_Wild_204: 7040700108135957617
+      LG_Wild_205: -7035611322216408205
+      LG_Wild_206: 6116073817285979504
+      LG_Wild_207: -4123614372738884323
+      LG_Wild_208: 4444808578468116963
+      LG_Wild_209: -2730087171308738927
+      LG_Wild_21: -8481279203302088939
+      LG_Wild_210: 2471242565150958810
+      LG_Wild_211: -4177561329347118255
+      LG_Wild_212: 1667241233010096275
+      LG_Wild_213: 4179934277465867987
+      LG_Wild_214: -5660105258338603707
+      LG_Wild_215: -8766329626718939131
+      LG_Wild_216: 1683080431588114267
+      LG_Wild_217: -4474177499557477557
+      LG_Wild_218: 702083658088567974
+      LG_Wild_219: 9135189199447039164
+      LG_Wild_22: -6712684215965807067
+      LG_Wild_220: -1234737373087768804
+      LG_Wild_221: -9018059522538411193
+      LG_Wild_222: 129706804297671914
+      LG_Wild_223: -182522553951121206
+      LG_Wild_224: 6313899332848508671
+      LG_Wild_225: -6837625006573877408
+      LG_Wild_226: -1135027635110839743
+      LG_Wild_227: -8650627852498324334
+      LG_Wild_228: 1750686547345517869
+      LG_Wild_229: 6993039736060709944
+      LG_Wild_23: 4618725487384981221
+      LG_Wild_230: 6423699127521701307
+      LG_Wild_231: 6628114693669116491
+      LG_Wild_232: 5512888023172050539
+      LG_Wild_233: -8758046955574975088
+      LG_Wild_234: 3833838702135311401
+      LG_Wild_235: 5422158575266255317
+      LG_Wild_236: -7692482526699483139
+      LG_Wild_237: -4491108044222325219
+      LG_Wild_238: 6377606843635801225
+      LG_Wild_239: -6894191693247657706
+      LG_Wild_24: -2630294993315728272
+      LG_Wild_240: -8935487521222441473
+      LG_Wild_241: 1654713030725566400
+      LG_Wild_242: 1865814999475798810
+      LG_Wild_243: 2766534450594103127
+      LG_Wild_244: -1348532980447231173
+      LG_Wild_245: 8652582408415146360
+      LG_Wild_246: -724918808593238676
+      LG_Wild_247: -5986389070018786624
+      LG_Wild_248: 6997292620819329941
+      LG_Wild_249: 5241716324207054152
+      LG_Wild_25: -792466578381449501
+      LG_Wild_250: -4529959009163150279
+      LG_Wild_251: -1364951493412670560
+      LG_Wild_252: 5025240746864899958
+      LG_Wild_253: 1929289742002194585
+      LG_Wild_254: 1621172154683291264
+      LG_Wild_255: -7860586460988033593
+      LG_Wild_256: -1197870630841327909
+      LG_Wild_257: -5799521454774802812
+      LG_Wild_258: -586092736875507283
+      LG_Wild_259: 9056276056531207153
+      LG_Wild_26: 261013298241317417
+      LG_Wild_260: 4190785015092887031
+      LG_Wild_261: 8334822988964469316
+      LG_Wild_262: 6231192147529152229
+      LG_Wild_263: -1661760205712315270
+      LG_Wild_264: 8433586812287562270
+      LG_Wild_265: -3760190878495636128
+      LG_Wild_266: 1925439234017199072
+      LG_Wild_267: 3534718144626353631
+      LG_Wild_268: 2772691196385434660
+      LG_Wild_269: -2614082564397906487
+      LG_Wild_27: 5697752519687173127
+      LG_Wild_270: 6139052275833758498
+      LG_Wild_271: -538414908101848093
+      LG_Wild_272: -4024459481158632609
+      LG_Wild_273: 7059423059141256140
+      LG_Wild_274: 556999701511512641
+      LG_Wild_275: 8388521557839004659
+      LG_Wild_276: -4836424272984974449
+      LG_Wild_277: 3332909969217495313
+      LG_Wild_278: -2868506357281194346
+      LG_Wild_279: -2993132930090297765
+      LG_Wild_28: 5027347441170389901
+      LG_Wild_280: -4370133639542555630
+      LG_Wild_281: -5055387414400592319
+      LG_Wild_282: -5392085846817230238
+      LG_Wild_283: 4068566987592754286
+      LG_Wild_284: -8215856601968403404
+      LG_Wild_285: 7112350235414986368
+      LG_Wild_286: -4351704975804602865
+      LG_Wild_287: 7637514419561349505
+      LG_Wild_29: 7305347695544921827
+      LG_Wild_3: -6193307080993353556
+      LG_Wild_30: -5966280644769483936
+      LG_Wild_31: 6502262320665143494
+      LG_Wild_32: 5680796736772751091
+      LG_Wild_33: -7988492036004441425
+      LG_Wild_34: -7915610169158543164
+      LG_Wild_35: 4870405544842555126
+      LG_Wild_36: 3499396732079120213
+      LG_Wild_37: -4466512272990014408
+      LG_Wild_38: -5352575310754531590
+      LG_Wild_39: 3384030916881111303
+      LG_Wild_4: -3973185586894919697
+      LG_Wild_40: 6012856962406508104
+      LG_Wild_41: -6183019974412143394
+      LG_Wild_42: -6009731731372092392
+      LG_Wild_43: -8709166945245305317
+      LG_Wild_44: -8597398673364694918
+      LG_Wild_45: -8758502273237202807
+      LG_Wild_46: -959612739757488118
+      LG_Wild_47: -6807547492142544324
+      LG_Wild_48: 6868418849364039889
+      LG_Wild_49: 3476980426165421387
+      LG_Wild_5: -516327289624180370
+      LG_Wild_50: -4563813486486181387
+      LG_Wild_51: -698599868016174625
+      LG_Wild_52: 5897679505514871789
+      LG_Wild_53: 5503127939882854595
+      LG_Wild_54: 3285458842317505007
+      LG_Wild_55: -3835380575243388302
+      LG_Wild_56: -8550305987292844981
+      LG_Wild_57: 1725654133125177424
+      LG_Wild_58: -407466272381462511
+      LG_Wild_59: -4409927775912007904
+      LG_Wild_6: 3616169421529318602
+      LG_Wild_60: 6538004376988141682
+      LG_Wild_61: -295256681382784845
+      LG_Wild_62: -7248730702566174977
+      LG_Wild_63: 4473441718844030621
+      LG_Wild_64: -4181376831344280224
+      LG_Wild_65: -3717939346328397194
+      LG_Wild_66: 6138886484080638240
+      LG_Wild_67: -9129543671770429166
+      LG_Wild_68: 2745488670658545001
+      LG_Wild_69: -2166322943319937773
+      LG_Wild_7: 414953652418718709
+      LG_Wild_70: 163162686566092223
+      LG_Wild_71: 1046567308803228093
+      LG_Wild_72: 5561044934319986552
+      LG_Wild_73: 1330509220197710445
+      LG_Wild_74: -3416008911173182471
+      LG_Wild_75: -5303130668230950063
+      LG_Wild_76: -4790489556035840260
+      LG_Wild_77: -8194802532102662879
+      LG_Wild_78: -465747875258824018
+      LG_Wild_79: -5270197499036170384
+      LG_Wild_8: -8896750053114155505
+      LG_Wild_80: -4941868513273986025
+      LG_Wild_81: -1142330275635889340
+      LG_Wild_82: -5961914690637310492
+      LG_Wild_83: -7598544548696045102
+      LG_Wild_84: -5742283539730089225
+      LG_Wild_85: 8297716976529635615
+      LG_Wild_86: -860113296403211959
+      LG_Wild_87: 8136171095985572961
+      LG_Wild_88: 9121261512224617285
+      LG_Wild_89: -6957951770690729601
+      LG_Wild_9: 2740383419857334616
+      LG_Wild_90: 7511657976559564891
+      LG_Wild_91: 4773158139062355521
+      LG_Wild_92: 6553192401983038078
+      LG_Wild_93: -2214173834519046395
+      LG_Wild_94: -5015588247389679034
+      LG_Wild_95: 9153200089128849647
+      LG_Wild_96: -6727820281074563264
+      LG_Wild_97: -2071732143913879970
+      LG_Wild_98: -4212379119473342529
+      LG_Wild_99: 1795411852075024002
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ceee544cdc163143abe86ac74acf83f, type: 3}
+  m_Name: Pay Table Database SO
+  m_EditorClassIdentifier: Assembly-CSharp::PayTableDatabaseSO
+  entries:
+  - {fileID: 11400000, guid: 6ab0e21298956d74fb5bf803acb8380f, type: 2}
+  - {fileID: 11400000, guid: c69eda5e28fee764993ed87257afd705, type: 2}
+  - {fileID: 11400000, guid: 9ff771a58444ce54e8efa334ddfdb5ec, type: 2}
+  - {fileID: 11400000, guid: 358e33cc6b82d7f46ac1f133b7f71228, type: 2}
+  - {fileID: 11400000, guid: f453dbb4034c2754284af4cb64cf17dc, type: 2}
+  - {fileID: 11400000, guid: b7694559e659bca439dfd81c818b8111, type: 2}
+  - {fileID: 11400000, guid: 9a9e96f8b4d4f6b4da6fa7f613750e3c, type: 2}
+  - {fileID: 11400000, guid: 777c1defd6f573847aec2156decfd22b, type: 2}
+  - {fileID: 11400000, guid: f687a313d11f5b147950e6a1a67dcce3, type: 2}
+  - {fileID: 11400000, guid: 2b221ec871812424b98721112bc9def2, type: 2}
+  - {fileID: 11400000, guid: a84cf3d64e036494081d517ee479b9a4, type: 2}

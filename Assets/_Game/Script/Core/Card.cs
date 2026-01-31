@@ -16,4 +16,6 @@ public class Card : MonoBehaviour
 
     public int Id;// => config.id;
     public int Value;// => config.value;
+
+  
 }

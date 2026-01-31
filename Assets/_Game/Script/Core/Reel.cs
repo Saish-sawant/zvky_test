@@ -126,10 +126,10 @@ public class Reel
 
     public void SetForcedResult(int top, int center, int bottom)
     {
-         topSymbol = top;
+        topSymbol = top;
         centerSymbol = center;
         bottomSymbol = bottom;
-        
+
     }
 
     void InjectFinalCards()
@@ -174,8 +174,32 @@ public class Reel
         };
     }
 
+    // public Transform[] GetVisibleSymbolTransforms()
+    // {
+    //     int centerIndex = config.totalCards / 2;
 
+    //     // Order: TOP, CENTER, BOTTOM
+    //     return new Transform[]
+    //     {
+    //     cards[centerIndex - 1].transform, // top
+    //     cards[centerIndex].transform,     // center
+    //     cards[centerIndex + 1].transform  // bottom
+    //     };
+    // }
+    public Card[] GetVisibleCards()
+    {
+        int centerIndex = config.totalCards / 2;
 
+        // Order: TOP, CENTER, BOTTOM
+        return new Card[]
+        {
+        cards[centerIndex - 1], // top
+        cards[centerIndex],     // center
+        cards[centerIndex + 1]  // bottom
+        };
+    }
+
+    
     void FinishStop()
     {
         isSpinning = false;
@@ -193,6 +217,7 @@ public class Reel
 
             card.transform.localPosition = new Vector3(0f, snappedY, 0f);
         }
+        ReelsManager.Instance.NotifyReelStopped();
     }
 
     // -----------------------------

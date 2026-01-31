@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 using UnityEngine;
 
 public class PatternManager
@@ -15,38 +16,44 @@ public class PatternManager
         this.payTable = payTable;
     }
 
-    public float Evaluate(
-        int[,] grid,
-        float bet)
+   public List<PatternMatchResult> Evaluate(
+    int[,] grid,
+    float bet,
+    out float totalWin)
+{
+    totalWin = 0f;
+    List<PatternMatchResult> results = new();
+
+    foreach (var pattern in patternDatabase.patterns)
     {
-        float totalWin = 0f;
+        int symbolId;
+        int count;
 
-        foreach (var pattern in patternDatabase.patterns)
+        if (!MatchesPattern(grid, pattern, out symbolId, out count))
+            continue;
+
+        if (count < 3)
+            continue;
+
+        float multiplier = payTable.GetMultiplier(symbolId, count);
+        float win = bet * multiplier;
+
+        if (win > 0)
         {
-            int symbolId;
-            int count;
+            totalWin += win;
 
-            if (!MatchesPattern(grid, pattern, out symbolId, out count))
-                continue;
-
-            if (count < 3)
-                continue;
-
-            float multiplier = payTable.GetMultiplier(symbolId, count);
-            float win = bet * multiplier;
-
-            if (win > 0)
+            results.Add(new PatternMatchResult
             {
-                totalWin += win;
-
-                Debug.Log(
-                    $"WIN → Pattern {pattern.patternId} | Symbol {symbolId} | Count {count} | x{multiplier} = {win}"
-                );
-            }
+                pattern = pattern,
+                symbolId = symbolId,
+                count = count
+            });
         }
-
-        return totalWin;
     }
+
+    return results;
+}
+
 
     bool MatchesPattern(
         int[,] grid,
@@ -78,4 +85,10 @@ public class PatternManager
 
         return count >= 3;
     }
+}
+public class PatternMatchResult
+{
+    public SlotPatternSO pattern;
+    public int symbolId;
+    public int count;
 }

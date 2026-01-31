@@ -7,4 +7,5 @@ using UnityEngine;
 public class CardConfigSO : ScriptableObject
 {
     public CardConfig config;
+    
 }

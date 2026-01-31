@@ -9,4 +9,5 @@ public class CardConfig
     [Tooltip("Base payout x100 for 3-of-a-kind")]
     public int value; 
     public int weight = 1;
+    public AnimationClip winClip;
 }

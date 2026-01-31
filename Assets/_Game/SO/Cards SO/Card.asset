@@ -17,3 +17,4 @@ MonoBehaviour:
     sprite: {fileID: -6671282886758728463, guid: 46d30c730cb4d5f40a4f0d4a77910512, type: 3}
     value: 10
     weight: 1
+    winClip: {fileID: 7400000, guid: 6c9222b46c545fc459e75c5c78e42ae3, type: 2}

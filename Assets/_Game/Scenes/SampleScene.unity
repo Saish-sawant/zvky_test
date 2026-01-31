@@ -1065,7 +1065,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5467653996180691750, guid: 07cd299e128b9ef48b67c441a5187249, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1135,7 +1135,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5467653996180691750, guid: 07cd299e128b9ef48b67c441a5187249, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1205,7 +1205,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5467653996180691750, guid: 07cd299e128b9ef48b67c441a5187249, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1461,7 +1461,7 @@ SpriteMask:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+  m_Sprite: {fileID: 10911, guid: 0000000000000000f000000000000000, type: 0}
   m_MaskAlphaCutoff: 0.2
   m_FrontSortingLayerID: 0
   m_BackSortingLayerID: 0
@@ -1836,7 +1836,7 @@ LineRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
+  - {fileID: 2100000, guid: d8398d490afc46d4eb3586034f23c6de, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1881,9 +1881,9 @@ LineRenderer:
       m_RotationOrder: 4
     colorGradient:
       serializedVersion: 2
-      key0: {r: 1, g: 1, b: 1, a: 1}
-      key1: {r: 1, g: 1, b: 1, a: 1}
-      key2: {r: 0, g: 0, b: 0, a: 0}
+      key0: {r: 0.29814878, g: 0.9433962, b: 0.9433962, a: 1}
+      key1: {r: 0.15686272, g: 0.81960785, b: 0.518744, a: 1}
+      key2: {r: 0.8207547, g: 0.5593049, b: 0.15873085, a: 0}
       key3: {r: 0, g: 0, b: 0, a: 0}
       key4: {r: 0, g: 0, b: 0, a: 0}
       key5: {r: 0, g: 0, b: 0, a: 0}
@@ -1891,7 +1891,7 @@ LineRenderer:
       key7: {r: 0, g: 0, b: 0, a: 0}
       ctime0: 0
       ctime1: 65535
-      ctime2: 0
+      ctime2: 65535
       ctime3: 0
       ctime4: 0
       ctime5: 0
@@ -1906,7 +1906,7 @@ LineRenderer:
       atime6: 0
       atime7: 0
       m_Mode: 0
-      m_ColorSpace: -1
+      m_ColorSpace: 0
       m_NumColorKeys: 2
       m_NumAlphaKeys: 2
     numCornerVertices: 0
@@ -1951,7 +1951,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1535028374
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1959,7 +1959,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1535028373}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 858f3725da3c95443b4c2cad06636c82, type: 3}
   m_Name: 
@@ -2240,6 +2240,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1885481327}
   - component: {fileID: 1885481326}
+  - component: {fileID: 1885481328}
   m_Layer: 0
   m_Name: Line renderer
   m_TagString: Untagged
@@ -2275,6 +2276,21 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1885481328
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1885481325}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 758f4280615d5c9459e9850b1ba8f842, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PayLineController
+  paylineRenderer: {fileID: 1885481326}
+  lineShowDuration: 1.2
+  reelsManager: {fileID: 2006329294}
 --- !u!1 &1980978924
 GameObject:
   m_ObjectHideFlags: 0
@@ -2437,6 +2453,7 @@ MonoBehaviour:
   cardHolderParent: {fileID: 1143732021}
   initialPoolSize: 30
   cardDatabase: {fileID: 11400000, guid: 8cf5456e3db8695488d6cdff199b9b4d, type: 2}
+  paylineController: {fileID: 1885481328}
 --- !u!1001 &2052624115
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2495,7 +2512,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5467653996180691750, guid: 07cd299e128b9ef48b67c441a5187249, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2565,7 +2582,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5467653996180691750, guid: 07cd299e128b9ef48b67c441a5187249, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2588,6 +2605,6 @@ SceneRoots:
   - {fileID: 447808240}
   - {fileID: 1639061116}
   - {fileID: 1143732021}
-  - {fileID: 1885481327}
   - {fileID: 1466782320}
+  - {fileID: 1885481327}
   - {fileID: 1535028375}

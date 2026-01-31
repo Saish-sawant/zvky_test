@@ -30,7 +30,7 @@ public class ReelsManager : MonoBehaviour
     [SerializeField] float spinStartDelay = 0.5f;
 
 
-[SerializeField] PayTableDatabaseSO payTable;
+    [SerializeField] PayTableDatabaseSO payTable;
 
     public Transform reel1, reel2, reel3, reel4, reel5;
 
@@ -105,7 +105,7 @@ public class ReelsManager : MonoBehaviour
         {
             reel.StartSpin();
             yield return new WaitForSeconds(spinStartDelay);
-            NotifyReelStopped();
+            //NotifyReelStopped();
         }
     }
 
@@ -124,6 +124,39 @@ public class ReelsManager : MonoBehaviour
     //         reel.SetForcedResult(top, center, bottom);
     //     }
     // }
+    // 
+    // public Transform[,] BuildSymbolTransforms()
+    // {
+    //     Transform[,] grid = new Transform[3, 5];
+
+    //     for (int col = 0; col < reels.Count; col++)
+    //     {
+    //         Transform[] symbols = reels[col].GetVisibleSymbolTransforms();
+
+    //         grid[0, col] = symbols[0]; // top
+    //         grid[1, col] = symbols[1]; // center
+    //         grid[2, col] = symbols[2]; // bottom
+    //     }
+
+    //     return grid;
+    // }
+    public Card[,] BuildCardGrid()
+    {
+        Card[,] grid = new Card[3, 5];
+
+        for (int col = 0; col < reels.Count; col++)
+        {
+            Card[] visible = reels[col].GetVisibleCards();
+
+            grid[0, col] = visible[0];
+            grid[1, col] = visible[1];
+            grid[2, col] = visible[2];
+        }
+
+        return grid;
+    }
+
+
     void AssignRandomResults()
     {
         // Top row = win
@@ -149,14 +182,20 @@ public class ReelsManager : MonoBehaviour
 
         return grid;
     }
-
+    public PaylineController paylineController;
     void EvaluatePatterns()
     {
         int[,] grid = BuildGrid();
 
-         float win = patternManager.Evaluate(grid, currentBet);
+        float totalWin;
+        List<PatternMatchResult> wins =
+            patternManager.Evaluate(grid, currentBet, out totalWin);
 
-        Debug.Log("TOTAL WIN: " + win);
+        Debug.Log("TOTAL WIN: " + totalWin);
+
+        if (wins.Count > 0)
+            paylineController.PlayWinningPaylines(wins);
+
     }
 
 

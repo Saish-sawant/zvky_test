@@ -11,7 +11,6 @@ GameObject:
   - component: {fileID: 592510643700549025}
   - component: {fileID: 5249118131832368759}
   - component: {fileID: 1743445764970588045}
-  - component: {fileID: 3894498701228614621}
   m_Layer: 0
   m_Name: Square
   m_TagString: Untagged
@@ -107,20 +106,3 @@ MonoBehaviour:
   image: {fileID: 5249118131832368759}
   Id: 0
   Value: 0
-  anim: {fileID: 3894498701228614621}
---- !u!111 &3894498701228614621
-Animation:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5467653996180691750}
-  m_Enabled: 1
-  serializedVersion: 4
-  m_Animation: {fileID: 7400000, guid: 6c9222b46c545fc459e75c5c78e42ae3, type: 2}
-  m_Animations: []
-  m_WrapMode: 0
-  m_PlayAutomatically: 1
-  m_AnimatePhysics: 0
-  m_UpdateMode: 0
-  m_CullingType: 0

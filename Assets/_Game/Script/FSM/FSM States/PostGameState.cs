@@ -1,22 +1,24 @@
 using UnityEngine;
-
-public class PostGameState : IState
+namespace SpinWheel
 {
-    private GameManager game;
-
-    public PostGameState(GameManager game)
+    public class PostGameState : IState
     {
-        this.game = game;
-    }
+        private GameManager game;
 
-    public void Enter()
-    {
-        Debug.Log("🏁 PostGame: Show Result");
-        // Show payout / ads
-    }
+        public PostGameState(GameManager game)
+        {
+            this.game = game;
+        }
 
-    public void Exit()
-    {
-        // Hide result UI
+        public void Enter()
+        {
+            Debug.Log("🏁 PostGame: Show Result");
+            // Show payout / ads
+        }
+
+        public void Exit()
+        {
+            // Hide result UI
+        }
     }
 }

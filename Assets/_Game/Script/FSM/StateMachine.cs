@@ -1,19 +1,22 @@
-public class StateMachine
+namespace SpinWheel
 {
-    public IState CurrentState { get; private set; }
-
-    public void ChangeState(IState nextState)
+    public class StateMachine
     {
-        if (CurrentState == nextState)
-            return;
+        public IState CurrentState { get; private set; }
 
-        CurrentState?.Exit();
-        CurrentState = nextState;
-        CurrentState.Enter();
+        public void ChangeState(IState nextState)
+        {
+            if (CurrentState == nextState)
+                return;
+
+            CurrentState?.Exit();
+            CurrentState = nextState;
+            CurrentState.Enter();
+        }
     }
-}
-public interface IState
-{
-    void Enter();
-    void Exit();
+    public interface IState
+    {
+        void Enter();
+        void Exit();
+    }
 }

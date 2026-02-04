@@ -119,37 +119,15 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 3x3_reel_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 206
-        width: 5
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1d6fdc9097854ec60800000000000000
-      internalID: 7846493727665026769
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: 3x3_reel_1
       rect:
         serializedVersion: 2
-        x: 53
-        y: 0
-        width: 1518
-        height: 1005
+        x: 115
+        y: 114
+        width: 1363
+        height: 815
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -162,33 +140,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: 3x3_reel_2
-      rect:
-        serializedVersion: 2
-        x: 1605
-        y: 206
-        width: 5
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 43d93e39c2712f550800000000000000
-      internalID: 6193037917815020852
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 11459f694c899614e923652e4347b7b4
     internalID: 0
     vertices: []
     indices: 

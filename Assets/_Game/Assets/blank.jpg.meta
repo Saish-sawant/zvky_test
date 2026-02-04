@@ -1,28 +1,10 @@
 fileFormatVersion: 2
-guid: adb3d8b858125744fbcb7e0669c17b7e
+guid: 99c9c3e02f6fe0143b71015ec2b493f5
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4472229585101202529
-    second: subheader_0
-  - first:
-      213: -4430734042649691933
-    second: subheader_1
-  - first:
-      213: -5381189546971100764
-    second: subheader_2
-  - first:
-      213: -1859031984292352373
-    second: subheader_3
-  - first:
-      213: -637293582107462821
-    second: subheader_4
-  - first:
-      213: -8677795363688467738
-    second: subheader_5
-  - first:
-      213: -4718936056154677376
-    second: subheader_6
+      213: -302647306954690114
+    second: white-square-background-56v690fpm25a3o6s_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -131,23 +113,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: subheader_0
+      name: white-square-background-56v690fpm25a3o6s_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 2
-        width: 846
-        height: 45
+        y: 0
+        width: 1000
+        height: 1000
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f9bdc0223e27fe1c0800000000000000
-      internalID: -4472229585101202529
+      spriteID: eb1bcb8b0e7cccbf0800000000000000
+      internalID: -302647306954690114
       vertices: []
       indices: 
       edges: []
@@ -156,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: f882325da84db4f4194b3ecdb1c8e105
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -166,13 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      subheader_0: -4472229585101202529
-      subheader_1: -4430734042649691933
-      subheader_2: -5381189546971100764
-      subheader_3: -1859031984292352373
-      subheader_4: -637293582107462821
-      subheader_5: -8677795363688467738
-      subheader_6: -4718936056154677376
+      white-square-background-56v690fpm25a3o6s_0: -302647306954690114
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

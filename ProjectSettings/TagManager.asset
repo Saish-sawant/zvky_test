@@ -41,6 +41,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: BG
+    uniqueID: 140059719
+    locked: 0
+  - name: Slot
+    uniqueID: 3874658809
+    locked: 0
+  - name: Cards
+    uniqueID: 31567815
+    locked: 0
   - name: PayLine
     uniqueID: 3340946417
     locked: 0

@@ -1,33 +1,35 @@
 using System.Collections;
 using UnityEngine;
-
-public class AssetLoader
+namespace SpinWheel
 {
-    public float Progress { get; private set; }
-
-    public IEnumerator LoadAllAssets()
+    public class AssetLoader
     {
-        Progress = 0f;
+        public float Progress { get; private set; }
 
-        // Example asset groups
-        yield return LoadGroup(0.3f); // UI
-        yield return LoadGroup(0.3f); // Gameplay
-        yield return LoadGroup(0.4f); // Audio / VFX
-
-        Progress = 1f;
-    }
-
-    IEnumerator LoadGroup(float weight)
-    {
-        float start = Progress;
-        float target = Progress + weight;
-
-        float t = 0f;
-        while (t < 1f)
+        public IEnumerator LoadAllAssets()
         {
-            t += Time.deltaTime;
-            Progress = Mathf.Lerp(start, target, t);
-            yield return null;
+            Progress = 0f;
+
+            // Example asset groups
+            yield return LoadGroup(0.3f); // UI
+            yield return LoadGroup(0.3f); // Gameplay
+            yield return LoadGroup(0.4f); // Audio / VFX
+
+            Progress = 1f;
+        }
+
+        IEnumerator LoadGroup(float weight)
+        {
+            float start = Progress;
+            float target = Progress + weight;
+
+            float t = 0f;
+            while (t < 1f)
+            {
+                t += Time.deltaTime;
+                Progress = Mathf.Lerp(start, target, t);
+                yield return null;
+            }
         }
     }
 }

@@ -1,18 +1,20 @@
 using UnityEngine;
 using UnityEngine.UI;
-
-public class SplashUI : MonoBehaviour
+namespace SpinWheel
 {
-    [SerializeField] Slider progressBar;
-    [SerializeField] TMPro.TextMeshProUGUI percentText;
-
-    void Update()
+    public class SplashUI : MonoBehaviour
     {
-        if (GameManager.Instance == null)
-            return;
+        [SerializeField] Slider progressBar;
+        
 
-        float p = GameManager.Instance.LoadProgress;
-        progressBar.value = p;
-        percentText.text = $"{Mathf.RoundToInt(p * 100)}%";
+        void Update()
+        {
+            if (GameManager.Instance == null)
+                return;
+
+            float p = GameManager.Instance.LoadProgress;
+            progressBar.value = p;
+            
+        }
     }
 }

@@ -1,60 +1,98 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PaylineController : MonoBehaviour
+namespace SpinWheel
 {
-    [SerializeField] PaylineRenderer paylineRenderer;
-    [SerializeField] float lineShowDuration = 0.5f;
-    [SerializeField] ReelsManager reelsManager;
-
-    Coroutine playRoutine;
-
-    public void PlayWinningPaylines(List<PatternMatchResult> results)
+    /// <summary>
+    /// Responsible for visualizing winning paylines.
+    /// Plays payline drawing and card win animations sequentially.
+    /// </summary>
+    public class PaylineController : MonoBehaviour
     {
-        if (playRoutine != null)
-            StopCoroutine(playRoutine);
+        [SerializeField] private PaylineRenderer paylineRenderer;
+        [SerializeField] private ReelsManager reelsManager;
+        [SerializeField] private float lineShowDuration = 0.5f;
 
-        playRoutine = StartCoroutine(PlayRoutine(results));
-    }
+        private Coroutine playRoutine;
 
-    IEnumerator PlayRoutine(List<PatternMatchResult> results)
-    {
-        Card[,] grid = reelsManager.BuildCardGrid();
+        /// <summary>
+        /// Fired when all winning paylines have finished playing.
+        /// Used to unlock spin / continue flow.
+        /// </summary>
+        public event Action OnPaylinesFinished;
 
-        foreach (var result in results)
+        // -----------------------------
+        // PUBLIC API
+        // -----------------------------
+
+        /// <summary>
+        /// Starts playing all winning paylines.
+        /// If another sequence is already playing, it is stopped.
+        /// </summary>
+        public void PlayWinningPaylines(List<PatternMatchResult> results)
         {
-            yield return DrawPattern(result.pattern, grid);
+            if (playRoutine != null)
+                StopCoroutine(playRoutine);
+
+            playRoutine = StartCoroutine(PlayRoutine(results));
         }
-    }
 
-    IEnumerator DrawPattern(SlotPatternSO pattern, Card[,] grid)
-    {
-        List<Vector3> points = new();
-
-        for (int r = 0; r < pattern.rows; r++)
+        /// <summary>
+        /// Clears any currently drawn payline.
+        /// </summary>
+        public void ResetPaylines()
         {
-            for (int c = 0; c < pattern.columns; c++)
+            paylineRenderer.ClearLine();
+        }
+
+        // -----------------------------
+        // CORE ROUTINES
+        // -----------------------------
+
+        private IEnumerator PlayRoutine(List<PatternMatchResult> results)
+        {
+            // Snapshot of current visible cards
+            Card[,] grid = reelsManager.BuildCardGrid();
+
+            foreach (var result in results)
             {
-                if (!pattern.GetCell(r, c))
-                    continue;
+                yield return DrawPattern(result.pattern, grid);
+            }
 
-                Card card = grid[r, c];
+            ResetPaylines();
+            OnPaylinesFinished?.Invoke();
+        }
 
-                // position for payline
-                points.Add(card.transform.position);
+        /// <summary>
+        /// Draws a single payline pattern and plays win animation on cards.
+        /// </summary>
+        private IEnumerator DrawPattern(SlotPatternSO pattern, Card[,] grid)
+        {
+            List<Vector3> points = new();
 
-                // OPTIONAL: visual feedback
-                card.PlayWin();
+            for (int r = 0; r < pattern.rows; r++)
+            {
+                for (int c = 0; c < pattern.columns; c++)
+                {
+                    if (!pattern.GetCell(r, c))
+                        continue;
 
-                paylineRenderer.DrawLine(points);
-                yield return new WaitForSeconds(lineShowDuration);
+                    Card card = grid[r, c];
+
+                    // Add world position for payline
+                    points.Add(card.transform.position);
+
+                    // Trigger card win animation
+                    card.PlayWin();
+
+                    // Draw progressively
+                    paylineRenderer.DrawLine(points);
+
+                    yield return new WaitForSeconds(lineShowDuration);
+                }
             }
         }
-
-        // Optional cleanup
-        // foreach (var card in highlightedCards)
-        //     card.StopWin();
     }
-
 }

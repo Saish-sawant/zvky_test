@@ -1,11 +1,17 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/// <summary>
+/// Evaluates slot patterns against a symbol grid
+/// and calculates wins using a paytable.
+/// Pure logic class (no MonoBehaviour).
+/// </summary>
 public class PatternManager
 {
-    private PatternDatabaseSO patternDatabase;
-    private PayTableDatabaseSO payTable;
+    private readonly PatternDatabaseSO patternDatabase;
+    private readonly PayTableDatabaseSO payTable;
 
+    // Special symbol ID used as wildcard
     private const int WILD_ID = 0;
 
     public PatternManager(
@@ -16,30 +22,35 @@ public class PatternManager
         this.payTable = payTable;
     }
 
-   public List<PatternMatchResult> Evaluate(
-    int[,] grid,
-    float bet,
-    out float totalWin)
-{
-    totalWin = 0f;
-    List<PatternMatchResult> results = new();
-
-    foreach (var pattern in patternDatabase.patterns)
+    /// <summary>
+    /// Evaluates all patterns against the grid and returns win results.
+    /// </summary>
+    /// <param name="grid">Final visible symbol grid [rows, columns]</param>
+    /// <param name="bet">Current bet amount</param>
+    /// <param name="totalWin">Total win amount (output)</param>
+    public List<PatternMatchResult> Evaluate(
+        int[,] grid,
+        float bet,
+        out float totalWin)
     {
-        int symbolId;
-        int count;
+        totalWin = 0f;
+        List<PatternMatchResult> results = new();
 
-        if (!MatchesPattern(grid, pattern, out symbolId, out count))
-            continue;
-
-        if (count < 3)
-            continue;
-
-        float multiplier = payTable.GetMultiplier(symbolId, count);
-        float win = bet * multiplier;
-
-        if (win > 0)
+        foreach (var pattern in patternDatabase.patterns)
         {
+            if (!MatchesPattern(grid, pattern, out int symbolId, out int count))
+                continue;
+
+            // Minimum match requirement
+            if (count < 3)
+                continue;
+
+            float multiplier = payTable.GetMultiplier(symbolId, count);
+            float win = bet * multiplier;
+
+            if (win <= 0)
+                continue;
+
             totalWin += win;
 
             results.Add(new PatternMatchResult
@@ -49,13 +60,15 @@ public class PatternManager
                 count = count
             });
         }
+
+        return results;
     }
 
-    return results;
-}
-
-
-    bool MatchesPattern(
+    /// <summary>
+    /// Checks whether a grid matches a given pattern.
+    /// Supports wild symbols.
+    /// </summary>
+    private bool MatchesPattern(
         int[,] grid,
         SlotPatternSO pattern,
         out int symbolId,
@@ -73,9 +86,11 @@ public class PatternManager
 
                 int symbol = grid[r, c];
 
+                // Lock first non-wild symbol as reference
                 if (symbolId == -1 && symbol != WILD_ID)
                     symbolId = symbol;
 
+                // Match if same symbol or wild
                 if (symbol == symbolId || symbol == WILD_ID)
                     count++;
                 else
@@ -86,6 +101,10 @@ public class PatternManager
         return count >= 3;
     }
 }
+
+/// <summary>
+/// Result data for a matched slot pattern.
+/// </summary>
 public class PatternMatchResult
 {
     public SlotPatternSO pattern;

@@ -1,24 +1,26 @@
 using UnityEngine;
-
-public class InGameState : IState
+namespace SpinWheel
 {
-    private GameManager game;
-
-    public InGameState(GameManager game)
+    public class InGameState : IState
     {
-        this.game = game;
-    }
+        private GameManager game;
 
-    public void Enter()
-    {
-        Debug.Log("🎰 InGame: Spin Started");
+        public InGameState(GameManager game)
+        {
+            this.game = game;
+        }
 
-        // Start spin here
-        // When spin ends -> game.OnSpinEnded();
-    }
+        public void Enter()
+        {
+            Debug.Log("🎰 InGame: Spin Started");
 
-    public void Exit()
-    {
-        // Stop input
+            // Start spin here
+            // When spin ends -> game.OnSpinEnded();
+        }
+
+        public void Exit()
+        {
+            // Stop input
+        }
     }
 }

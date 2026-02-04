@@ -1,81 +1,83 @@
 using UnityEngine;
 using System.Collections;
-
-public class Card : MonoBehaviour
+namespace SpinWheel
 {
-    [SerializeField] SpriteRenderer image;
-    
-
-    private CardConfig config;
-    
-
-    private Coroutine winRoutine;
-    private Vector3 defaultScale;
-
-    public int Id;
-    public int Value;
-
-    void Awake()
+    public class Card : MonoBehaviour
     {
-        defaultScale = transform.localScale;
+        [SerializeField] SpriteRenderer image;
 
-        
-    }
 
-    public void ApplyConfig(CardConfig newConfig)
-    {
-        config = newConfig;
+        private CardConfig config;
 
-        image.sprite = config.sprite;
-        Id = config.id;
-        Value = config.value;
 
-        
-    }
+        private Coroutine winRoutine;
+        private Vector3 defaultScale;
 
-    
-    // ---------------- WIN ----------------
+        public int Id;
+        public int Value;
 
-    public void PlayWin()
-    {
-        StopWin();
-
-        
-
-        winRoutine = StartCoroutine(WinPulse());
-    }
-
-    public void StopWin()
-    {
-        if (winRoutine != null)
+        void Awake()
         {
-            StopCoroutine(winRoutine);
+            defaultScale = transform.localScale;
+
+
+        }
+
+        public void ApplyConfig(CardConfig newConfig)
+        {
+            config = newConfig;
+
+            image.sprite = config.sprite;
+            Id = config.id;
+            Value = config.value;
+
+
+        }
+
+
+        // ---------------- WIN ----------------
+
+        public void PlayWin()
+        {
+            StopWin();
+
+
+
+            winRoutine = StartCoroutine(WinPulse());
+        }
+
+        public void StopWin()
+        {
+            if (winRoutine != null)
+            {
+                StopCoroutine(winRoutine);
+                winRoutine = null;
+            }
+
+            transform.localScale = defaultScale;
+
+        }
+
+        IEnumerator WinPulse()
+        {
+            float duration = 0.4f;
+            float scaleAmount = 0.15f;
+            float elapsed = 0f;
+
+            while (elapsed < duration)
+            {
+                elapsed += Time.deltaTime;
+                float t = elapsed / duration;
+                float pulse = Mathf.Sin(t * Mathf.PI);
+
+                transform.localScale =
+                    defaultScale * (1f + pulse * scaleAmount);
+
+                yield return null;
+            }
+
+            transform.localScale = defaultScale;
             winRoutine = null;
         }
-
-        transform.localScale = defaultScale;
-       
-    }
-
-    IEnumerator WinPulse()
-    {
-        float duration = 0.4f;
-        float scaleAmount = 0.15f;
-        float elapsed = 0f;
-
-        while (elapsed < duration)
-        {
-            elapsed += Time.deltaTime;
-            float t = elapsed / duration;
-            float pulse = Mathf.Sin(t * Mathf.PI);
-
-            transform.localScale =
-                defaultScale * (1f + pulse * scaleAmount);
-
-            yield return null;
-        }
-
-        transform.localScale = defaultScale;
-        winRoutine = null;
     }
 }

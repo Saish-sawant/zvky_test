@@ -1,22 +1,25 @@
 using UnityEngine;
-
-public class PreGameState : IState
+namespace SpinWheel
 {
-    private GameManager game;
-
-    public PreGameState(GameManager game)
+    public class PreGameState : IState
     {
-        this.game = game;
-    }
+        private GameManager game;
 
-    public void Enter()
-    {
-        Debug.Log("💰 PreGame: Place Bet");
-        // Enable bet UI
-    }
+        public PreGameState(GameManager game)
+        {
+            this.game = game;
+        }
 
-    public void Exit()
-    {
-        // Disable bet UI
+        public void Enter()
+        {
+            Debug.Log("💰 PreGame: Place Bet");
+            ScreenManager.Instance.SetScreen(Screens.WelcomeScreen);
+            // Enable bet UI
+        }
+
+        public void Exit()
+        {
+            // Disable bet UI
+        }
     }
 }
